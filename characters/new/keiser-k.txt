@@ -1,0 +1,4 @@
+ west that sums up both. 
+ Outstanding!!!!!!!!!!!!!  That's the best news I've heard all day : ) 
+ Now that we know which traders will be moving over, or we should, we need to make a second pass at the EOL product list.  Can you confirm with your desk heads that the list of names we have is correct, and then update the product mappings by tomorrow afternoon?   O:\erms\erms_adm\netco\controls\Trader-Book template (US Gas)_EOL new books.xls   Thanks  KK 
+ Could we change the gas daily intra-month and index to GDM and GDY, rather than GDL and GDX.  Tell me how much trouble that is to change.  IT also made some changes to the physical org region names.  I will have to get you those changes.  Thanks 

@@ -1,0 +1,54 @@
+tral Desk pipes.  2.  I would prefer to address all items on Exhibit 1.  If possible I would like to see the original Exhibit 1 volumes and updated Exhibit 1 volumes through March 2001.  However, I don't remember buying back any baseload gas on TCO for April.  I thought we priced everything at FOM IF and every day, we are buying back gas at GD - $.01.  3.  Are you doing a buy sell with Erron at the same price?  Does Duke bill CES directly for this?  4.  See attached worksheets.  5.  I don't know all the information on the local production yet.  The pricing I'm currently using is the Exhibit 1 FOM deliverd pricing (pricing using ENA transport).  The attached April file has a Local Production tab. Molly Johnson is updating this information.  After she completes April, she will recreate Jan - Mar.  6.   Since the delivered pricing on TCO is the same, I'm not concerned about the individual citygate volumes.  For pricing purposes, I only care about total daily deliveries.   It would be a problem if you were trying to take additional gas from a non-constrained citygate to a constrained citygate and you don't have enough capacity.  This holds true for most other pipelines as well, Tenn Z6, CNG North Citygate, CNG South Citygate, ...  This would be a better question for Charlie to ask me when he is looking for something specific as it comes up.  The only thing I will not allow you to do is take gas from one pipeline to the other, Texas Gas Z4 to CGAS, and Colleen has discussed this with Melissa. 
+ I don't know a thing, but I think Mr. Goodell is an expert. 
+ All 3 of the TCO schedulers are back today and Joanie said she will get me an updated storage worksheet with the Choice information.  Also, Scott Goodell, Molly Johnson, Jeff Westover, and I are having lunch with Don and Ernie today.  We will be giving them the Feb (and maybe some March) invoices. 
+ Each month, Ed Glaum with CES in Herndon needs an invoice copy of the BUG release to CES.  Please send him the Feb and Mar activity.  His phone number is 703-561-6472, his fax number is 703-561-7317.  You and I may need to chat. 
+ I added all of these demand charges as "Actual" expense items to the 2000ces03 worksheet.  k#892722 - You De Woman!!!  k#892069 - added to deal 143316 k#892066 - added to deal 143315 k#892084 - added to deal 143318 k#892085 - deal 143319 k#892590 - deal 245855 - added to CES worksheet. 
+ You may not see this deal come through the normal process.  Please set up deal 245855.  Thanks   Brenda, this is for Tetco contract 892590 - the last contract on the email you sent me. 
+ We don't have a time frame and I have told her we need to sell the cows and the tractor. 
+ Hi gang.  Lunch with CES is on Wednesday, that day works better with Jeff. 
+ Hey, thats Mr. Turd to you. 
+ I love being a MAN!!!  Ain't life great? 
+ Joanie found the email from CALP stating they did receive the wire payment. Robin called Roman and gave him the info.  thanks Joanie. 
+ This morning, Roman Blake with CALP told Robin Barbe that CALP never received the payment for the wire transfer.  This is the first I've heard of this.  Mark, would you please verify that the payment went out.  I've copied Joanie because she talks to CALP quite often and I just want her to know what is going on.  Also, I have a copy of the March bill.  I will go through it today and give Mark a copy.  Thanks. 
+ Please add the following demand charges to the manual invoice.  Transport Demand $2,512,347.00 Sched Fee  $20,000.00  I may have included the scheduling fee in the manual invoice. 
+ Jeff, I highlighted all items that need to be suspended or changed in yellow.   I'm still working on the purchases.  I do have 2 significant purchase items that I want to include on the manual bill.  AND, I'm still working on the pipeline demand charges.  I call you with that number. 
+ Jeff, I have update this sheet for the actual storage to date.  I'm trying to keep this worksheet simple.  I added the actual numbers per navigator.  I think I need to add an Enron balance and a CES balance.  What do you guys think? 
+ According to Ed Santa with Iroq, we paid the disputed parking for June 1999 activity and we did not pay $860.00 of expnese in May 1998.  I not concerned about the June 1998.  Would you once again please verify what we paid Iroq on the disputed parking fee from May 1999 through July 1999?  thanks 
+ I didn't call be cause I got home at 11:00 PM..  I though you might be asleep. 
+ Seen this one? 
+ Molly and I discovered that CES has about 1400 dt of Texas Gas Zone SL to Z4 capacity each month.  Dayton releases this capacity to CES each month.  We have been using this capacity since Jan 1 to serve the CES Zone 4 markets. According to Steve, the primary path on this capacity is Zone SL to Dayton's meter in Zone 4.  I have been pricing all the Texas Gas Zone 4 at IF CNG App.  I believe we need to add a Texas Gas Zone SL IF  and make the premium $.01.  I have not brought this to CES's attention.  They will eventually catch it because we have been billing CES the transport demand charge. 
+ Hey guy, please copy Scott Goodell and Molly on anything you send me in the future.  Molly will be working with me on all the CES deals.  Her email address is Molly.Johnson@enron.com.  Thanks 
+ What happens if we sell CES spot gas??  It would be fixed price.  Maybe we could send CES a different type of report since they have so many deals.  What do you think?? 
+ I don't think CES has transport on these pipelines.  I should have February to you by next week some time. 
+ Please change the zone location for meters T0012 and T0A62 from North Other to South Other.  Thanks 
+ Why is Bill Clinton so reluctant to decide the fate of Elian Gonzalez?  Because last time he made a decision about where to put a Cuban, he was impeached. 
+ Hey gang, the room number has changed to 3084. 
+ FYI 
+ What should I tell the lawyer if she should call today? 
+ The meeting is in room 3259 from 3:00 - 4:00.  Experience has taught me that someone much more important may bump us.  This meeting will focus on the CGAS storage contract.  What we bill CES for storage injections will be different than what we actually inject.  April is a little more difficult because we will be injecting and withdrawing at the same time.  CGAS only bills on the net injections or withdrawal amounts.  The deals in Sitara are set up as CPR Storage for the injections and the withdrawals.  Which brings up the following issues; *   How do we bill CES for injections if we don't enter buy/sales with CES at the storage facility. Kate Fraser said there were never any BUG buy/sale tickets in Sitara for storage.  How did that work?  Mark, I'm counting on you for this one.  * How do we track the storage balance in Unify?  * How are the injection/withdrawal cost capture, especially since CGAS will bill on the net injections/withdrawals  I'm sure there are more issues that will come up during the meeting.  Thanks    Enron North America Corp. 
+ Could you get Terry authorization to path in Unify please?  Thanks 
+ Hey gang.  Joanie is still working on current day activity.  Joanie, please call Jeff Porter at 703-561-6447.  I will try to update this worksheet every other day if not every day. 
+ Please reserve a conference room for up to 7 people for 1 hour on Wednesday, April 12th around 2:30pm.  thanks 
+ OK.  Now either Mary Theresa Franklin or Angie needs to path out this deal in Unify with a zero volume. 
+ Don't I always get back to you within 10 min???? 
+ uhhh - ok  <=== see no caps. 
+ NO.  CALP is a wholesale contract. 
+ Chewies on the way!!!! 
+ Hey Anita, I changed the price and attached is my calculation.  Your rates are close enough as far as I'm concerned though. 
+ My worked.  How many times a week did you put down? 
+ I need to talk about how to handle CES storage in Sitara and Unify.  The people that need to be their are Jeff, Mark, Victor, and one ot the CGAS schedulers.  Please let me know if you can meet tomorrow afternoon around 2:30 pm.   Everyone else is more than welcome to attend.  Please let me know if you will be attending.  I will schedule a conference room after I know who is attending. 
+ Here is a quick and dirty worksheet.  I've been trying to come up with a total daily activity worksheet on "Sheet 2".  The storage numbers and choice numbers are on "Sheet 3" and the proxy numbers with the daily storage volumes are on "Sheet 1". 
+ I faxed you the PSNC invoices for Jan and Feb.  They have a little comment on their that PSNC has not been paid for either month yet.  Give me a call once you get these.  cg 
+ Hey Sparky!  FYI. 
+ Hey gang.  Dan caught my mistake.  Tenn fuels change in April.    March  April CNG Index $2.79  $3.06  Demand $.1000  $.0400 Comm  $.0521  $.0521 Fuel  1.28%  1.17%  Receipt Price $2.6029  $2.9327 
+ Hey guys.   I have a ton of emails to plow thru with CES buy look what I found.  The CES storage proxy schedule is at the bottom. 
+ This is a good time to bring this up.  Unless the original CES agreement has changed, ENA will pay CALP a monthly demand charge of $103,417 from 1/1/2000 - 4/30/2000.  From 6/1/2000 - 7/7/2000, ENA will pay a (volumetric) demand charge of $.02/mmbtu to CALP for any volumes utilized by ENA.  Which brings up 2 important points; 1.The month of May has not been addressed which means Robin needs to discuss this with CALP (and she may have already) However, currently we will not be showing any demand estimates for May.  2.  It's a new ball game starting 7/8/2000.  Comments/questions? 
+ I am taking off half a day PM on Dec 29th and Jan 1st - 3rd.  Please put this on Dicks calendar and the desk calendar.  thanks 
+ Hey guys.  I'm cleaning up my emails and I don't know if this was ever addressed.  Comments? 
+ Not bad.  Went to a John Zurita fish fry.  I rode to John's house with a power guy that lives in my complex and we stayed about 1 1/2 hours longer than I wanted to .  Live and learn.  Ankle is doing ok.  I wear an ankle brace and tennis shoes to work.  I start my 1st therapy session tomorrow. 
+ plugpower.com 
+ My January worksheet 
+ How much is this hot date gonna set me back - $2,000??? 
+ Here is the transport data for the Cook School Road   March  April CNG Index $2.79  $3.06  Demand $.1000  $.0400 Comm  $.0521  $.0521 Fuel  1.28%  1.28%  Receipt Price $2.6029  $2.9294  Let me know what you come up with.  Thanks 
+ Hey Anita, I apologize about the delay.  I have a lunch meeting with CES and I will call you after lunch.  I do have the fax you sent.  What is you phone number? 
+ I have my 1st therapy (physical not mental) session tomorrow at 3:00 PM and the lady said it would last for 1 1/2 hours.  Matt, why don't you go in my place, that sounds like it is going to hurt..  However, Scott Goodell will be here AND we have new and improved smaller cubes now. 
