@@ -9,20 +9,4 @@
  COULD YOU PLEASE MAKE SURE WE GET ALLOCATED CONGESTION CHARGES FOR THE FOLLOWING WHEEL: 9/24 HE2 8MW. HE3 100MW.  HE2 DID NOT PHYSICALLY FLOW AS IT WAS CUT BY US. THE CISO MESSED UP POSTING THE CONGESTION CHARGE AND POSTED FINALS WAY TO LATE).  THANKS GEIR 
  https://iso_si/iso/ 
  Please give me a call when you would like to meet. I will be available the rest of the week (503) 772-0515  Geir 
- Roger called to inform us that they will be doing a 5MW payback HE7 on.  It will come in the scrape as a firm schedule and there will be no schedule in the model.  Check tags EPE1152 and EPE1153 for more information.  Thanks, -John Anderson 
-  For Monday -  STNW is 35 mw short off peak @ Mid-Columbia.  Please cover these positions under the STWHOURLY book and enter an inter-desk swap with STNW to reconcile. Contact Bill, Sean, or me if you have any questions whatsoever about how to handle this.  Thanks, Kate 
- Hey..  The ISO forced balanced our PORTFOLIO for SUNDAY. They shifted EES load from SP15 to NP15 with Congestion and paid a lot of Congestion in the process. The Amounts are in The PGE3 LOAD zone under EES2. The amounts are as following.  HE8	8 HE10 	5 HE14	46 HE15	40 HE16	40 HE17	44 HE18	40 HE19	24  Could you please make sure to charge EES with the congestion charges and not RT.  Thanks. Geir 
- HEY KATE. COULD YOU PLEASE INCLUDE THE PRICES IN THESE EMAILS.  GEIR 
- Geir Solberg gsolberg@enron.com 
- Do not have a Schedule for August yet. 
- EES Power Settlements 
- http://www.co.clackamas.or.us/dtd/surreal/ http://www.co.travis.tx.us/tax_assessor/foreclosure/sales.asp http://www.creonline.com/articl85.htm http://www.aarons-investments.com/forum.htm 
- Hey Cara  BPA called me yesterday inquiring about tag 26486. They did not think the PSE was right from BIGEDDY/NOB. It says BPA, they claim it is ENRON. They told me to notify my pre-scheduleder on Monday so this could be straightened out.  Geir 
-     Here is the deal. 
-  Here is the deal. 
- Hey Guys.  The ISO cutting our off-peak imports from PV has been an ongoing problem. Now that we are doing congestion wheels again we can finally do something to avoid these cuts using congestion wheels.  Normally the ISO will cut our Import and shift our load from NP15 (PGE1&2&3) across the path to relieve the congestion. If you submit a congestion wheel there cannot be $30 cong,  thus they will not cut your schedule going in at PV.  Instead of shifting your load the ISO will award your congestion wheel and everybody will be happy. It is important to make your wheel larger then your import to ensure that part of your import not getting cut. I would recommend to put in the max number of MW's you think you can buy in the North and get rid of in the Desert. Go big in the off-peak, we submitted 200MW wheels Saturday and I think its safe to do similar size most nights.  Geir 
- Hey Guys!  I went through all the templates and removed the RT prefix for all the templates. You can now sort them alphabetically making the process of finding the right template a lot easier. From now on please do no use the RT prefix when creating new templates.  Geir 
- I HAD TO BUY THE TRANSMISSION FROM PAC TO BC BORDER TO MAKE SURE THE SCHEDULE FLOWED. THE DEAL# IS 650664. PLEASE FIGURE OUT WHO IS SUPPOSED TO PAY FOR THIS WHEEL AND BILL THEM.  GEIR 
-  ) 
- http://www.thestreet.com/_yahoo/comment/lockupexpirations/1413480.html 
- EPMI_CISO_AVISTA WA
+ Roger called to inform us that they will be doing a 5MW payback HE7 on.  

@@ -6,30 +6,4 @@
  lapka, konechno mozhno takoy zhe kamen' naiti, vse sdelaem, ne bespokoisia 
  Select pts.REF_PERIOD_DT, pts.CURVE_AMT FROM EGS.EGS_CURVE_DEF def, EGS.EGS_CURVE_POINTS pts WHERE def.CURVE_DEF_ID = pts.CURVE_DEF_ID AND def.CURVE_CD='NG' AND def.BOOK_TYPE_CD='P' AND def.CURVE_TYPE_CD='PR' AND def.EFFECTIVE_DT = TO_DATE('01-Oct-2001','DD-MON-YYYY')AND pts.REF_PERIOD_DT BETWEEN TO_DATE('01-Nov-2001','DD-MON-YYYY') AND TO_DATE('01-Oct-2007','DD-MON-YYYY') order by pts.REF_PERIOD_DT 
  Karen,  Here is my job description. I tried to make it broad to fit my possible move to another groups on the trading floor.  Please let me know if you need any additional information.  Vladi. 
- Hi everybody,  Here is the new slide template. It is reduced in size and also has more space available for information.  Dipak, Justin and Patrick, please make sure that you don't link to the data, your files were the biggest in size.  Vladi 
- just checking ;) 
- Nu che, Len, ti segodnia pridesh'? 
- we already bought the CD, gonna learn stuff by next spring 
- compro una CD de espanol para mi i mi novia Bonda. Nos Vamos a estudiar mucho para preparar por el viaje al Equador 
- Amanda,  please send the new template to everybody in the group.  Vladi 
- Gracias, amigo. No te preocupes, te boy a llamar, no estoy miedo de tiempo diferencia  Vladi 
- that's the right number 
- thank you very much Chrisito!!!  I should be home at around 9-10 o'clock we'll just go to a restaurant with Natalie today, the the big party is tomorrow. And I'm leaving to Moscow on thursday   A caballo!!!  Tu amigo Vladi 
- Spasibo za pozdravlenia!!!!  Postaraus' otmetit' ne xuzhe chem ran'she, kogda mi stoboy zazhigali ogni.  Poslednie novosti: Shipitsina rodila devochku 15 chisla, vse proshlo normal'no, zovut Dasha.  V chetverg ultayu na rodinu, tak chto pishi komu peredat' priveti  Vladik 
- Victor, thanks for forwarding these messages. Could you please also add Jon Mckay to the list so he could get all the pipeline updates. He is trading all the M3 and Z6 basis now.  thanks,  Vladi 
- Lapka, spasibo,  I tebia ochen' liubliu  CHMOK!!!! 
- funny 
- Home phone: (713) 993 00 67  Emergency Contact Name: Natalie Bondareva  Emergency Contact Phone: (713) 993 00 67 
- Hey guys,  in light of my quickly approaching 26th birthday I wanted to invite you all to dinner on tuesday October 2nd. I hope that nice company (and plenty of alcohol) will help me to forget about my age for at least one evening.  So, what do you say?  The place: Buca Di Beppo (Massimo can translate it for you), 5192 Buffalo Speedway. Map is attached. The place is really nice, not too expensive and a lot of fun. I think we could reserve a private room.  Time: October 2nd  7:30PM.  Please let me know if you can make it so I would know the exact number of people.  Hope to see y'all there.  Vlad. 
-   check out www.ubswenergy.com <http://www.ubswenergy.com> 
- http://www.arabia.com/news/article/english/0,1690,53160,00.html 
- http://news.bbc.co.uk/hi/english/business/newsid_1196000/1196928.stm "Aeroflot was able to get rid of most of its oldest planes. It has not crashed once in the past 10 years and its safety record is now considered equal to that of British Airways and Air France. " BBC 
- Chris,  I am sending you the file I was working on for John Lavorato if he asks about it while I am at the dentist.  If he wants another printout I've put it on your desk, otherwise I am gonna be back around 11.  Vladi 
- Jane,  Here are the GD prices you were asking for. Let me know if you need anything else  Vladi 
-  Due to the change of servers and moving of all ERMS  databases to the new locations old curve fetch files are not working properly.  I got our IT guys to fix the file you gave me. Everything looks OK now.  I got the new file attached.  Let me know if you have any questions.  Vladi 
- LApka, ne rasstraivaisia, eto bivaet. Mi tebe novoe kupim, eshe luche.  tvoy liubiashiy zaets 
- budet sdelano....  tol'ko chto dali kontrakt, ta zhe zarplata, nikakix bonusov, no zato net non-compete 
- nxb@allegrodevelopment.com 
- thanks man 
- Kim  I actually need all the data exported to excel.  Thanks,  Vladi 
- Chrisito,  thank you  very much for your warm letter.  I also wish you the best in this New year and want to tell you that you are my best friend too. I hope to see you this year.  A caballo!!!  Tu amigo Vladi  P.S. this is 
+ Hi everybody,  Here is the new slide template. It is reduced in size and also has more space available for information.  Dipak, Justin and Patrick, please make sure that you don't link to

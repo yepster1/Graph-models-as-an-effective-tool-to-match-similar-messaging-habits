@@ -1,52 +1,31 @@
-.  We still need to be careful regarding officializations for credit purposes.  Stacey 
- Will,  If you could attempt the following report I would greatly appreciate it.  I have given a best efforts try in report writer, but because I am pulling MTM value it is pulling every strip.  I need all options by flowing from today forward for the East and West portfolios.  I need deal date, start date, end date, premium, strike price, Monthly/Daily Option indicator, MTM value from AdHoc, Buy/Sell, Counterparty, Enron Entity, Call/Put, Deal Type, Region.  Thanks so much, Stacey   Call me tomorrow when I can start working - 281-894-0468. 
- The option query that we ran this morning does not tie back to AdHoc.  I first realized it when I was trying to clean up deals that had many strips.  There were instances where the P&L and delta were not consistent for every strip so I looked in AdHoc to see which number was right and that is when I started noticing inconsistencies.  Could you please query the P&L and Delta for the following deal numbers in spreadsheet.  The only way I have to do this is to query each deal separately in AdHoc.  Your help would be greatly appreciated.  Stacey  Phone numbers where I can be reached:  Home - 281-894-0468 Work - 713-853-1870  Thanks, Stacey 
- I have consolidated the changes in the following file:    Please change the trade date on all the newly created Bankruptcy Deals to the trade date of the original deal.  Also, please cross-reference in both transactions the associated deals numbers and document that the deal numbers are due to termination.  Also, check with Will Smith to make sure he has completed the Allegheny transfers (they were missed in the initial batch run) and then re-calc the 'Termination Test' portcalcs to ensure that the designated counterparties are not included in the old portfolios.  Also, check with Norman or Zhiyun to ensure that they have attached the port-calc code to the Bankruptcy portfolios and then we need to make test runs on them as well.   Thanks, Stacey 
- Can you please work on attaching the portcalc code to the Bankruptcy Portfolios first thing Monday morning.  Please reply to this e-mail when it is complete so we can begin testing the transactions we moved.  Thanks, Stacey  P.S.  Zhiyun, Thank you so much for the option data.  Stacey 
- Can you do mine? 
- Melissa,  Can you please attach the effective termination dates to your physical and financial termination lists.  We have yet to touch December, and need these dates before we can start.  Thanks, Stacey 
- The most updated termination lists are in the following files:    They are saved in m:\riskmgt\stacey\special projects\  Stacey 
- When you are done with the script please call Casey and John.  Thanks, Stacey 
-  Could you have someone put together the trader performance spreadsheet for November?  Thanks, Stacey 
- have you sent it to frank? 
- Thought you might need to know some of these names. Stacey 
- Frank,  Please ensure that Israel Estrada receives his previous access for IT purposes.  He was mistakenly removed on Friday.  Stacey 
- Please split up the following list and change the deal date back to the original deal date.  Thanks, Stacey 
- I don't.  Stacey 
- Call me tomorrow so we can discuss the following:  Employee morale Terminations with cash already paid Other terminations to ensure they are not affecting downstream systems Scheduling cuts  Thanks, Stacey 
- Corry,  I would love to start the process of cleaning up the scheduling system.  We will need help from the schedulers as well so can you send Duong Luu their logins and request the 'Zero Volumes' application in EnPower.  There are many people asking about what is flowing and the month is creeping by so if you could get with me tomorrow to make a game plan that would be great.  I think we should have the schedulers send us their spreadsheets with an explanatory and then we, along with Unify users, will come up with a plan.  I hope to use the schedulers in this process as well, let me know your thoughts.  Thanks, Stacey 
- We are going to Cuero this weekend so will not be in for Sunday brunch.  Sorry I will miss it.  Stacey 
- Will,  Please run the 2002 script for Coral Power, L.L.C.  Let me know when you are done.  Stacey 
- One question:  I had Melissa Murphy put together the termination dates for each of the counterparties and was wondering if you could clarify something for me.  If a termination date is 12/4/2001, do I move 12/4 forward to the bankrupt book or do I move 12/5 forward to the bankrupt book?  Thanks, Stacey 
- Georgeanne,  I spoke with this recruiter on the phone and told her I would forward the information to our accounting group.  I was not sure who all in your group was part of the layoffs and thought you might be able to forward them this information.  Stacey 
- Elsie,  I put the 11/30 strip back in the deal.  The "884449 in bankruptcy" does refer to another deal that we created due to Aquila terminating transactions with us.  The reason you cannot see it is because you probably do not have access to the new portfolio.  Stacey 
- FYI 
- Wasn't sure if you had seen this website.  Hope your searches are going well.  Stacey 
- I am waiting for an answer back from Elizabeth, but was wondering if you or any of your contacts might know the answer to the following.  Thanks, Stacey 
- Since we talked about a lot of different spreadsheets, can you give me some more guidance on what was included in the spreadsheet I talked about so I will send you the correct one.  Stacey 
- Frank,  Here is the file.  I am planning on continuing to look for the $30.5 MM that is created when you add dailies and compare to YTD.  (Cell M245).  You can delete these information if you want.  Remove December from the reconciliation because I only gave them data through 11/30 and Curve Shift data for December is completely useless.  Stacey 
- Frank,  Here is the file.  I am planning on continuing to look for the $18 MM that is created when you add dailies and compare to YTD.  (Cell M245).  You can delete these information if you want.  Remove December from the reconciliation because I only gave them data through 11/30 and Curve Shift data for December is completely useless.  Stacey 
- Yes, you will do normal calculation tonight.  In addition, either today or tomorrow, please also calculate the Bankruptcy Portfolio.  Export data from both West and Bankruptcy Portfolio by Counterparty and Physical/Financial.  Compare the data to the Termination Lists.  All counterparties on the termination list should be included in Bankruptcy Portfolio and all other counterparties should be in the West portfolio.  If you notice discrepencies, please investigate and correct.  Also, Will is still changing some deals that Casey sent him an e-mail on.  Do you know if this affected the West?  If so, you will need to wait until he is complete.  Stacey 
- Due to problems with the gas curves there will be incorrect credit information for TXU, Calpine and Indeck Pepperel Power Assoc. out of EnPower (these counterparties have spread options and/or heat rate swaps that utilize the gas curves.)  If you need these transaction re-calced in the morning please contact Andrea Dahlke and X 5-4080.  Thanks,  Stacey 
- The gas curve problems have been solved; therefore, there will be no problems with the following counterparties.  Stacey 
- Do your gas books have any gas deals left?  There were 23,000 deals missed in the 'kill exercise' performed by IT.  If you have deals left, please re-calc tomorrow to see if they go away.  If you have no deals, then you are done!  Stacey 
- John,  This file gives you similar information to the file that Jeff sent you for gas.  Frank is using it to continue investigating what went wrong with the extraction from the VaR model.  If you want me to change anything, let me know.    Thanks, Stacey 
- We technically should have no third party transactions.  If we do, we need to move them to the NG-Price book.  Please let me know if this is the case.  Also, Casey & I will be both be out of the office tomorrow.  If you need someone in Houston to help get questions answered please call Andrea.  Thanks, Stacey 
- Here is the file I started.  I know there is plenty of missing data because I did not know all the commodities involved with each counterparty.  If you could fill in what you know, that would be a big head start on this heinous project.  I will be out of the office tomorrow.  My cell phone works again so I will be available.  Have a great weekend.  Thanks, Stacey 
- Just want to make sure that Tom and Sam will be preparing these documents.  Stacey 
- I will be out of the office tomorrow and out of town this weekend.  If an emergency arises, please try the following numbers:  Home - 281-894-0468 Cell - 281-382-5215 Weekend - 361-275-6444  Have a great weekend! 
- To be totally consistent from the beginning, can you rename either your long term Long Names to not include spaces between 'North' and 'West' and 'South' and 'West'.  The short term books do not have spaces.  Stacey 
- FYI - Tim Carter resigned effective today.  Stacey 
- You can go ahead and send it to me as I am sure I will be performing the review at some point.  Thanks, Stacey 
- I was working on getting the right sign-off before I approved or denied.  I should know no later than tomorrow.  Stacey 
- Yeah - are you still going on vacation?  Stacey 
- Please try contacting him at the following numbers 713-668-7572 (home) 832-338-6793 (cell)  If you cannot contact him at these numbers, let me know, I have one other way of getting in touch with him.  Thanks, Stacey 
- I thought we already told them to exclude those portfolios???  Stacey 
- Geoff,  Here is all my data:  Home - 281-894-0468 Cell - 281-382-5215 Worst Case - my husband's pager - 281-264-9294  If you need anything else, please let me know.  Stacey 
- All your suggestions sound good.  Thanks for being on top of the personnel = issues!  Thanks again, Stacey 
- Who was your surgeon for lasik surgery?  Would you recommend?  I am planning on getting surgery next year and have to make my benefit elections to cover.  Thanks, Stacey 
- I was not sure if you wanted exposure by asset, liability or absolute value so I provided the top 25 assets and top 25 liabilities.  Hope this helps.  Stacey 
- Can you make sure that your group starts using the new & improved request form.  See m:\common\power\riskmgmt\admin\Requests & Request Templates\Blank Book Request Enpower.xls  Thanks, Stacey 
- Just a reminder to forward Martha the cash flow request.  Thanks, Stacey 
- Any calc will do.  When testing, please do not write over AdHoc, I need to pull some information from there.  Stacey 
- I hope all is well with you!  Kristin, Mike and I will be arriving in London Saturday, November 3.  We will be there through the ne
+es.  That way, if anyone is comparing our lists later on their will be no discrepancy and they won't have to ask us again.  Thanks for all the other information.  Stacey 
+ Fine by me. 
+ As of now I should have no employees on the Estate list.  Israel Estrada was on the list previously, but we have moved him to Power Global Rates in Netco.  Stacey 
+ Can one of you resend me the unarchive shortcut to 2000 data?  Stacey 
+ Here is the latest Master.  It is kind of a cluster.  The easiest way to pi= ck out power is to set an AutoFilter and look at Enron Entity column.  Stacey 
+   Let me know how I can help.  Stacey 
+ Christina,  Just wanted to let you know that Donnie will be joining us for the 11:30 meeting.  Thanks, Stacey 
+ Please review and let me know if I have misrepresented any counterparties.  If you want me to add comments, send them to me and I will incorporate.  Thanks, Stacey  David, Just to make sure you know, the Power Physical Terminated Transactions spreadsheet, is put together by Melissa from information she has received from Master Log and other.  This is our primary source for moving transactions into the bankruptcy book as she review to ensure that the contracts terminated cover all our trades.  Thanks, Stacey 
+ Thank you 
+ Now that Will has been cleaning out scheduling tables, will you ensure that the prepays in the document below are still in the scheduling system.  If they are not, we can autoschedule them.  Thanks, Stacey 
+ One more forward of terminated counterparties.  Won't promise this will be the last.  Stacey 
+ Melissa,  Here are some more to investigate!  Stacey 
+ Melissa,  Can you find out if this Master Energy Purchase and Sale Agreement covers all our deals with TXU?  Stacey 
+ Min,  I am so happy that you were moved to the Netco list.  Thank you for all your hard work and the efforts you have put forth to learn our needs and react quickly to them. I look forward to working with you in the future.  Stacey 
+ Melissa,  Here are some more.  Just keeping you in the loop.  Stacey 
+ Thank you regarding Min.  He does an extreme amount of work for us and I believe going forward we will need more rather than less of Excel type reports.  Stacey 
+ Fran,  Congratulations!  I can't believe you didn't call and tell me.  Can't wait to see the ring.  Stacey 
+ Thank you! 
+ One more to look for.  Stacey 
+ See point 2 below - just wanted you to be on the lookout for MidAmerican.  Stacey 
+ No I had another meeting at this time.  Stacey 
+ We have many deals in the system with UI, but they are all part of one contract.  To my knowledge, this is the only big contract we have with them.  Just wanted to let you know because going through all the deals would be time consuming and they basically are one huge deal.  Stacey 
+  Have you seen documentation on these counterparties?  Stacey 
+ I have another meeting at this time.  Can we reschedule or can I send someone else?  Stacey 
+ Just wanted you to be aware of our concerns regarding Min Zheng.  He is our Excel support and is called upon on a daily basis for help.  Thanks, Stacey 
+ I spoke to Tim today regarding the prepayment transactions with terminated counterparties.  He constructed this e-mail in response.  Hope this clarifies.  Have a Merry Christmas, Stacey 
+ This is the latest draft of pre-bankruptcy pay-outs.  I have put all the information I have, please add any that you may know.  Have a Merry Christmas! 
+  Please forward to the following: Nick Hiemstra Ed Baughman Naveed Ahmed  The request is for the East and West portfolios (non-terminated).  Don't forget to include Capacity and show separately in queries. By Portfolio, by Counterparty, by Category Code - P&L and delta by month.  Also send a P&L update to Elizabeth Sager and Don Miller.  The original files are 'East by Counterparty' and 'West by Counterparty'.  Stacey 
+  In order to point to the UBS environment in EnPower you need to change your PortCalc Host to the following.  This screen is reached through Tools - Option Environment.  Also, copy the PortCalc Host into your FTP Host:    Let me know if you have any questions.  Stacey  <Embedded Picture (Device Independent Bitmap)> 
+ I was out of the office yesterday when you called.  It looks like you have received as much information as we have from Jeff.  Thanks again for your continued help.  Hope all is well.  Stacey 
+ I ran deal data for the counterparties we received termination notification on today.  I did not want to start moving deals while you were running calcs, so we can just do this tomorrow.  The deals are on t

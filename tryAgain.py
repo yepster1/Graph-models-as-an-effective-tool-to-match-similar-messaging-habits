@@ -126,7 +126,7 @@ def main(files,tester):
     filesSizes.sort()
     data = os.listdir(files)
     testingData = os.listdir(tester)
-    testingsizes
+    testingsizes = []
     for f in testingData:
         testingsizes.append([int(os.stat(tester+"/"+f).st_size),f])
 
@@ -150,6 +150,8 @@ def main(files,tester):
         originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
 
     for j in filesSizes:
+        filess = os.listdir(files)
+        data = os.listdir(files)
         print j      
         originalVectors = []
         testingVectors = []

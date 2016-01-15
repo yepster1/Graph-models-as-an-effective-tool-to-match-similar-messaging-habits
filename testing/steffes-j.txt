@@ -1,206 +1,66 @@
-eep engaged through Perrino.  I'll try and make the call this Thursday.  Jim 
- Donna --  I'd say that it is a commercial matter.  Try and push the bill back.  I know that Paul says his RC is closed but someone above him has to have some $$.  Jim 
- Jean --  Why not ask Marianne Carroll to draft a short note on the current status of the docket and likely outcomes/timing?  Thanks. 
- My number is 713-853-7673.  See you Tuesday. 
- Nancy --  1.	Are we able to vote? 2.	If yes to #1, what is your recommendation for our vote?  Thanks,  Jim 
- We need to discuss the economics of this on our book (assuming that these costs hit our pocket and not our customers).  Jim 
- Denise --  Do you have a listing of all bonds that EES (and its affiliates) has in place for retail marketing, including wholesale ISOs? Speaking with Gloria, we don't keep this information in Govt Affairs.  Rebecca Fite keeps bond information required in the State licensing processing.  The place that I think that is missing is Wholesale Service providers (e.g., ISOs).  I think that we need to expand this idea of Bonding to "Financial Guarantees" including with Utilities, States, and Wholesale Service Providers.  Maybe the best way to start is to work backwards from EES active markets and determine what is needed in each locale?  Thanks,  Jim 
- Andy --  I was speaking yesterday with Chuck Ward.  He indicated that we continue to have (or may have soon) litigation surrounding our ownership interest in Cornhusker.  This is important primarily because the Texas Public Utility Code requires that the PUC approve any merger of generators that will have a combined ownership of over 1% - which Dynegy and Enron will have.  I want to make sure that we represent our ownership interest to the PUC appropriately given the current dispute.  If you have any specifics, please let me know or give me a call.  Thanks,  Jim 
- thanks. 
- Why does Edison care about DWR stranded costs?  Are these the costs of the bonds or the above market long-term contracts?  Jim 
- I assume we are happier with this message? 
- Rick --  Please find attached the asset report in Texas.  Enron's ownership depends on what day the filing is made (for instance, Indian Mesa won't be active until Dec and may be sold immediately).  Also, there is an on-going arbitration with Cornhusker about our ownership right.  Andy Edison has the lead from EWS legal.  Jim 
- Rick --  Here is the information on staffing and outside services.  Call if you need anything else.  Jim 
- ok 
- This means that the DST proceeding moves forward - right?  How about a phone call at 3pm HOUSTON TIME to catch up on all matters?  Jim 
- Lunch works.  I thin 11:45 is best.  Jim 
- Attached is the most recent statement from the California Utilities that implements the DA Suspension (filed Friday). Comments are due Nov 28 (Wed) from parties.  The Utilities continue push for a "hard" deadline of DA.  They also offer an option where Suppliers would be required to submit a Affidavit for incremental DASRs and potentially have the CPUC review the specific contract language.  Of course, in no event do they believe that any customer should be allowed to have DA service if the customer's name was not on our Oct 5 Customer List.  Jeff and I will be talking with Mike Smith (and anyone else who wants to participate) to work through our response to these comments.  Jim 
- Not sure yet.  We will be talking with AReM and will want your input.  We may have to file but not sure.  Jim 
- Linda & Sarah --  I intend to come to DC tomorrow night and attend the EPMI v. FERC hearing (if I still have a seat).  I'm planning on attending the GENI meeting Wed pm and Thurs.  Thanks,  Jim 
- I know that was the plan and we do intend to work with AReM, but we may have to file if our needs aren't met.  Jim 
- Thanks for the invite but I'll think the DC team should brief Greg on the beltway politics and energy policy.  I'll join you guys at the Supreme Court invitation window.  Jim 
- Gloria --  Where are we on a matrix of Utility agreements?  Jim 
- How about heading off campus - less likely to run into Enron people.  Let's meet in the parking lot entrance (right where the little store is on the way to the Met) at 11:30.  If anything comes up, call me on my cell at 713-851-2499.  Jim 
- I would like to take something to Dan Leff by end of business tomorrow.  Whatever we have.  Thanks,  Jim 
- Jim --  How about breakfast on Wednesday this week?  I'm coming in tomorrow night and could do breakfast on Wed.  Jim 
- Draft. 
- After talking with Dan, I intend to set up a meeting to provide complete matrices on licensing and utility contracts sometime early during the week beginning Dec 3.  Also, just to make sure everyone is clear, Harry, Gloria, and Rebecca are on point during the next few weeks to ensure that that EES and/or EPMI responds timely to any request for info, additional security, or other utility matters.  This, of course, will continue to require help from legal, credit, and operations.  If anyone has any other questions, please give me a call.  Thanks. 
- EES does not sell power except potential if it overschedules to their retail load and "sells" balancing energy to IP.  I'm not even sure if we are delivering any energy to any customers in the market.  I'll send to Rogers Herndon.  Jim 
+to questions posed by the Commission": Does it imply that core, for profit functions should not be subject to a stakeholder process? Wasn't the NETA design subject to an extensive consultation, even for profit, NG core functions?  3) If each Transco manages it own OASIS, how can we avoid fragmentation (balkanization), pancaking and many other negative aspects and seams that the RTO process is trying to eliminate? How can you achieve one-stop shopping? By outsourcing those functions to one single third party?  4) As a follow up question, what are the mechanisms to assure that this "potential" fragmentation may lead to underinvestments in T, particularly in important inter-tie investments?  5) What kind of PBR mechanism are you envisioning for the Transco-RTO? Are you thinking about including "external" measures such as cost to provide ancillary services, congestion costs or costs incurred in energy balancing?  6) Are you envisioning an RTO-Transco model which will assume that all transmission assets in the region will be divested? Or can the model live with a "light" RTO where part of the assets are divested but others are not (and sign an operating agreement with the RTO. Would your proposed Matrix of RTO Functions (page 9) still be robust under this scenario?  7) Can your proposed RTO model dovetail with an LMP/Congestion Management system based on financial rights? [Our understanding is that NETA completely reorganized the UK pool. The UK system now looks like a "self-dispatch" physical rights model]  8) As a follow up of the previous question: Assuming Alliance adopts a self-dispatch, physical rights approach similar to the one NG operates in the UK today. Don't you think that this will create significant barriers/seams with other neighboring RTOs, considering that there seems to be a general trend towards security constrained dispatch, LMP and financial rights for most RTOs in the US?  9) If your proposed system can be dovetailed to a central dispatch, LMP/financial rights, shouldn't some functions in your "Martix of RTO Functions" be collapsed? For example: management of congestion prices, calculation of congestion, operations of energy markets and generation redispatch?  10) Procurement and deployment of ancillary services is listed as non-core. However, in the UK system, this represents a significant role of the Transco, with incentives and penalties attached to its achievement. Is there a different vision or do you assume that those functions will end up being developed by the RTO and consequently will be part of the PBR formula?  11) Generation interconnection. Obviously, your proposal did not go that far. Conceptually, do you favor a system whereby T fixed costs are recovered via a postage stamp rate across an entire region or do you favor the UK model whereby fixed costs (use of the system) are calculated based on incremental cost and have a strong locational component (and connection costs are treates separately, according to a shallow method?  12) Establishment of transmission rates. How to reconcile the fact that those should be regulated and you propose that the Transco itself will establish its T rates? Are you thinking about some possible non-regulated activities?  13) You stated that separation and control of T assets persists, to a large extent, in the Collaborative Model proposed as part of the Southeast Mediation. Do you think that the Independent System Administration model is superior in this regard? What are the key important differences in your view in the conceptual design of those models 
+ Nice to meet your brother.  Do you have a map of the 25th?  Jim 
+ Yes this gets at my issues.  I want to build your matrix and Rebecca's together.  No where do we deal with reporting yet?  Also, we need to have some systematic approach to updates and naming "point people".  Jim 
+ I received a call late today from the CPUC (Joyce @ 415-703-2199).  Someone from Pac Tel called and said that his service was switched without authorization - Mike Benson with Payphone group @707-253-8892 or 707-292-1766.  Lamar -- who is the client rep for Pac Tel?  Can they get into Pac Tel and try and find out if we have done something inappropriate?  We need to call this guy back by Monday EOB.  Please let Jeff Dasovich know so he can call Joyce back - I'll be out on vacation next week.  Jim 
+ Christi --  I'm out next week.  This is a bit touchy with the changes coming.  Why not have Jose agree to go  (no one else) and if necessary we'll backfill.  Jim 
+ My thoughts --  1.	Great job. 2.	I would change the message in the conclusion (and elsewhere) that the work should be done at the same time -- The Commission should act quickly to establish the scope and configurations of RTOs, WHILE ALSO WORKING and then begin the process of creating a standardized pro forma transmission tariff and market design to be implemented by these RTOs. 3.	Thanks for getting in "Network Plus" - it's the little things that matter. 4.	Maybe strengthen that just standardizing is not enough - real integration across seams is imperative. NY and PJM have same tariff same model but haven't worked well for a long time.  Thanks. 
+ LUIZ --  Attached is a version that I changed.  Mainly formattting the intro.  I think that our current draft is too long without a short synopsis up front. We want a White Paper that reads like an advocacy piece.  Please add to whatever you are doing.  Also, move forward with contacting Larry Ruff for (1) his analysis of your and my combined draft and (2) a simple affadavit on this.  Govt Affairs will pay up to $10k for this work out of our current budget.  We need to have this finished by Tuesday EOB.  CHARLES -- We need to make sure that Monday and Tuesday someone calls everyone on the Committee considering changing these rules on Thursday.  Let's get the list and start lobbying actively.  Call me if you have any questions.  Please talk with Doug Gilbert-Smith about who and where.  Maybe Christi and Jean Ryall can help.  CHRISTI -- Pls make sure that Steve Walton and Sarah Novosel are ok with this statements.  Thanks.  Jim 
+ We need to be very cautious about signing on to documents that seek to delay the start date of any RTO - unless and until I hear something different from FERC, my going in assumption is that Enron will be one of the only voices on this issue.  We should only give on this issue when real value is being created.  Why not file a "me too" on the issue of seating of the Board w/o agreeing to everything else?  Jim 
+ Not sure if there is much to do.  I was just sending this e-mail because I saw Alan working to find a copy as well as John Shelk's team - wanted to make sure we weren't duplicating efforts.  Jim 
+ Ginger --  Can you please approve?  Jim 
+ It's been amazing.  Jim 
+ Pls pay. 
+ No. 
+ Jaime,  Please add James Steffes, user id is jsteffe, to the App_BlackBerry group for BB usage.  Thank you for your help,  Matthew Campbell 
+ PSE&G called yesterday to ask for an LC or cash collateral of $1.0 MM to displace our Corporate Guarantee of $1.3 MM.  They are sending more information in a letter to Bill Bradford copied to me.  THere is a 5 day turnaround - early next week this will be due. 
+ Yes.  He is now a big-time headhunter.  I hope you had a great Thanskgiving.  Things are crazy here.  Jim 
+ Let's talk early next week. 
+ Right now we are trying to develop some info and the right messages.  This is the same everywhere.  Our gameplan right now is to work this next week.  Jim 
+ It sounds better on FM - you can pick up the wonderful vocals.  Didn't hear too much from Rush on the drive - he was probably in a bunker worried that the Taliban was after him.  Jim 
+ Bob --  We need to pull together the rules, etc. for a change in assignment w/o consent for small commercial in NYC and TX by 3 pm tomorrow (or earlier). Grab me and we can discuss.  Jim 
+ We will need to let everyone know early next week - working on msg -------------------------- Jim Steffes Enron 
+ Wade -  Anywhere that we have Supplier Consolidated Billing Enron put up some form of credit to cover 45+ days of Utility charges.  So while I am unsure of the form of collateral, if Evan provides a list of where we are doing Supplier Consolidated Billing, we should be able to construct a Collateral Obligation worksheet.  We also have collateral in each ISO (NE-ISO, NYISO, PJM, CAISO).  It will take some time to de-DASR to Dual Billing and until our accounts switch, the Utilities will hold the Collateral.  Jim 
+ Password = jinglebells  Jim 
+ Christi & Sarah --  Do we have to do something related to this?  Thanks.  Jim   Note also that in a separate development FERC simultaneously opened a broad investigation under Section 206 of the Federal Power Act to apply the new market-based-sales policy to all U.S. sellers nationwide. What this means is that, although only three utilities are mentioned in this initial order, it is expected that FERC will continue to take steps to constrain what it believes to be erratic wholesale markets. Reportedly, some 30 companies are awaiting similar reviews by FERC to determine if the commission believes they exert market power. The 206 investigation reportedly also requires power providers with market-based sales authority to amend their tariffs within 60 days to provide FERC with open-ended authority to order refunds if the commission determines that market manipulation has occurred. 
+ Did you hear anything on WM?  Jim 
+ Julie --  Given our current situation at Enron, I wanted to let you know that we will not be able to support the SE RTO Study.  I assume that you were already thinking this.  This upcoming week should prove to be another amazing ride.  As soon as we come up for air, I'll call and fill you in on the developments.  Thanks,  Jim 
  Thanks. 
- Jean --  Is the PUC going to agree on AEP's motion (please see below)?  What are we = doing to stop this movement?  AEP is ready to go in Ohio with the same noti= ce but just haven't done anything in TX.  Jim 
- During the merger, transactions between a regulated company of one of the partners (IP / PGE) should not do business with the other.  If EES or EPMI is buying or selling from IP, please let me know.  Also, if we are delivering to retail load behind the IP market, we may need to make sure that our actions are with the code of conduct.  I don't think that we have to worry much with PGE side because EPMI and EES are already acting within the code of conduct.  Jim 
- Molly --  Please let either Gloria or Harry know if you need our assistance.  Jim 
- Thanks. 
- Thanks for keeping Wes and Mary Lynne informed.  I give this chance a very low probability right now, but we'll see.  Jim 
- Can we change the project lead on the RTO NOPR on Standards of Conduct to be both Lisa Yoho and Leslie Lawner?  Also, can you call the project leads before the memo goes out to make sure that they are aware of their responsibilities - just a heads up?  In paragraph 2, your language is that this is addressed only to the people on the chart.  I think that Rick intends to send out to everyone in GA.  Maybe we want to change to indicate that people are welcome to be included in teams if they were not mentioned.  Thanks,  Jim 
- Jim --  Just trying to follow-up on the next meeting?  Any news? 
-  Alan & Paul --  See John Shelk's e-mail below.  Alan, you may want to coordinate.  Jim 
-  Harry & Nancy --  I am somewhat concerned that the implications of having to act as tax collector is creating a push to change the way REPs work with the T&D company.  In Enron's advocacy throughout my years, we have always asked the PUCs to make the marketer the "customer of record" - better limits the Utility control over the market.  Now it appears that this good decision of the PUCT has tax implications and means that we have to process the taxes.  I don't see that trying to support a change is a good thing from our long-run business.   Moreover, if we are paying Gross Receipts taxes and didn't include them into our customer costs than we made a mistake.  This is a cost of our business.  Let's talk.  Jim 
- Jo Ann --  Do you know if Dan Staines has an active Employment Contract?  JIm 
- haven't checked voice mail at home - in DC. have time to talk right now on phone?  Jim 
-  Jeff --  How about a call tomorrow to discuss?  Jim 
- FYI.  The first memo. 
- Guys --  We need to quickly put together some talking points on how to respond to AEP's request for delay until 2003.  My understanding is that AEP in Texas is wholly outside of ERCOT (if wrong - please inform).  AEP needs only to file a good amendment to the FERC OATT (or SPP needs to do it for them) ASAP.  My basic model for provisioning of energy for retail competition in non-ERCOT Texas is that delivery to the border of the OATT provider (for instance delivering a into-Entergy product into Arkansas and paying for losses would be sufficient for delivery into the Woodlands).  Jean was going to call Luiz to get this issue on the burner.  Thanks 
- Paul --  What happens if BPA doesn't join?  Jim 
- Pls come by at 11am.  Thx. 
- Agreed.  In fact, my understanding is that the ERCOT protocols state that if congestion is greater than $20 MM / year the model would change.  The market has reached $100 MM.  Jim 
- Dave --  Can you please send to Rick Shapiro the agenda for next Wednesday's meeting?  Thanks,  Jim 
- Steve --  I will be traveling back from CA tomorrow so I can't make the call.  Some things to be aware of --  1.	EES/EEMC v. SCE Complaint  We filed Aug 30 before the CPUC asking the CPUC to re-instate our customer net bill amounts.  Jeff Dasovich will call John Fielder to try and see if there is anything that we can do without litigating the case (or at least delay until after legislative session).  If complaint moves forward, SCE will probably consolidate the complaint with earlier disputes.  Enron is preparing similar filing for PG&E, although we need to seek Relief from the Stay.  2.	California Legislation  SCE MOU bill (that includes DA issues) moved Aug 29 through Assembly Energy Committee.  Needs to go to Assembly Appropriation and full Assembly.  Hertzberg is trying to get out by weekend or early next week.  By removing the conservation easements, the bill has lost some liberal Democrats.  Governor Davis is asking Business to find 15+ Republicans to move the bill.  Trying to modify (1) surcharge effective date to Sept 1+ and (2) get more comfort that SCE will pay our Negative CTC if $$ exists.  Also, the Windfall Profits bill has moved through Assembly Committee.  It has to go through Assembly Appropriation and full Assembly.  Jennifer Thome has prepared a synopsis that is attached.    3.	AG Subpeona / Sen Dunn Subpeona  Litigation about both Subpeonas was heard this week in SF and Sacramento.  Mike Kirby believes that he may have swayed the Court in the Sen Dunn to provide a protective order.  A final decision may be issued next week.  4.	FERC Refund Case  Enron presented its "ripple" claim earlier this week.  Range of refunds (non-netted) is very large (please see Bob Frank for exact $$).  I have also attached a calendar of both cases prepared by Alan Comnes.  Oral testimony is being prepared in PNW case for next week.    5.	NE RTO Mediation / SE RTO Mediation  Both proceedings come to a close this week with an expectation that the ALJ issues a recommendation next week (or soon thereafter).  Looks like the best date that a large number of parties can agree to for a single NE RTO energy market is Nov 03 (PJM thinks it can happen by May 03 but wants some cushion).  Sarah Novosel is trying to best position us vis-a-vis the other stakeholders to drive it earlier.  Also, ICAP and control area consolidation is not considered at this time.  Christi Nicolay believes that the ALJ will recommend moving toward a PJM model.  6.	CPUC Decision to Suspend DA Retroactive  Sue Mara continues to push the CPUC to remove the retroactive date in the current Proposed Decision.  Some rumors that the CPUC will again delay a decision until Sept 13 (confirming so please keep close). 
- HERE ARE THE FINAL SLIDES. 
- Wade --  Home 281-759-8270 Cell 713-851-2499 
- We should also make sure that Paul Kaufman and Pat Keene attend.  Thanks 
- Thanks for the info. I'll leave in your and Leslie's capable hands.  Jim 
- Sarah --  Should we try and lobby any of these witnesses prior to next week?  I was thinking about John Meyer and Peter Cramton specifically.  Jim 
- I'd have Susan Lindberg and Charles take on this.  Jim 
- John --  On this bill, I would think that as far as our competitive businesses go, we should work through EPSA.  Better to have the industry speaking with one voice.  To that end, do we know where EPSA is on this - Reliant and Mirant will have a much larger impact.  Finally, we probably will need this ability for our Control Area operators.  Jim 
- I think that Kerry Stroup is handling non-MISO/ARTO midwest matters. 
- John --  I'm heading up tomorrow.  Do we need a call today to make sure that my ducks are still in a row?  I don't have the Barton draft handy.  Jim 
- Shirleen --  Can you please send me the most recent version?  Thanks. 
- Vicki --  FYI.  This bill continues to move.  Jennifer Thome prepared this synopsis.  Please let me know if you need anything else.  I'll ask Jennifer to keep you updated on any changes and status.  Jim 
- Pls get with Susan to make sure coverage is appropriate.  Jim 
- Sounds good to me.  I'm out on Wednesday but in the rest of the week.  Jim 
- My comments --  I assume that in the Enron filing we will make a stronger argument for sticking with the 12-15-02 date?  Also, critical to highlight that the FERC should have one "major" change date, not multiple given the liquidity problems with significant regulatory change.  Finally, break out competitive retailers in the list of the ONE RTO Coalition. Every state inside this region (except VT) has competitive retail access.  Furthering this effort with further the policy directions of the states by lowering wholesale prices and making business "easier" for companies like EES.  We should play this up.  We are really pushing hard on the physical retail gen side in NYC and Boston and taking another look at PA and MD - this is the real benefit - that consumers' bills go down.  I didn't see that language on consumer benefits.  Jim 
- Thanks for the info.  Please stay closely linked with the RTO Week activities to try and read Wood's questions.  Also, John Meyer from Reliant is testifying.  What will be his position?  Should we talk with him this week to coordinate and try and move him the right way?  Wasn't he the head of Congestion Management in ERCOT originally?  I think this is Wood trying to ask him how ERCOT works.  What will he say?  Thanks,  Jim 
- Sarah --  Pls coordinate with Kerry Stroup.  He is the Mike Roan of the Upper Midwest.  Jim 
+ This is the price tag for COBRA from Enron.  Looks like $600/month.  Jim 
+ FYI.  Jim 
+  More info. 
+  Dick --  With everything going on at Enron these days, please use the following contact information -  Jim Steffes 14354 Carolcrest Houston, TX 77079 281-759-8270 msteffes@mindspring.com  Thanks,  Jim 
  FYI 
- Is this moving forward?  Jim 
- Sue and Jeff --  I am having a meeting with Vicki and Janet Dietrich on Thursday to discuss our view on the ability to extend our current contracts in CA (for customers already on DA).  Can we discuss this today or soon thereafter.  My take is that the UDCs will be indifferent to this (maybe?) and our #1 priority is to work to get the PG&E model adopted across the state.  Any news on how SCE and SDG&E will move forward?  Thanks. 
- Janine --  I have not yet talked to Kerry about this but the Translink is moving forward.  Will you do it today?  Jim 
- FYI 
- Sounds like flying Sunday night.  Jim 
- Please do.  Jim 
- Howard --  If the ONE RTO doesn't have a day-ahead market, what happens?  Jim 
- Thanks. 
- If you need anything else, please let me know.  Jim 
- Talk with John Shelk in our DC office.  Jim 
- Ban --  Sorry to take so long to reply.  Family is fine post NYC attacks.  Not sure if we have any needs right now.  I'll keep you in mind as the Budget / Staffing moves forward.  Take care,  Jim 
-  Looks fine.  Thanks for everything.  Jim 
- Thane --  Pls work with Christi and Sarah to find a time to call John.  Jim 
- Dasovich this is in your court.  Jim 
- I looked at it today on the plane.  I don't see any issues although we are in the middle of budget process and will see if this impacts this request.  Jim 
- Charles --  If the RTO has the Interchange function, what else is needed for "virtual" consolidation?  Jim 
- Need to also include the moneys owed to Enron and its affiliates related to the wholesale power transactions.  We should also seek to clarify the language about us supporting the PE Advice Letter proposal on going-forward.  Jim 
- The EWS West Power URM desk will need to determine the $$ at stake and help us manage our financial exposure and the appropriate policy response.  It's their $$.  So far, my understanding from the desk is that our current policy recommendations (as outlined in the Mike Smith memo) are the "preferred" outcome - I'll reconfirm.  Jim 
- Rick --  This is the spreadsheet.  Jim 
- Louise --  Here is the analysis on how many Govt Affairs' FTEs work on Enron Americas matters.  The bottom line = 67 Professionals in group / 29 FTEs on Enron Americas.  Call if you want additional information.  Also, I am trying to arrange a meeting for this Friday to discuss our next Monthly Update (which I am finishing hopefully tomorrow).  Thanks,  Jim 
- perfect. 
- Pat --  I received your voice mail.  Will be testifying this morning.  I will try and call later today.  Thanks,  Jim 
- Fine.  I still think that any obligation is a mistake.  Just improving a bad market is not going to help.  Make sure that Dan Allegretti is in the loop.  NEPOOL is putting something like this together.  Jim 
- On point #1 - I think that at the end of the day, FERC will not deal with the Negative CTC directly.  All they will do is reset prices.  The Utilities and the CPUC will then have to decide the legality and the equity of modifying the PX Credit and hence the Negative CTC.  We have tried in the CA Refund process to highlight the fact that much of the "high" prices were due to inappropriate policy and actions of the CPUC, Governor, and Utilities.  The core problem with this line of argument is that the Refund process didn't ask the first question - what or who is to blame.  It simply took dysfunction and ran.  We are trying in the context of the Rehearing case to ask FERC to restart with the right question.  Also, remember that we aren't going to have a solution in the FERC case until sometime next year, probably after SCE gets its money.  Finally, I think that the right policy decision is not to "re-bill" Negative CTC but rather to prospectively recover the costs.  On point #2 - See point above.  I doubt, however, that all "high" prices can be seen as just a result of underscheduling.  Jim 
+ Chantel  --  Please call me at 713-853-7673 to assist with any questions.  Jim 
+ Please keep me in the loop on developing opportunities. 
+ Pls send to Mike Terraso with Environmental Policy.  Jim 
+ I would recommend that all letters as such should go to Harry and me.  I think we will be getting a number of these.  I would say that we will try and communicate something proactively to the PUCs around the country by Wed am.  Critical that our message is consistent and clear.  Rebecca, any thoughts?  Jim 
+ Jeff --  Please don't forget to get load #s or de-DASR customers - probably 50+%.  Good info to cover our "remaining" customers.  Jim 
+ FYI.  Let's deal with this early tomorrow.  Jim 
+ Harry --  EES filed yesterday.  My thought is to focus on keeping our licenses so that we can return customers in an orderly fashion.  Jim 
+ Christi --  When is this meeting?  Also, Dave Forester is looking for someone to present (through Rick Shapiro call).  Is this the same meeting?  Call me.  Jim 
+ Mike --  Going forward, should all enviro be sent to you? 
+ Please send all questions on environment to Mike Terraso.  Thanks. 
+ Evan Hughes are we Dual Billing our current ConEd customers? Gloria Ogenyi will we owe more $$ if we don't switch to Dual Bill?  Scott Gahn what are the issues if we do switch?  Thanks. 
+ Pls hold for inclusion in CPUC letter today.  Jim 
+ Thanks.  I've enjoyed working with you and more importantly, getting to know you.  Best of luck going forward.  If you ever need any thing, please don't hesitate to call me.  Jim 
+ Thanks Becky.  I've truly enjoyed getting to know you better as we've worked closer these past few months.  You've taught me alot about natural gas issues and if I can ever do anything for you please let me know.  Jim 
+ Thank you -------------------------- Jim Steffes Enron 
+ Appreciate the thoughts.  I especially appreciate your hard work over these last few weeks.  Jim 
+ Sandy --  Pls forward final CPUC letter sent today to this group.  Thanks. 
  FYI. 
- Fair points.  My dogma machine is running at high today.  Don't disagree with your thoughts.  Let's get the answer that works for the business for the long-term.  Jim 
-  Not too sure how important, but wanted everyone to see the discussion from Jamie Wimberley at CAEM.  Jim 
- Diann --  I agree with Bob.  Please let us know as soon as possible if SCE is willing to discuss this fairly.  Jeanne --  I guess that we would update our Complaint if need be?  Thanks,  Jim 
- Steve --  We did originally file that the replacement for the PX Credit should be the DJ Index.  My recollection is that we did withdraw this argument, however I've include Sue Mara on this to double check.  If we haven't, I'd guess that is no longer URM's position?  Jim 
- FYI.  Probably too early for you guys.  Jim 
- Not that I know?  Jim 
- David --  My thoughts.  I would change the section "Reliability" to "Operations".  The Current framework is Non-standardized;  Poor Seams Interface  Under Access to Transmission I would change it to say that "Not all Users on the System take service in a non-discriminatory manner."  Utilities can't discriminate versus like users.  Under Generation - I would change "optional" to Optimal.  I don't also understand the 99%.  Easier to say 100%*   * - Public Power recipricoity issues.  Thanks,  Jim 
- thanks. 
- Ok.  Thanks.  I hope that Lora can send a copy.  Jim 
- Yes.  Peter is the one who I spoke with.  My testimony went fine.  Me too.  Jim 
- Steve --  Got a note from EES that there was a Energy Summit in MA to discuss next steps of restructuring today.  The meeting is today.  Are you going?  Did anyone go?  Thanks 
- Thanks for the info.  While there may be some differences in presentation, there don't appear to be any basic differences in the analysis.  All of the discussions of the legislation need to be aware that the passage is highly uncertain.  I agree with the analysis that if you have never been DA and sign up today there is a very large possibility that you will pay a surcharge (assuming the legislation passes).  Let me know if there is anything else.  Jim 
- Jamie --  Thanks for the external view on legislation.  I agree that most of the bills don't "get it right" - the hope is that the FERC can do that without too much legislative guidance (which of course would be wrong).  Not sure that setting up a new federalism on this will ever work - not enough $$ to states to get them to overcome the political power of the utilities.  Jim 
- thanks. 
- Thanks Janine.  Also, please keep Paul Kaufman and Jean Ryall in the loop. = We need to make sure that we do this nationally. =20  Thanks.  Jim 
-  FYI 
- This is especially problematic given that EES and ENA can not comply with the reqts as defined.  Jim 
- Agree.  In fact this was John Anderson's only problem.  My position would be to simplify Bingaman's language to not define any organization.  Jim 
- Thanks. 
- Janine --  I want to make sure that our comments allow both a retail option and a wholesale option.  Let's also focus the PUCO on the fact that bidding leading to negotiations is the best solution, allows for creativity.  Jim 
- Please coordinate on this.  Jim 
- Here is my testimony.  I have one attachment that is being sent via fax.  Thanks,  Jim 
- Attached is the testimony that I filed today asking thh PUC of Texas to open the retail markets in the SPP territory.  Thanks,  Jim 
- thanks. 
- The best outcome is that there is an obligation to dispose of load through this but the mechanism is negotiated.  Jim 
- I read the same.  It was crazy.  Their solution is to tell us to do what we said didn't make sense.  We won't give the FERC made up information.  Jim 
- Thanks for the draft.  Will circulate internally and respond.  Jim 
- Here is PJM's attempt at NERC language.  I think it makes sense for us to support this.  Jim 
- My understanding is that we are going to work Ark.  Jim 
- Mary Lynne -  Do you need anything on this?  Jim 
- How about Wednesday Oct 17 next week at 9am?  Jim 
- Thanks.  No major issues.  Jim 
- Thanks but my group has an all day budget meeting.  Maybe some other time.  Jim 
- Yes.  Her name is Linda Noske. 
- Susan --  When we get to a point to make comments, please let me know.  Jim 
- What does this mean??  Jim 
-  Harry & Christi --  We need to be coordinating on this.  You both met with these people at different times.  I don't want to be creating work or stepping on each other.  I don't think there is any problem, but let's sit down and coordinate.  Thanks,  Jim 
-  Alan Comnes --  Please let me know what we're doing on this?  You are the Project Lead.  Go get 'em.  Jim 
- Sarah --  You're call on working with EPSA.  Get everything you can.  I don't understand how "new services" is moving fast enough.  Jim 
- Sorry.  I'll be in Austin testifying.  Jim 
- good luck 
- Guillermo -  Before you send any letters, please make sure that Steve Montovano is the in loop.  He manages that region.  Jim 
- Change the language on Operations to include ...Coordination of Service and Planning for Transmission ...  Thanks,  Jim 
- No.  Although the lack of a concrete decision is a "decision" - just not one we like.  Our goal is to get this dealt with by end of November.  Jim 
- Christi --  Some interesting language for the ICAP team.  Please forward along.  Jim 
- No.  Just wanted your thoughts.  Thanks. 
- Jeff --  In a budget meeting, will call this afternoon unless something critical.  Thanks,  Jim 
- Sorry that I didn't get to you sooner.  The head of the group is Tim Battaglia who is the best person to work with.  Jim 
- Not really.  I tried to get to talk to her but never could get an opportunity.  Jim 
- Didn't get invited.  Are you going?  I don't plan on sending anything - do you think we should even though we didn't get any invitations?  Jim 
- I'll play the cheap course.  Jim 
- Ray --  Looks very good.  We need to stress the points on what we need FERC to do -- fix their mistakes in the Rehearing.  One other point, maybe we should stress that FERC could open these proceedings and not delay the decision because the Cal ISO is taking so long.  Also, don't be shy about describing how the process is going so slowly and the "abuses" of the Cal ISO and its lack of independence.  Jim 
-  Jose & Charles --  Thanks for the update.  I am concerned that "customers" are talking about h= aving NERC deal with commercial matters without first agreeing to FERC's co= ntrol over everything? =20  We should discuss the Goulding Report when you return.  Jim 
- Let me know about how you intend to move forward.  Probably the same team as the CA reporting.  Also, what did AGA do with its Storage Figure Report?  I heard that they cancelled the publication.  Jim 
- Sure. 
- Thanks.  We will discuss in context of State review.  Jim 
- I'd say we want tariff language before any investigation.  I don't typicall= y like investigations.  I like complaints.  My thought is to pre-sell tarif= f changes to FERC with a broad coalition and then get the Ohio PUC to ask F= ERC the question.  Jim 
- FYI.  Call Jeff if you have more questions.  Jim 
- Does this make sense?  Jim 
- I'll go to the Houston meeting.  Jim 
- Should this go into Janine's efforts on Markets?  Jim 
- Thanks.  I want to talk about this on the "Consultants" call with Linda Robertson.  Should we push this argument or leave the FERC with its infirmities?  I believe that we can work away at many of our concerns in the "should refunds be reqd" phase.  Jim 
- Jeff --  Look at the letter.  I see no issues.  Call me with your thoughts.  Jim 
- Thanks for the information.  At this time, I don't think that I am interest= ed in any reports.  Jim 
-  Please put in swepco file for thurs.  Thx, 
- Pls put in SWEPCO file.  Jim 
- Linda --  Pls include in the file.  Jim 
- Jean --  You may want to call Jeff and find out where he is going with this talk?  We still need to meet with a detailed plan on Texas.  Maybe next week or soon thereafter.  Jim 
- Pls put in my SWEPCO folder. 
+ He is at the State Dept.  (202) 647-8931  SchriverRG@STATE.gov  Glad to hear things are well.  Jim 
  FYI 
- I think that this is a good step but we need to remember that NERC in the commercial sector may not prove to be the end all.  Also, while RTOs may enforce the standards or set the standards, not sure if we want one organization doing both.  Jim 
- Any time you want to you should feel free.  Jim 
- Did we decide not to join with anyone else?  Jim 
- HERE IS THE REPORT.  Jim 
- Great idea.  My key points would be that (a) FERC needs to push ahead with its "right sized" RTOs and (b) focus on standardizing the tariff and market design [no more collaborative efforts].  Two simple, easy to understand thoughts.  Also, I think that it's a mistake to use the term "large RTOs".  We don't want large RTOs.  We want RTOs that cover natural markets and benefit consumers.  Jim 
- Looks good.  Is there a timeline on when FERC may act (or at least when the Audit) will be final?  Is this information confidential?  Should we be working the trade press?  Thanks,  Jim 
- If FERC agrees, does this hurt our retail business and the implementation of our retail gen product next year?  Jim 
- John --  To your point #3Burr --  Probably want to bring in Steve Montovano on the NC PUC question -- we have worked with a local lawyer in the past (I think her name is Allison Duncan) that could help with this question and demonstrate that having an RTO does NOT make a state deal with retail competition any sooner than it wants to deal with the question.  Steve Montovano could probably be of assistance here.  Maybe bring in Allison to DC to deal directly with the staff?  Jim 
- Steve --  What's up with GA PSA Wise wanting to open marketers books?  Saw this in Gas Daily today.  Any info is helpful.  Jim 
- There are some Commodity meetings.  One with Jim Wood and one with Greg Sharp.  Harry, can you please call and get on these meeting schedules?  Also, Guillermo Canovas and Melinda Pharms are going to the EES gas meeting weekly.  Jim 
- Damon --  Good idea.  I'm out early next week. How about next Thursday?  Jim 
- Seems reasonable to me that we tell NERC they can't "make a land grab".  How about EPSA and ELCON signing a letter together to the Chairman of NERC Board?  Jim 
- Christi --  DQE provides some level of audit capability to ensure that the costs are fair and apppropriate.  PGE may not have a resource specific system lambda but AW may be able to explain how they would implement something like this.  I know AW from some other issues so if things don't go well  let me know.  Also, please keep Alan Comnes in the loop.  Thanks,  Jim 
- Thanks. 
- Nancy, etal --  With the discussions at NERC recently to broaden their role, I think that we need to be very coordinated on our EISB message and begin to figure out how we get AGA to work with the Retail Gas and EEI/UBR to work with the Retail Power quadrants.  Let's think about a NARUC message to drive this very quickly (maybe at the next meeting).  Having one body begin to coordinate all of these matters will greatly expand our policy reach.  Thanks,  Jim 
- Are these papers consistent with Enron's positions?  Jim 
- No.  Jim Steffes 
- What do you think??  Jim 
- thanks 
- Jean --  The PUCT voted to delay for SPP markets.  Not sure about Entergy.  Any news?  Can you send out something to the business people?  Jim 
- Your thoughts?  Jim 
-  It is critical to win this case.  Sounds to me that Dynegy wants ICAP in the Midwest.  Jim 
- Sounds reasonable.  Would the same be true about the DST case?  If we lose, without the PPO what do we have?  Jim 
- Pls call Steve.  Jim 
- Alan --  What about a simple price cap (ala PJM) of $250/Mwh rather than a gas-index deriviative?  Just a thought, do whatever the desk thinks is right.  Jim 
- sounds good.  pls talk with Bob Frank about his involvement in this group.  Jim 
- The first order of business is getting the cost/benefit analysis done.  Once we have that study, let's go to press.  Jim 
- 23.51 
- thanks. 
- While I appreciate the concerns about the diffferences in East and West, we've waited too long for utilities to agree to make RTOs happen.  We can finesse this forever, but we need to give FERC some tools to force the process.  Jim 
- Can we have breakfast Wednesday morning at the Park Hyatt to discuss where we are and necessary next steps?  Given Southern's statements (as well as others), this is the key analysis that would hold up this from moving forward.  Jim 
- Pat --  Are we doing dinner with Keith Tuesday?  Jim 
-  My Top 5   1.=09(  )  *Up to the minute restructuring data.  2.=09(  )  Catalog of Enron public documents [policy talking points, handou= ts]  3.=09(  )  Thumbnail analyses by industry experts on various topics  4.=09(  )  *Enron formal documents [filings, comments, testimony]  5.=09   Other - CUSTOMER NEWSLETTER / MONTHLY POLICY POSITION "push" 
- ok.  I'm booked all week but next week I can do it.  Jim 
- Yes.  And I'll need clubs (right handed).  Thanks for doing this,  Jim 
- Any idea when this will be rescheduled?  Jim 
- Tom --  Where do we stand with this?  Jim 
- A few notes.  1.	Be cautious about divestiture.  Remember we own pipes and a electric LDC.  2.	Agree with you that we don't want Utility in merchant role - key issue.  3.	POLR issue involves getting pricing right.  Why don't you put together a note to the CAEM that we can send as our thoughts.  Just the Top 5 issues.  Jim 
- Try to respond end of the week.  I'd like to see your drafts.  Jim 
- This evening and stay until Wed pm.  Jim 
- yes 
- I didn't get the attachment.  If you want my thoughts, please let me know.  Jim 
- Thanks for the update.  It is disappointing that AGA is not opening the pro= cess, although the final EISB Retail Gas standards will need to be vetted b= y an ANSI group so we'll get our comments in one way or the other.  Also, what are we doing to get the different states to adopt these protocol= s across the board?  Seems like pushing NARUC to agree that this is the rig= ht vehicle makes sense. =20  Thanks,  Jim 
- Thanks Luiz.  As a follow-up, I'd like to be on record as saying that the PUCT wasted my time in flying to Austin (when plane travel is not secure, I'd add) and not even listening to my statements.  Why bring us if they had already made the decision?  Also, I don't know who is going to pay for more Market Readiness work in SPP unless AEP agrees to pay our costs.  The customers pay for their activities.  Jim 
- Sounds good.  Please make sure that Jeff Brown in EES is kept in the loop if this gets close to goal line.  Jim 
- Wanda --  Who do I need to call at EPMI West Power to discuss the following -  We are considerin
+ Kay --  A couple of things --  1.	Jim Steffes not Jeff Steffes 2.	My cell phone is 713-851-2499 not 2489.  Thanks. 
+ Jeff pls call Bryan Gottfredson at 713-942-7307 to discuss possible job openings in CA. 
+ No Yeung + Lindberg are gone -------------------------- Jim Steffes Enron 
+ In speaking to the PUC today, they are under the impression that we are currently physically serving Compaq and JC Penney.  Is this right? If so, don't we want to deDASR them?  Jim 
+ In OH I believe that the MSG service continues (transfers with the customers) so it's just any discount we gave above the MSG rate.  Jim 
+ Good news.  Also, Rich Drom called from PJM wanting to know if someone from Enron was attending the Members Mtg this Thursday (no) and if what did we want to do with the confidentiality of our credit (I think that we should agree - not PJM's to distribute).  Your thoughts - I'll call Drom back tomorrow.  Jim 
+ Thanks Ann.  Pls send to me going forward (at least as long as we're here). 
+ Jeff --  Pls call. 
+ I agree.  In fact, in the conversation with the Chairman of PUCT, I told him that we were sending all of our pilot load back to TXU before Jan 1.  Jim 
+ Thanks for the info.  Jim 
+ Ok. 
+ Christi --  I want to call Susan tomorrow and let her know about the mess up on her.  But I want her to understand the issues involved.  Let's talk as soon as possible.  Jim 
+ Your message was forwarded to me regarding Dan Allegretti and NPCC.   Can you please let me know what Dan's role was in the organization and any other information?  Thanks,  Jim Steffes 713-853-7673 
+ Don --  Sempra called today a
