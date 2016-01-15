@@ -124,32 +124,35 @@ def main(files,tester):
     for f in filess:
         filesSizes.append([int(os.stat(files+"/"+f).st_size),f])
     filesSizes.sort()
-    for j in filesSizes:
-        print j    
-        data = os.listdir(files)
-        testingData = os.listdir(tester)
-        testingData.sort()
-        data.sort()
-        try:
-            myCharIndex = getmyCharsIndex("char")
-        except:
-            originalMatrix = []
-            testingMatrix = []
-            myCharIndex = {}
-            for content in testingData:
-                testingMatrix.append([createCharacterMatrix(open(tester+"/"+content,"r"),myCharIndex),content])
-            for content in data:
-                originalMatrix.append([createCharacterMatrix(open(files+"/"+content,"r"),myCharIndex),content])
-            
+    data = os.listdir(files)
+    testingData = os.listdir(tester)
+    testingsizes
+    for f in testingData:
+        testingsizes.append([int(os.stat(tester+"/"+f).st_size),f])
+
+    testingData.sort()
+    data.sort()
+    try:
+        myCharIndex = getmyCharsIndex("char")
+    except:
         originalMatrix = []
         testingMatrix = []
-        for content in testingData:
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content,"r"),myCharIndex),content])
-        for content in data:
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content,"r"),myCharIndex),content])
+        myCharIndex = {}
+        for content in testingsizes:
+            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        for content in filesSizes:
+            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+    originalMatrix = []
+    testingMatrix = []
+    for content in testingsizes:
+        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+    for content in filesSizes:
+        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+
+    for j in filesSizes:
+        print j      
         originalVectors = []
         testingVectors = []
-
         for k in testingMatrix:
             val,vec = lin.eigs(k[0])
             vec = vec.transpose()
@@ -163,6 +166,7 @@ def main(files,tester):
         writeChar(myCharIndex,"char")
         #print testingVectors[0]
         #print originalVectors[0]
+        print j
         things = []
         for first in testingVectors:
             array = []
@@ -175,10 +179,10 @@ def main(files,tester):
             things.append(array[::-1])
         positionFromFront = []
         counter = 0
+        print j
         for k in data:
             checkCorrolation(things[counter],k,positionFromFront)
             counter+=1
-        print positionFromFront
         positionFromFront2 = copy.deepcopy(positionFromFront)
         target = open("toptensucess.txt","a")
         target.write(str(amountOfsuccess(positionFromFront,10,files))+"\n")
@@ -186,7 +190,8 @@ def main(files,tester):
         target.write(str(PercentamountOfsuccess(positionFromFront,files))+"\n")
         os.remove(files + "/" + j[1])
         os.remove(tester + "/" + j[1])
-    
+        del originalMatrix[0]
+        del testingMatrix[0]
 
 if __name__ == "__main__":
     main("Enron_collection","testing")

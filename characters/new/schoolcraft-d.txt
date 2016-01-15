@@ -1,2 +1,0 @@
-emps. Saturday                       39 Sunday                         43 Monday                                                53  System Load Saturday                     1959 Sunday                       1800 Monday                                             1675  Line Pack Saturday                     3318 Sunday                       3400 Monday                                              3400  No major problems for the weekend. 
- There is volume flowing to the plant.  The team is trying to get the Scada back in service.  Will keep you updated.  Thanks DS 
