@@ -1,0 +1,741 @@
+ Galen's home address is as follows.  Several people had asked for it to send cards.  I am sure he would appreicate the thoughts and prayers.  Home Address 10622 Endicott Lane Houston, TX  77318   Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Just to keep you in the loop.   John, will you verify with Charlie that Rick Kile and Ronnie have the lead on this and that he is not waiting on us for anything.  Thanks. Lynn 
+ It was good to get your note.  To answer your question, I had my last (hopefully) surgery last Monday, June 18th.  Everything went well.  I should be back to work on Tuesday, June 26th.  I was surprised I did not get postponed with the flooding down in the Medical Center.  I stayed over one night and I was sure ready to go home the next day.  I really felt for those nurses.  The hospital (Diagnostic Hospital) was full to capacity since they were helping out the Medthodist and Herman hospitals.  Hope all your belongings in storage were OK.  I am so glad ya'll did not have more damage than you did.  I talked to Ricki yesterday and she has people starting to come in and redo the walls in her house this week.  I am so glad you told me about Steve Klimesh's mom.  I had not heard about that. Do you by chance have his address.  I would like to send him a card.  I had lunch with him right before he left and he was really looking forward to spending time with his Mom.  Speaking of parents, how are yours?  Hope they are both doing well.  As soon as Steve gets back we will email you and definitely go to lunch.  Take care of each other.  We sure miss you both.  Lynn 
+ Rick, if you have some time on Tuesday, I would like to visit with you about this.  I don't want this move to be any more negative than what it is.  I have a possible game plan I would like to talk with you about and then maybe you and I need to take Larry and Raetta to lunch give them a chance to talk and then let them know our next steps. Glad you are back.  Lynn 
+ Kelly, this would not send to the "Outlook Migration team".  So I am sending it to you Ava.  Ava, Please get with Kelly and find out how we send it to the team.  Thanks. Lynn 
+ Joe, are you and Gary up to speed on this ElPaso outage on the 26th?  Any concerns on our side?  Thanks. Lynn 
+ Mike, can you follow up with the team, Chris and Sue to be sure we are all on the same page on this issue?  Thanks. Lynn 
+ FYI.  I am sure you are already up to speed.  Glad your back.  See ya on Tuesday.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, thanks for the update.  Please let me know how the session goes.  Thanks. Lynn 
+ Randy, thanks for your prompt reply.  Lynn 
+ Ava, can you sign me up for the Tuesday, June 26?  If I am not available, could you spend some time with me and train me after my conversion next week?  Thanks. Lynn 
+ Randy, what did this mean to shippers nominating on NNG's pipe?  Do they have to change their location or POI number for nomination purposes?  If so, how did we communicate to the shippers.  How does this effect OBA's? Thanks for the update.  Lynn 
+ Toby, Terry and I talked about this and I will address it again in next weeks team leader meeting.  Sorry for any inconvenience.  The teams should be aware of the procedure.  Thanks. Lynn 
+ Sharon, I am doing very well but cannot come back to work until Tuesday.  They will remove all the drain tubes Monday. Thanks for your thoughts and prayers.  I'll see you on Tuesday.  Thanks. Lynn 
+ Ava, please be sure this is on my calendar.  Thanks. Lynn 
+ Ava, where are we on training?  Are we OK for end of month billing?  THanks. Lynn 
+ FYI.  to keep you in the loop.  Thanks. Lynn 
+ FYI.  Just to keep you in the loop.  This is on the Bushton Measurement arbitration.  Thanks. Lynn 
+ I am fine with this schedule.  I am a little concerned about Lynda testing because of Galen being out and the team shortage.  Should we have a back up to Lynda if she cannot get away from the day to day so we do not loose any time on the testing.  Just a thought.  Thanks. Lynn 
+ Brian, just wanted to follow up to be sure you had talked with Toby Kuehl and he had answered all your questions.  If you have all your answers, you do not need to respond to this note.  Have a great day.  Thanks. Lynn 
+ Mary, we would love to have you come.  Thanks. Lynn 
+ Ava, have you taken care of this?  Thanks. Lynn 
+ Ava, have you taken care of this?  Thanks. Lynn 
+ Terry, can you have the teams getting Ava email addresses on the list this week if Dennis does not already have them in PLE.  Thanks. Lynn 
+ FYI.  Just wanted to be sure everyone had a copy of this letter.  In relation to this letter we had a posting go out on the WEB.  Please be sure everyone on the team has read this notice.  Thanks. Lynn 
+ Ava, are you going to be available for this meeting?  I would like to know the outcome of the meeting in relation to any concerns on sending out invoices.    Thanks. Lynn 
+ Ricki, I just wanted to follow up, I was told Cynthia and Linda neither one had damage.  Cynthia's mother and sister had flooding and Linda was without electricity for awhile.  If you are hearing something different, please let me know.  Thanks. Lynn 
+ Shelley, just to keep you in the loop since I am out next wee.  This is the information we sent to Regulatory (Mary Darveaux) as we finalize info on the Strangers Gas Settlement. Tangie is working closely with Mary and will get her what she needs.  we are also working with Dan Fancler and Debbie Mosley in Finanace.    If you have any questions, please let Tangie or Raetta (who is working with Tangie on this) know.  Thanks. Lynn 
+ terry, are these instructions on the Intranet where we have critical and no= n critical procedures?  If not, can we put them out there?  Thanks. Lynn 
+ Larry, I want to know if you did not get the response you needed.  Thanks. Lynn 
+ FYI.  Just to keep ya'll in the loop.  This fix should be ready for test on Monday and migrated Monday night for Tuesday's use.  This fix will be very beneficial in minimizing Shipper imbalances on NNG.  Terry and Gerry will work with the teams to be sure everyone is up to speed on the change.  If you have any questions while I am out next week, please check with Terry Kowalke or Mike Bodnar.   Thanks. Lynn 
+ Ava, let's go ahead with this day and time.  I will cover for John.  Thanks. Lynn 
+ Richard, what is the status of this issue?  Thanks. Lynn 
+ Mike, since Terry is out this week, can you take the lead to find out status of this report as you are checking to consistency with this report and the automation of the storage report.  Let's discuss on Tuesday.  Thanks. Lynn 
+ An update on our change for the Storage Allocation.  Several questions have come up over the weekend.  The weekend crew is documenting the questions.  I have left Mike Bodnar and John Buchanan a phone mail message to research the questions and concerns on Monday.  Then we will group with storage and determine what changes need to be made.  One change we talked about on the Sunday morning call with storage is to be able to use SBS on the non allocated portion of storage.  ie, if we are allocating injections, then withdrawals should still use SBS.  If we are allocating withdrawals, then injections should still have access to SBS.  Mike Bodnar will pursue this enhancement further.  Thanks. Lynn 
+ Ava and John, please let me know if we are not going to have this info by Tuesday.  THanks. Lynn 
+ John, can you follow up on the new delivery point for Wisconsin Gas.  Is there a better procedure with contracts/PLE to ensure we have all new points set up properly for operator confirmation.  Thanks. Lynn 
+ Mike, very valid concern.  Do we need to re-look at our procedure?	  Thanks. Lynn 
+ FYI.  To keep you guys in the loop.  As we get additional info, I will pass it on. Thanks. Lynn 
+ FYI.  Just to keep you guys in the loop.  Thanks. Lynn 
+ Jean, Glen is still working on my computer.  He should have it done today.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, go ahead and take off as long as you have all your move ready to go.  Be sure to have someone covering your desk.  Thanks. Lynn 
+ Audrey, its on my calendar.  I am looking forward to the event.  Thanks. Lynn 
+ Britt, looks good to me.  Thanks. Lynn 
+ Britt, to answer #5, Kim Hardman and/or Delaine Kurth may be added to the cc on the letter.  The reason I mention Delaine is Jerry Knight (who works for Delaine) is the person that has been calling Robert Benningfield asking for the status of the 12 - 16 adjustment.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ranelle, John and Michelle,  thought I would send this statement to you and see if this helps simplify our answer to your question.  The question is:  How is MDQ used in the nomination system to ensure we do not double up on MDQ volumes when we have split paths (i.e. nom on same contract from (1) Mid 15 to Bushton Inlet and from (2) Bushton Outlet to Demac)  For Nominating purposes:  MDQ of contract = Primary Firm + Alternate Firm up to the MDQ. Anything over the MDQ will be Overrun and charged at the IT rate.  Point MDQ needs to be considered when allocating a receipt point.  EXAMPLE:  If the Field MDQ is 10,000, then we will  (1) total the reciepts nominated on the contract; (2) compare the total nominated to the Contract MDQ.  Then the shipper will get firm (primary and alternate) up to their contract MDQ.  Anything over will be overrun at IT rate.  If anyone has any other questions, please let me know.  Thanks. Lynn 
+ Steve and Audrey, thank you so much for the invitation, but I will be at the NNG Customer meeting in Kansas City otherwise I would plan on attending. Have a great time.  Thanks. Lynn 
+ Is the volume at the inlet and outlet of Bushton factored into any MDQ total?  Gerry if you are not the person to help us on this, please let me know who.  Also in talking with Mary Darveaux she said if you use the same contract at the inlet and outlet of Bushton, you DO double your MDQ.  Therefore, if you have 10,000 MDQ you can only nominate 5,000 to inlet and 5,000 at outlet.  Gerry, can we run a quick report to see if there are any contracts that are identical on the inlet and outlet of Bushton?   If she is right, then we have NOT had anyone nominate on the same contract.  If I have confused you, let's discuss.  Thanks. Lynn 
+ Richard, can you check this out for me.  Did the team drop the ball on this one? Thanks. Lynn 
+ We need to discuss ASAP this morning.  Legale, would you be available at 8:30?  We can meet in my office.  Gerry, sounds like Legale is who we were looking for.  You are welcome to set in, but not necessary.  Thanks. Lynn 
+ FYI.  Are you guys up to speed on this?  Thanks. Lynn 
+ Robert, is there to be a written resolution plan as you come to agreement?  Thanks. Lynn 
+  Shelley, things were quite on NNG and TW overall for the weekend.  For all three pipes the reps had to go through RAZ to get into TMS on Saturday morning. Although, the customers were able to get in OK, but the system was slow.  System was fixed by 11:30 a.m. Saturday morning.  On TW - For Gallop Darrell has sent you an update.  Overall for TW the prices for the east are not covering variables to go west, therefore most of the gas is staying in the east market.  Thanks. Lynn 
+ Bob, can you resend this to me.  I cannot open the file.  Thanks. Lynn 
+ John, Ava is gone until tomorrow afternoon.  See if Sharon or Alma can help out.  Thanks. Lynn 
+ Vernon, October 4th works for me.  John I think you are gone, so we need to involve Terry in this.  I am very open Thursday or Friday for a pre meeting.  Thanks. Lynn 
+ Please put on my calendar.  Thanks. Lynn 
+ Ava, please code them as personal time with pay.  Thanks. Lynn 
+ Ava, I was working 1 - 15th.  Thanks. Lynn 
+ Team, I realize this rate change is done in Marketing.  But, you have a responsibility to review the invoice to ensure that the adjustment to the price has been made if there is alternate deliveries.  Let's be proactive to ensure we have accurate billing. If you have any questions, please let me know. 
+ Raetta and Robert, let's talk about some kind of closure on these resolutions. Can we talk tomorrow at 1:30 in my office?  Thanks. Lynn 
+ It's on my calendar.  Thanks. Lynn 
+ Ava, please update my calendar.  Thanks. Lynn 
+  Due to all the moves this week, we are canceling the staff meeting this afternoon.  We will have a regular meeting next week.  Thanks. Lynn 
+ Raetta can not meeting today.  How about Thursday at 1:30.  Thanks. Lynn 
+ Mike, let's discuss.  Thanks. Lynn 
+ Tim, I would like for us to discuss this issue. Normally we do not "settle" on these type of issues.  I want to be consistent with how we have treated other shippers when we have found errors in the system.  Doesn't mean we can't do a settlement,  we just don't want it to back fire on us.  Ava, please set up some time on Thursday for Tim, Mike, Bob, Sue and I to visit.  Thanks. Lynn 
+ Ava, would you please check with Joe on the problems with lights and air conditioning per the attached memo.  Do we need to call security for anything?  Thanks. Lynn 
+ Gina, let's do lunch and I'll answer all your questions.  Are you available Wed. or Thursday?  Thanks. Lynn 
+ Randy, thanks for the update.  Please keep us posted.  If I need to make a phone call, let me know.  Thanks. Lynn 
+ Coffee on Thursday sounds great.  Just give me a call.  Have a great day with your Mom.  Thanks. Lynn 
+ Britt, I scheduled a meeting per Drew's request with my team that deals with the Bushton area.  Drew is going to review with them how we need to be careful about using the term "PTR calculation" for measurement error adjustments.  We thought it would be good for you to attend as well.  I want the team to understand how important it is that they are communicating accurately when talking about Bushton issues.  Hopefully you can attend.  Although I think the meeting may be scheduled to 10:00 a.m. instead of 9:30.  Hopefully that works for you.  Thanks. Lynn 
+ John, we look into this for another party at one time?  Do you recall what all would be necessary to accomodate this request?  Thanks. Lynn 
+ Ava has willingly taken on this task.  So she will be the point person going forward.  Thanks. Lynn 
+ Good job in getting this done.  How are we coming with the other operators?  With us moving forward for Shirley to work from home, emails will be much better than faxes.  Thanks. Lynn 
+ Gary, thank you for your help. I guess Ricki was having quite a time.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Gerry, do you have some time tomorrow, Thursday, that you, Terry, John and I can set down and review what you have a put a "blurb" together to send to the customers. I am open 10:00 to 11:00 or anytime after 2:00.  Thanks. Lynn 
+ Amy, we still have Julia White on the attached form.  Can you work with Terry to remove Julia's name and add Shelley's?  Thanks. Lynn 
+ John, I talked with Donna and got back with Bob Burleson.  Let's see what his answer is and then I may have you and Donna work on this one.  Thanks. Lynn 
+ Nancy, good job.  Keep up the good work.  See if you can get the rest of your team to follow suit with their interconnects.  Thanks. Lynn 
+ FYI.  John I think you are gone.  But Terry, thought you might be interested. I am planning on attending.  Thanks. Lynn 
+  Since Robert is working evenings, who has the lead to get the daily Oneok reports out?  Thanks. Lynn 
+ terry, I am not sure understand the discrepancies on numbers in teh #4 file.  Let's discuss. Thanks. Lynn 
+ Looks good to me.  Are we going to put this letter in the reservation invoice packet?  Also, would we want to post the letter anywhere on the web?  Just a thought?  Thanks. Lynn 
+ Scott, I appreicate your feedback and closure on these items.  It helps us to build that confidence that the systems are working correctly instead of being left in "limbo" and coming up with your own conclusions.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Raetta, this is what prompted my questions about finalizing resolution.  Thanks Lynn 
+ John is out of the office until Wednesday.  He sent me this list of topics he caught in the second break out session.  Thought I would go ahead and pass them on to you.  Thanks. Lynn 
+ FYI Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Attached is our first pass at some questions and answers to post to the WEB based on discussions at the NNG Winter Ops Meeting.  Please review and let me know if you feel there needs to be more "in depth" answers to these questions.    Or are there additional questions that you feel need to be added. 
+ FYI.  Thanks. Lynn  > 
+ Ava, FYI.  Has Alma been working with you on this?  Thanks. Lynn 
+  Virgil, I wanted to say "Thank You" for your time and effort given to our new employees as they toured your facilities in Vidor on Tuesday, September 25.  I know it was the first time most of them had been to a compressor station and they found it very interesting.  This was one step in our efforts to help them match the Physical world (Operations) with the Paper world (Nominations, invoices, etc).  Please pass on my "Thanks" to the others that contributed to this educational process.  Lynn Blair 
+ John and Terry, where are we on this budget.  I want to be sure there are not issues coming up while John is on vacation !!!!  Thanks. Lynn 
+ Shelley, FYI.  Drew, Britt and I are meeting with the So. Central Team on Monday, October 1, at 10:00 a.m. for 30 minutes.  It is not the best time for everyone, but it was the best way to get the most people and get the meeting ASAP.  We will leave a person on the team to cover phones, plus the North end team is going to help watch the phone for that 30 minutes.  Thanks. Lynn 
+ =09Sharon, are they going to move the frig to 42?  Thanks. Lynn 
+ Sounds good to me.  It leaves us some flexibility.  Thanks. Lynn 
+ Raetta, thank you for taking care of this.  I really appreciate your pro active involvement with the new hires as well as helping Ava out.  Thanks again.  Lynn 
+ Brad, just some comments.  At the end do we want to say Customer Services Rep instead of Market Service Rep.  and should we put the Hottap help desk phone number in that particular Hottap help desk bullitt. Just a thought.  Otherwise looks great.   Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thought you would be interested since most of you have worked with Robert over the years with the NBPL interconnects.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Attached is an updated list of questions after everyone's input.  I would like to discuss the changes with you after Shelley's staff meeting.  Appreciate everyone's input.     Thanks. Lynn 
+ Richard, are you Elizabeth's back up on this?  I want to be sure all the reps have reviewed the capacity release info.  Please work with Terry to be sure we have covered all the bases.  Thanks. Lynn 
+ FYI.  Thought you would like to see this. Thanks. Lynn 
+ Vernon, looks good to me with Steve Kirk's small fix on last paragraph.  Thanks. Lynn 
+ Larry and Raetta, do we need to communicate this to the teams?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Toby, what is the status of this issue?  Thanks. Lynn 
+  Robert, was there a problem getting the weekend notes out last night?  Shelley pulls the recap for each pipe by 7:30 a.m. for Stan's staff meeting on Mondays.  I just need to make sure everyone understands the urgency (especially on Mondays) to have the updates sent Sunday night.  Thanks. Lynn 
+ Sounds like a plan to me.  Thanks. Lynn 
+ Thought you guys would be interested in Phil's comments.  Steve, I think you need to be in this meeting.  Anyone else want to attend?  Thanks. Lynn 
+ Mike, FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ John, FYI.  I didn't know if you would be able to make this meeting.  Terry is coming until 2:30 then he will attend Steve Harris' meeting.  If you need to stay on the floor, that is no problem.  I will update you.  Thanks. Lynn 
+ Ava, thanks for the keys.  I appreciate you staying on top of this.  Thanks. Lynn 
+ Shelley, this is the letter from Winston that you were looking for.  Thanks. Lynn 
+ Kim, I would like to buy one of the cards.  Please let me know what Ineed to do to purchase one. Thanks. Lynn 
+ John, let's discuss when you get back Wednesay.  Thanks. Lynn 
+  Attached is a draft of a letter we are sending to our customers as discussed at the Winter Ops Meeting in September.  Also, we have attached a "Frequently Asked Questions" (FAQ) document that will go out with the letter and will be posted to the WEB.   We will monitor the WEB site and update the questions periodically.  Please review the letter and FAQ and let me know of any changes or comments by tomorrow evening, Tuesday, 5:00 p.m.  Our goal is to get these documents to the customers by Wednesday, October 3rd.  We appreciate your input in this process.  Do not hesitate to call if you have questions. (Ext. 3-7637)      Thanks. Lynn 
+  Kathy, just wanted to be sure we had the coverage on the team for October while you are testing?  Do we need to address any concerns?  Thanks. Lynn 
+ Steve, I am going to let you answer this one.  Thanks. Lynn 
+  Carolyn, I have received my new card and destroyed my old card.  Thanks. Lynn Blair 
+ Ava, FYI.  Sounds like I may be able to stay at the Sheraton on Monday.  Can you check this out.  Thanks. Lynn 
+ Todd, thank you for the info.  I wanted to pass on to you that Sheila Nacey is not going to be able to attend.  Could you please replace her name on the Sunday activity with Theresa Hess.  Thanks.  Again, I look forward to seeing everyon on the 21.  Lynn 
+ Terry, can you send Ranelle July.  Ranelle, Terry is working on October and should have that ready tomorrow.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ricki FYI.  Thanks. Lynn 
+ Teams, it is very important that you attend these meetings before you work the weekend.  This will give us an opportunity to ensure everyone has the same understanding of EDI procedures.  Mary and Jim, please keep a signed list of who attends training so we can add this to our Training list for 2001.  Thanks. Lynn 
+ Richard, can you check with marketing to see if they have put the right rate in the system and then coordinate with Bert when he gets back tomorrow. Thanks for your help.  Lynn 
+  On September 24, 2001, Alice gave each of you a list of your outstanding accounts receivable back to January, 1998.  In meeting with Alice today, I understand, we have NOT cleaned up very many of these issues.  Alice will be getting with each one of you AGAIN to review your accounts.  My expectation is that there has been some clean up activity before Performance Reviews at which time I will ask Alice for an update.  Alice, Raetta and Larry are all available as needed to help you in this effort.  All clean up should be completed by December 31, 2001. 
+ Tracy, keep up the good work.  We appreciate you staying on top of Burlington's business.  Thanks. Lynn 
+ Ava, I am assuming we are sending flowers?  You may want to check with Sherry to see if we want to wait until Kathy gets home or send to hospital.  Thanks. Lynn 
+  Ava, please get Jo and I some dates for giving the Marketers a "Brown Bag" training session on Nomination, Confirmation and Scheduling process. I would like to use the video Room on 42 in Houston and 6th floor in Omaha.  I would like to look at the week of October 15th.  The session could be a brown bag from 11:30 to 1:00.  John Buchanan and I can give the presentation since Terry will be out that week.  Thanks. Lynn 
+ Ava, please update my calendar with the room number changes.  Thanks. Lynn 
+ FYI.   Thanks. Lynn 
+  Donna, attached is a first pass draft of a letter for Shelley to send out to the teams about her up coming staff meeting.  I would appreciate your input.  You are much better at this than I am.  I tend to be to blunt sometimes.     Let me know your thoughts.  Thanks. Lynn 
+ Robert, we have decided to send Donna Scott and a person out of Brad's group to attend this training.  Then they will come back and do the training with each of us.  This will help minimize costs and yet give us the opportunity for everyone to benefit from the information.  Thanks. Lynn 
+ Terry, can you follow up with the Wizard problem on TW.  Thanks. LYnn 
+ Alma, hopefully, I am not too late.  If so, just let me know who has copies and I can borrow theirs.  Thanks. Lynn 
+ Terry, please plan on attending next Wednesday's meeting for the demonstration on the handheld devices.  Thanks. Lynn 
+ I would like to recap my understanding and the "To Do's" from the meeting yesterday.  1.  After November 1, Measurement would NO longer adjust any TBS physical volumes unless there was a PPA directly influencing said TBS.  2.  Measurement would check  to see if they had a deduct meter they were using in the end user process. (Since the meeting we have discovered that the deduct meter IS in GVA, therefore no checking needs to be done).  3.  Gas Logistics would check with IT on possible enhancement (if necessary) for negative volumes to the TBS.  (We have talked with IT and this would be a major enhancement and have to be done with the new system).  4.  Procedures need to be documented to handle negative numbers created by the LDC giving measurement an end user actual volume greater than the TBS connected to NNG.  5.  Measurement and Gas Logistics agreed that all measured volumes including End User point volumes would be "housed' in PGAS.  After further discussions in Gas Logistics, our recommendation is that neither Measurement or Gas Logistics accomodate a negative number.  If the LDC gives measurement an end user volume greater than the TBS the following should happen:  1.  Measurement should either:  a.  Call the LDC and let them know they cannot accept a volume at an end user point higher than their TBS.  b.  Or Measurement can call Jodie Floyd on the Gas Logistics Measurement Desk and Jodie will call LDC with the same info.  2.  If Measurement does not get an answer before measurement close, then measurement will use the number equal to the TBS for the end user point.  Gary and Ellis, you may want to have more discussions on this topic.  I would be glad to regroup if you want. I have put a call into Marketing to talk to them about our concerns on this issue.  Also Raetta and Jodie are going to go ahead and call Wisconsin Gas and get their explanation of why an end user point would be greater than the TBS.  Hopefully it is just a measurement error.  We will let you know the outcome.  If there is something I missed, please let me know.  Thanks. Lynn 
+ Joni, we will see if there is enough interest in doing a make-up session, we will certainly be glad to.  Thanks. Lynn 
+ Deb, yes I need to know who is attending and how many.  I will ensure we get you the handouts for Omaha ahead of time.  I will also send them to Minneapolis if there are any Marketers attending there as well.  Thanks for your help.  Lynn 
+ Ava, schedule time for you, Terry and I to meet next week and talk about the training and get the handouts ready.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ =09Ava, please update my email lists.  Thanks. Lynn 
+ We have reviewed the assignments Jean sent out earlier in the week.  At this time I think the split is OK.  I would like for you to put in writing for me the following:  Who is your back up on critical reports, etc when you are out. I would like for that back up to be someone that was NOT on your original team.  This may help us address the issue of the two "old" teams merging.  For example I am assuming if one rep has the shipper business and another rep has the operator business for the same company, then those two reps should back each other's desk.  Randy Janzen is backing up Jean Adams desk on Lamar Power Plant since he has AEP which is shipper that does business at the Lamar Plant.  Scott and Kathy support each other's desk since Kathy has ElPaso as a Shipper and Scott has ElPaso as Operator.  Harry and Joe support each other on Oneok since Harry has Bushton and Joe has the gathering  The areas of concern in relation to day to day business are below and need specific back up reps.  GPM Monthly Pricing Report Lamar Power Plant True Ups PVR Report Oneok Gathering Reporting NNG Administrative Contracts SPS Power Plant True Up Conoco Power Plant True Up MOPS Daily Report  The HIgh profile shippers/Operators that need specific back ups are as follows:  Duke/GPM Oneok Transcanada Dynegy Reliant ElPaso West Texas Gas  If there is any confusion with the email, please do not hesitate to call Terry or myself.  Thanks. Lynn 
+ Randy, did we have problems this weekend?  Thanks. Lynn 
+ Frank, since this never happened, are we going to meet with Mark Woofter to resolve this issue? Do Steve and I need to come up and sit down with you and Mark and come to a resolution that works for everyone?  Just let us know how you would like to handle.  Thanks for all your help. Lynn 
+ Maggie, Terry and Hasan, I would like to meet with you and Sheila to review both reports before we turn anything off. How about 1:00 Tuesday, October 9th in my office or Sheila's office?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Shelley, on NNG and TW, things were quiet.  The SoCal/West of Thoreau spreadsheet is on your desk.  Thanks. Lynn 
+ Sheila, FYI.  I guess she did get a ticket for $153.  Thanks. Lynn 
+ Ava, I was in the office for October 1 - 15th.   Thanks. Lynn 
+ Terry, Maggie and Sheila, if you get comfortable with the direction these emails are going, then we do NOT need to meet.  Let me know if you feel like we need to group together to finalize this issue and be sure we are on the same page.  Otherwise, I would ask that Maggie or Hasan do a final results email and let us know what the outcome is.  Thanks for everyone's help on getting this issue behind us. Lynn 
+ Shelley, here are the four PAA's for the people who tested the flowing gas. This does not include Larry or Legale.  Brad, Rick and I are discussing how to handle these two.  The attached PAA's are for Kathy Sturr, Diana Porter, Renee Perry and Jean Adams.  If you have any questions, please let me know.   Thanks. Lynn 
+ =09The attached was sent to all the attendees at the NNG Winter Ops Meeting= .  Thought =09you might be interested in reviewing the summary.  If you have any quest= ions, please =09let me know.  Thanks. Lynn (Ext. 3-7637) 
+ Lisa, I will not be able to walk, but put me down for $25.00 for you.  Thanks. Lynn 
+ Thought I would send this to you to approve.  Thanks. Lynn 
+ Sheila, good to hear from you.  The meeting went very well. although I was very nervous about this one. Good response from the customers.  We had approximately 80 customers at the meeting.  I think that is a record.  Call me when you feel like it and I tell you more.  Hope you are feeling well.  Thanks. Lynn 
+ Todd, I'll be glad to lead the discussion.  Is this informal or do I have to have a formal presentation?  Thanks. Lynn 
+ Large.  Thanks. Lynn 
+ Todd, sounds good to me.  Iike that better than a formal presentation.  Thanks. Lynn 
+ Alma, please include Terry Kowalke and Darrell Schoolcraft.  Thanks. Lynn 
+ Jennifer, how long has this been a problem?  Is there a concern we have caused customers problems in nominating due to bad information?  Thanks. Lynn 
+ Thanks Gerry.  I did not pick up on that.  Lynn 
+ Richard, did this get properly taken care of?  Thanks. Lynn 
+ Todd, that will be perfect.  I think we will have a very good discussion.  Thanks. Lynn 
+  Shelley, we have established Monday afternoon after Steve Harris' staff meeting to meet and discuss:  1.  TW Shipper Imbalance Status  2.  OBA termination/Resolution  We will stay in the conference room on 13.  Just wanted to let you know this is replacing our Tuesday morning meeting which was not working well since everyone moved.  Thanks. Lynn 
+ Terry, please review and let me know if this sounds OK.  Thanks. Lynn   We met with SoCal today to discuss the changes SoCal is making for November 1.  Here is a high level recap in relation to impacts on TW:  1.  SoCal will NOT set the capacity at needles lower than 750 unless they have operational problems. And they will maintain 750 for a gas day (during all cycles).  (Good news for TW)  2.  SoCal may set a capacity higher than 750.  If they do, they will maintain that capacity for a gas day (during all cycles), unless there are specific operational problems. (Good news for TW)  4.  SoCal will have the option to call OFO's at the beginning of each cycle for the gas day.  Today they only call an OFO before the gas day begins. Starting Nov. 1, they can call an OFO anytime before a GISB cycle, including Intraday 1 and Intraday 2 which are cycles in the gas day. (This will be a major impact to SoCal's customers)  5.  SoCal says the "windowing" is gone.  But, they are still giving us a capacity and TW will continue to do the allocation if nominations exceed their capacity.  6.  SoCal can still reduce the scheduled volumes after an allocation.  This would be due to SoCal's market not burning their schedule.  At that time SoCal will confirm down to the market burn.  Overall, our process does not change. If you have any questions, please let me know.  Thanks. Lynn 
+ Charlie, let me try calling Delaine in the morning and ask her who is next in the chain of command I should visit with on this issue.  Let's see what kind of a response I get.  If that does not work, then Mike or Shelley may need to call.  I will let you know.  Thanks. Lynn 
+ We met with SoCal today to discuss the changes SoCal is making for November 1.  Here is a high level recap in relation to impacts on TW:  1.  SoCal will NOT set the capacity at needles lower than 750 unless they have operational problems. And they will maintain 750 for a gas day (during all cycles).  (Good news for TW)  2.  SoCal may set a capacity higher than 750.  If they do, they will maintain that capacity for a gas day (during all cycles), unless there are specific operational problems. (Good news for TW)  4.  SoCal will have the option to call OFO's at the beginning of each cycle for the gas day, which could cause a confirmation reduction.  Today they only call an OFO before the gas day begins.   Starting Nov. 1, they can call an OFO anytime before a GISB cycle, including Intraday 1 and Intraday 2 which are cycles in the gas day. (This will be a major impact to SoCal's customers)  5.  SoCal says the "windowing" is gone.  But, they are still giving us a capacity and TW will continue to do the allocation if nominations exceed their capacity.  6.  SoCal can still reduce the scheduled volumes after an allocation.  This would be due to SoCal's market not burning their schedule.  At that time SoCal will confirm down to the market burn.  Overall, our process does not change. If you have any questions, please let me know.  Thanks. Lynn 
+ Todd, I am planning on attending.  Thanks. Lynn Blair 
+ Tracy, thanks for staying on top of this.  It is my understanding the $6500 is for old Shipper imbalances and cleans up all of Dynegy.  Thanks Lynn 
+ Ricki, the imbalance meeting will be at 3:30 on Mondays in 1336.  Thanks. Lynn 
+ Yes, I am available.  Thanks. Lynn 
+ Shelley, I am available to meet through lunch.  Thanks. Lynn 
+ Sheila, I have you on my calendar for 9:00 Friday.  Thanks. Lynn 
+  Penny and Michelle, I met with Larry Berger, Terry Kowalke and Raetta Zadow this morning to review yesterday's meeting on the concerns for DDVC's at "small customer delivery points" on the southend of NNG's system. Through our discussions, here are a few ideas including some of yesterday's discussion.  These ideas may be somewhat out of the norm, but we thought we would at least  throw them on the table.  1.  If Oneok cannot supply these deliveries, then Oneok should agree with us to lift the requirement that the supply has to be upstream of the delivery in the Bushton Universe.  It can still be required in the "Bushton Universe", just not as restrictive as it is today.  2.  If Oneok cannot supply these deliveries, then Oneok should allow us to do storage true ups at 8:00 a.m. at the end of the gas day to eliminate DDVC.  3.  If these deliveries are on Firm contracts, can we sell them SMS to cover these small volumes even though they are in the field area?  4.  Richfield Storage point - (I am not sure it is even active)  -  Could we get Oneok to agree to allow true ups if we are supplying the true up with gas coming from the Richfield storage point? I am sure this alternative would need to include the storage group.  We would be glad to participate in any future discussions.  Thanks. Lynn 
+  We rely on the information from the Process Responsibility meeting to post weekend coverage to the WEB.  The coverage is posted by Tuesday morning on the WEB, which is a commitment we have made to our customers.  Please ensure you do NOT change any coverage after the Process meeting. You should have the right information going into Monday's meeting.  It does not look good to continually repost this information.  If you have any questions, please let me know.  Thanks. Lynn 
+ Ava, did you get my message about possibly going to LA?  Looks like I am going unless cost is ridiculous.  Attached is the hotel I would stay in for Wed. night and possibly Thursday night, depending on what you find out with flights. Let me know.  Thanks. Lynn 
+  Attached is the supplemental PAA form that needs to be filled out with the form Shelley sent.    Thanks. Lynn 
+  Terry and John, is there a master list that we all use for the phoneburst we send out?  If so, who keeps it updated?  Thanks. Lynn 
+  Michelle said the Third Party Storage Tariff sheet is #304.  Thanks. Lynn 
+ Mike, the other question Michelle had, "Does NNG Contracts have a written procedure for approval of this type of contract?  Please check with Linda Trevino.  We are to meet with Michelle at 10:30 Friday morning.  Thanks. Lynn 
+ Ava, do you keep track of the Phoneburst list?  Let's discuss in the morning.  Thanks. Lynn 
+ Terry and Richard, let's discuss.  Thanks. Lynn 
+ Ava, have you been keeping track of  the people responding to the invitation? Thanks. Lynn 
+ I think there intent was to be very general.  You have the right sheet.  Thanks. Lynn 
+ Jodie, when you have time let's discuss.  Overall I am OK with plan, but had a question about who was monitoring imbalances.  Sounds like Marketing is instead of Gas Logistics?  Thanks. Lynn 
+ So is there nothing for us to do?  Thanks. Lynn 
+ Shelley, FYI.  Thought you might want for Monday's staff meeting  Donna, you may want to incorporate some of this in the weekly bullets.  Thanks. Lynn 
+ Raetta, are all our questions answered?  Thanks. Lynn 
+ Richard, I'll bring you both checks tonight when I get home. Thanks for the reminder.  Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, please schedule a meeting with all of the above people.  Thanks. Lynn 
+ Courtney, Randy Janzen is out of the office until Tuesday.  Can we have him do this on Tuesday or do I need to have someone else run the spreadsheet?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Mary and Steve, here is a high level recap of the presentation I am giving Marketing on Tuesday.  I would appreciate any thoughts or concerns you may have.     Maybe we can discuss at the 1:30 meeting Monday.  Thanks. Lynn 
+ Shelley, wanted to pass this on to you.  Mike and I just talked about this and we are going to work with Richard and Reyna to be sure this cannot happen in the future.  (One of those surprises we were talking about earlier today).  Thanks. Lynn 
+ Ava, fyi for scheduling this meeting.  Thanks. Lynn 
+ FYI.  Just to keep you both in thel oop on some Oneok issues.  Thanks. Lynn 
+ Larry and Raetta, please work with Randy to ensure we get the anaylsis done and that we are all comfortable with the results.  Thanks. Lynn 
+ John and Terry, I want you two in on this discussion.  Thanks. Lynn 
+ Ava and Deb, can you print colored copies of this chart for the Tuesday meeting? I wanted to go ahead and send this since it may take you awhile to print.  The rest of the presentation will be coming on Monday.  Thanks. Lynn 
+  Ava, we need to meet first thing Monday to see where you are on the Agenda for Tuesday's meeting plus I need this presentation in power point Mondy morning as well.  Thanks. Lynn 
+ Ava, please coordinate with Alma a time Rick, Larry and I can talk about the flowing gas documents no accessible to customers.  Thanks. Lynn 
+  On NNG and TW we had a quiet weekend.  Sunday's Gas Day  - Drafted 60,000 mmcf/d  Monday - No draft  Thanks. Lynn 
+ Shelley, one more comment:  Pinnacle Terry is the only point shutin due to the ElPaso nitrogen issue.  John, Penny and Darrell are monitoring the situation.  John and Penny are working with legal and regulatory on a letter to be posted to the WEB.  Thanks. Lynn 
+ Steve, there are no changes from last heating season.  We are just trying to refresh everyone's memor as to the current procedures.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+   Jo,  At Pinnacle Terry  there is only one shipper - Tristar Gas Marketing for 800 dth  At Elpaso Keystone as of today Reliant is the only shipper for 14,000 dth.  Is that the info you are looking for?  Thanks. Lynn 
+ [Blair, Lynn]  	FYI.  Thanks. Lynn 
+  Steve and Mary, here is our first pass at information on the branchline curtailment for the marketing meeting tomorrow.  We can use this for our discussion at 1:30.  Mary, we will call your office at 1:30.  Thanks. Lynn 
+ I want to get together and discuss this before we call Dari or Rita. Ava, please set up a time on Wednesday or Thursday.  Thanks. Lynn 
+ Sorry, here is the attachment.  Ignore previous email.  Thanks. Lynn 
+  Ava, please add the following as the second bullet   OFO/PRIMARY FIRM REQUIREMENTS  Can NNG call shippers back to primary firm receipt points? 
+  Steve and Mary, here is a seperate Agenda item for us to discuss at 1:30.  Thanks. Lynn  OFO/PRIMARY FIRM REQUIREMENTS  Can NNG call shippers back to primary firm receipt points?   Answer:  Carlton is the only authorized OFO point NNG has on their system which we have done with the 250 at Carlton  We do not have this authority at all other points 
+ FYI.  Thanks. Lynn 
+ Mike, are you going to wait for input before sending this to Michelle?  Thanks. Lynn 
+ Raetta, did you ever get a response on this?  Thanks. Lynn 
+ Have you heard any rumbles about Sheila's note?  Please let her know if you have.  Thanks. Lynn 
+ Jean, I would like to order the BlackBerry.  My ID No. is 10028029.  Thanks. Lynn 
+ test 
+  Hope this gets to you.  Look forward to seeing you this evening.  Lynn 
+  I talked with Mary Darveaux and there are some possible billing changes  coming that we need to discuss in the morning.  1.  There may be a 10 day lag on pricing 2.  The MPS imbalance volume will be taken out of the tiering denominator calculation. (as well as fuel) 3.  We need to run a report to see how oftern (if at all) we have had imbalances on MPS contracts.  Do you have any time Wed. morning?  What about 9:00 a.m. in my office?  If that doesn't work we can look at tomorrow afternoon.  Thanks. Lynn 
+  Well, I wonder if you got my first message?  Here is the second one as  you requested.  Hope your day is going well.  See ya tonight.  Lynn 
+ I am fine with your explanation as well.  Is anyone complaining about only one person being able to view the info?  Thanks. Lynn 
+ Bob, I will be out of the office on Monday, Oct. 22nd., but Donna and John can work with Williams and the team to meet on MOPS scheduling.  I would like for you to meet with Donna and John before the 22nd to be sure we are comfortable with what information to pass back and forth.  John, would you take the lead working with Donna and Bob to cover the meeting on Monday.  Thanks. Lynn 
+ Hey, I got your message and you can flirt with me any time.  Lynn 
+ Tom, we would be glad to do a timeline review.  I will be out of town until next Wednesday.  John, would you please give Tom a call and work with Ava to set up a time for us to review. Tom, did a "brown bag" session work for you guys from 11:30 to 1:00?  If so, we can go that route again.  Thanks. Lynn 
+ Sounds like we are getting quite a bit more feed back.  We better re-group first thing in the morning.  Is everyone available at 8:30?  Thanks. Lynn 
+ I think it would be very prudent to put something on the WEB.  We talked about this at the Winter Ops meeting and it would be good to have another reminder.  John, would you work with Michelle and Bill to get a posting on the WEB since I will be out of town.  Thanks. Lynn 
+ Raetta and Larry, is there anything special we can do now to make January's re-bill easier? Thanks. Lynn 
+  Test - Looking forward to seeing you tonight.  Lynn 
+  Here is your second email.  See ya tonight!!  Lynn 
+ We can make the meeting Thursday afternoon if that is better for you guys.  It will be short because there is not a whole lot to discuss.   Rick, FYI, Shelley postponed her meeting until 10:00 in the morning so she could listen in on FERC meeting.  Possible means they do not have a final ruling as to what direction we are going, but she wanted to give us a "heads up" from a system perspective.  Hopefully that helps.  See ya'll in the morning.  Thanks. Lynn 
+ Donna, here is one we did for Raetta.  Thanks. Lynn 
+ Here are two we did for Harry and Tangie.  Thanks. Lynn 
+  How difficult would it be to add the volume to the summary report we do today?  Sheila and I met with Shelley and reviewed our process.  She felt very good about the process but would like to see the volumes impacted by the adjustments not just dollars.  We can discuss when I get back next week.  Thanks. Lynn 
+  Ava ran me a list of the people on the phone broadcast.  Sheila, your name is on the list. Are you getting phone messages?  She also cleaned up some old names on the list and added the new people.  Who do you guys think would be the best person to have responsibility for updates on this list?  Should we make it Ava and Alma with them backing each other up?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Here is a first pass at the customer letter.  Probably needs some work on more detail.    Thanks. Lynn 
+ Ava, please put me on the list. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Yes, I am playing.  Would you have John send me a message? Thanks. Lynn  This is fun!!!! -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ John, thanks for the update.  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ FYI.  Terry why don't you call Delaine and follow up that this has been taken care of.  Thanks. Lynn 
+ Jan, sorry for the inconvenience We in the process of making A change.  We will keep you Posted.  Thanks. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+  Just cchecking out my new Toy  Have a great day!!!!  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ John please get with vernon and greg and see what we can do.  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Thursdaay works better for me I would be glad to partcipat Any time thursday Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+  -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ I agree.  Thanks, Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ This is the neatest toy I have Had.  Much better than carrying a laptop. Thanks for yours and donna efforts to get this before I left.  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Fyi. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Fyi.  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+  -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ How about tomorrow, Wednesday, September 12, at 1:30 or 2:30?  Diana, Terry and John can meet me in my office and we can call Rita and Bob.  Thanks. Lynn 
+ Fyi.  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ I would love to attend but I am out of town.  Thanks. Lynn 
+ Shelley, I just found out this message did not go.  I am trying again.  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Ava please print attachment and give to steve to bring to omaha for me.  Thanks. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Sheila please talk to avashe had your name on the list she pulled so I am confused.  Thanks lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Jane what about this Tqhursday for lunch?  Are you available? Thanks lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Yes I am Coming twice.  I'llsee you thursday Oct 25. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ John here is a note from Jane about some things Marketiing wants to talk about at our mtg.  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Gary, I would be glad to do A prensentation for your group. I am out of town until Fri. I'llcall you to set up a time. Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ John, if the meeting is Monday I have jury duty.  What did you and Ava decide to do?  I'll call you in the morning.  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ FYI.  Thanks. Lynn 
+ John this message concens me. Did you talk to Ava this Morninv?  I'll call you in the morning. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Ava, do we need to worry about this?  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ John, can you give Konni a call. Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Terry, Christine is fine with m. Let"s discuss in the morning. Thanks, Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Fyi.  Thanks.  Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+  -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Ava, Regular time for me.  Thanks. Lynn 
+ Ava, that is fine.  Just have some one backing you up and put a note to all the teams.  Thanks. Lynn 
+ Mike, did any one ever answer Reyna?  Thanks. Lynn 
+ Ava, do we need to respond to this?  Thanks. Lynn 
+ Ava, would you please print these off for me on a colored printer.  Thanks. Lynn 
+ Gary, would one of the following dates and times work for you and your group?  November 1 - in the afternoon November 13 - in the morning November 14 - in the afternoon  Please give me a call and let me know if any of these work.  I am assuming you planning on 1 hour?  Is that right?  Thanks. Lynn 
+ Randy, do we still need to meet?  If so work with Ava on a time and date.  Thanks. Lynn 
+ FYI.  For meeting at 3:00.  Thanks. Lynn 
+ I am on jury duty Oct. 29th.  Please be sure you are working with Ava to check my calendar before scheduling a meeting.  Thanks. Lynn 
+ Terry, would you please check with all the teams to day to ensure they have talked with their customers about the scheduled quantities reports. Thanks. Lynn 
+ Karen, no problem.  I just want to be sure we are all learning and it sounds like you had some challenges which gave you some added training.  Hang in there.  The 8:00 a.m. Final does get easier as you do the process over and over.  Thanks for the update. Lynn 
+ FYI. Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ Nov 14 workS for me.  Ava please put on my calendar.  Gary I will call you when I get back in the office.  Thanks Lynn -------------------------- Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net) 
+ I am very interested in how they are going to "fix Saturday" on Tuesday.  We cannot go back in and adjust noms or scheduled volumes. Please let me know the results of thier adjustments.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Steve 
+ FYI.  These are Ava's duties as we defined last year.  Thanks. Lynn 
+ Please ensure the billing is done to reflect the balancing days we called.  Thanks. Lynn 
+ Shelley, FYI.  Just to let you know our practice.  John and/or Terry issue procedures in the attached format for any new service NNG or TW provides.  They also meet with the teams to review the procedures and make sure all parties are up to speed.  If you have any questions, please let me know.  Thanks. Lynn 
+ Ray, Teb is right..  Beginning with June billing for May production, we are billing FTS-2 reservation invoices on June 1 instead of May 31.  At some point in time we may move back to the last day of the month.  This would be after we have (1) automated the manual process or (2) managed to speed up the manual process to effectively capture the scheduled volumes for the last day of the month.  Hope I have not confused the issue for you. If you have any other questions, please let me know Thanks. Lynn 
+ Ava, here is the correct spelling of the two names we talked about today in= the team leader meeting.  Thanks. Lynn 
+ Tammy, let's go forward with this training.  Is there anything else you need from us?  Thanks. Lynn 
+ FYI.  so you have Brad's telephone number.  Thanks. Lynn 
+ Ava, please set up a 1 hour meeting with the following people.  Topic:   Status of the Morning Meeting Report  Attendees:  Don Powell, Dale Ratliff, John Buchanan, Steven January, Terry Kowalke, Gary Spraggins, Darrell Schoolcraft  This meeting needs to happen tomorrow.  Thanks. Lynn 
+ Todd, I am looking forward to the meeting in October as well as meeting you.  I wanted to let you know ETS would like to add one more person to list for the meeting.  Theresa Hess is now in the ETS Gs Logistics group and I think it would be beneficial for her to attend.  Please add Theresa on any future emails.  Her email address is theresa.hess@enron.com.  In talking with Sheryl, I think you are all booked up for the Sunday activity, but Sheryl put Theresa on the list in case of a cancellation.  One topic I wouldl ike to talk about at the meeting:  is the "mis matches" across interconnecting pipelines at the Intraday 2 cycle.  This is still a concern for the Enron pipes and I wold like to know if anyone has come up with any "great" ideas on minimizing these mismatches.  If you would like to discuss further, please call me (713) 853-7637.  Have a great day and I look forward to seeing you on October 21.  Thanks. Lynn 
+ Ava, please set up the following meeting:  Topic - TW Imbalance management  Attendees:  Darrel Schoolcraft Richard Hanigriff Steven January TK Lohman Sue Neville Lynn Blair Kim Watson  CC:  Rick Dietz  Thanks. Lynn 
+ Ava, Sue is a major attendee.  Do we need to reschedule?  Let's discuss.  Thanks. Lynn 
+ Ava, we need Don at this meeting.  Thanks. Lynn 
+ Ava, see if you can get this on my calendar for in the morning.  Thanks. Lynn 
+ FYI.  per our conversation.  Thanks. Lynn 
+ Larry, let's discuss in the morning.  Thanks. Lynn 
+ I appreciate your input.  All the other teams voted for meeting at 2:00 p.m in the afternoon.  So that is probably what we will go with.  Thanks.  Lynn 
+ Sherry, where was Jean?  Thanks. Lynn 
+ Jodie, did you ever meet with John?  Thanks. Lynn 
+ Dale, does this help any?  Thanks. Lynn 
+ Jamie, FYI.  Thanks. Lynn 
+ Tery, what did we do on this?  Thanks. Lynn 
+ FYI.  Wasn't sure if I had sent this to you.,  Thanks. Lynn 
+ Larry and raetta, cand we make sure we do not bill for the vented gas.  Can we work with measurement and redcue the actuals by the 8,000 to 10,000?  Steve, does anyone have the exact volume vented?  Thanks. Lynn 
+ Gary is right.  But if NGTS is the only contract, they will take the swing.= Or is Pioneer saying they want to take the swing?  If Pioneer wants to do the swing, maybe they could= do a contract to cover the swing volume only?  Karen and Larry, what do you think?  Thanks. = Lynn 
+ Wanted to give everyone an update on the status of the new report format for the morning meeting:  The report is completed for all information except:  Storage Operational Capacity Current and Accum Imbalances  The group working on this feels they will have all pieces of information available and the report completed by June 15, 2001.  The above referenced fields have been a challenge to get  the data base populated as needed.  But this group has done an excellent job in striving to give us an accurate report and not giving up on possibilities.  As you are aware, Gary and Darrell have already started using the report and we have changed how we report outages and allocations.  Storage will change once the new report is completed.  Don Powell and Dale Ratliff have been an excellent resource and very helpful to ensure we get the product we need.  If you have any other questions or any concerns about not getting the new report before June 15th, please let me know.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Tracy, we have already given the plaques to the employees, but I think they would like the case as well.  So go ahead and send them to me and I will give them to the employees.  Thanks. Lynn 
+ Ava, what kind of calendars do you have?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Tangie, very good letter.  I am assuming this does not include the PVR OBA, but all others. Is that a right assumption?  Thanks. Lynn 
+ Terry, what are your thoughts on these enhancements?  Thanks. Lynn 
+ Anna, at this time we have no openings available on the Gas Logistic Teams. Please do not hesitate to equire at any time and also watch the EBB for any postings. Thanks. Lynn 
+ Nancy, can we meet today at 1:30 to go over my budget?  Please let me know if that works for you.  Thanks. Lynn 
+ Mary, you probably saw this, but thought you might find it interesting.  Thank.s Lynn 
+ Thanks. Lynn 
+ Nancy, I can go either way.  If you guys want to meet and then I can catch up with Donna that is fine.  I just wanted to be sure we got you the answers you needed.  Thanks. Lynn 
+ Amy, are they paying for all the expenses except air fare?  If so, go ahead and plan on attending.  Thanks. Lynn 
+ Alma, how is this for Diana?  Is that enough?  Please call me if you need more.  Thanks. Lynn 
+ Donna, did you and Shelley have any more discussion on the move and getting a letter to the reps?  I would like to send something out to them.  There are a lot of questions. Thanks. Lynn 
+ Please read the note below and let's all make an effort to ensure Omaha can hear us in the Morning Meeting.  If you have any questions, let me know.  Thanks. Lynn 
+ Diana is very much a team player and ensures all the team members' accounts are billed accurately each month.   Diana is a very positive influence on her team. She is the first one to bring resolution to the table on any reconciliation that needs to be done on team issues as well as business issues.  Accomplishments -  Diana was nominated and selected for the Chairman's Award.  Alma, hopefully this helps.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Raetta, were these valid?  Thanks. Lynn 
+ Steve, this is going to possible make a difference in how much gets scheduled at Socal.  So you may see a little lower numbers at time.  Let's discuss if that does not make sense.  Thanks. Lynn 
+ Larry and Raetta, are we covered on the billing?  Thanks. Lynn 
+ Since I missed part of the meeting Friday, what was the to do on this topic?  Thanks. Lynn 
+ Estallee, how do we handle this?  Throught the PRC or seperately?  Thanks. Lynn 
+ Jerr, have you seen this letter?  Wanted to keep you in the loop.  Thanks. Lynn 
+ Sheila, FYI.  I had Hilda pull this info together for me when we were justifying moving reservation billing by one day.  This will need to be talked about for July billing of June production.  Thanks. Lynn 
+  FYI.  Thanks. Lynn 
+ Ava, what is the status of setting up the follow up meeting for those that = did not attend? Frazier King can tell you when they will have the tape.  Let's be sure to s= et this up by the end of June if possible.  Thanks. Lynn 
+ Ricki, no problem.  Let's also book 4194 for the day and I will talk to the three people that have meetings in 4194 to let them know they could use my office.   Are you OK with that?  Thanks. Lynn 
+ Ricki, I have talked with all the parties that have meetings on June 11 in 4194.  They will use my office if we have to bump them.  Thanks.  Lynn 
+ FYI.  We are accumulating the requests and will meet at a later date to determine if we add any points.  Thanks. Lynn 
+ Jean, I believe everyone received the same message.  The only response is if you fit the criteria below.  I am assuming you do not.  Please let me know if we need to discuss.  Thanks. Lynn 
+ John, what is the status of the agreement with UCU at the Sunflower point?  Are you still waiting to hear from Karen?  Thanks. Lynn 
+ Alma, hope this helps.  Let me know if you need anything else.  Thanks. Lynn 
+ Terry, let's discuss.  Thanks. Lynn 
+ Scott, per our conversation this afternoon, I wanted to follow up with this email.  We would appreicate help in ensuring NO ONE works on Gary Spraggins machine on the weekend.  For the last several weekends, he has come in on Monday mornings and cannot log into the system.  Gary and Darrell Schoolcraft are on NT while the rest of this floor (41) are on Windows 95.  If you need more explanation, please call Dale Ratliff or Steve January.  Thanks. Lynn 
+ Per Terry's comments, we have the "blocks" in the system to prevent any shipper from going to 16A back into the "Bushton Universe".  As long as that block is in place, we are OK with Duke using 16A for pooling purposes. Hopefully this answers your question.  If not let me know.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Wanted to be sure you were both in the loop that we are NOT posting Shipper imbalances to the Web, only OBA Dollar Valued agreements.  If you have any questions, please let me know.  This was decided after a meeting this morning with Shelley and Teb to review TW tariff and compliance.  Thanks. Lynn 
+ Lindy, I will be out of the office that week.  But Terry Kowalke will set in for me. Thanks. Lynn 
+ Attached is the agenda for the TW Imbalance meeting on:  Tuesday, June 12, 2001 1:00 p.m. - 2:00 p.m. EB4102    If you have any additions to this agenda, please let Ava know.  She will add the additions and resend the agenda.  Thanks. Lynn 
+ Shane, Sheila is in Arkansas.  She is doing a lot better.  Her "tingling in her arm and leg acted up again.  Hopefully she will be home this weekend.  I'll let you know when we hear something for sure.  Thanks. Lynn 
+ Since I am out of the office Friday, would you please work with Donna on the bullets we want in Shelley's weekly report.  Thanks. Lynn 
+ Ignore the next message.  I sent you the wrong bullets.  I would like for you guys to work with Donna on the bullets from our group that should be in Shelley's weekly report.  Thanks. Lynn 
+ Ava, I still cannot get in to ibuyit.  Were you able to get ahold of anyone?  Thanks. Lynn 
+ Scott, thanks for your help and quick response.  Lynn 
+ Beverly, thank you so much for your help this weekend and your offer to come into the office.  Between you, Amy and Terry we got through the weekend without a glitch on our side (even though we had system problems).  Tracy, I understand all is OK at your house.  I am glad to hear.  Cynthia, I understand you had some damage.  Please let us know if we can help in any way.  Linda and Bert, were you guys OK?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Sheila is now at home.  She is feeling better, but has a ways to go. They are still running test to determine the problem.  We will keep you posted as we get more information.  Below is Sheila's address to send her a card.  I know she would appreciate our prayers and encouragement.   Mrs. Sheila Nacey 8630 Pine Falls Dr. Houston, TX  77095 
+ I do not understand this schedule.  Where is Diana and Renee in the evenings?  Also can you give me the schedule for the weekends now that you have Diana and Renee on the weekends? Plus I would like to know what customers you gave Diana and Renee from a scheduling perspective and what you took away from them from an accounting perspective to even the workloads. Could one of you schedule some time with me and John to review the above questions? Thanks. Lynn 
+ Thought you would appreciate this.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Terry, would you please attend for me.  Thanks. Lynn 
+ Toby, what is the answer to this question.  Thanks. Lynn 
+ I wanted to say I really enjoyed our visit as well.  It has been a long time since I have set down and just visited with friends.  Jane, thanks for taking the intiative to make this happen. I agree, we need to do this again.  Tell Amanda, Seth and Kirby "hi" for me.  Thanks. Lynn 
+ Maggie, tell me what you need and I will be glad to  approve this request for Mike.  Thanks.  Lynn 
+ Ava, what does this mean?  Thanks. lynn 
+ Ava, no problem.  Just remind me on Friday.  Thanks. Lynn 
+ Toby, please post the attached notice to the WEB under Critical Notices.       TW team, please talk with your shippers to let them know the posting is out on the WEB even though they are getting an email.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Randy, what is the status of the OBA?  Thanks. Lynn 
+ Julia, it was so good to talk to you.  We do miss you around here. When Steve gets back from vacation, we will email you and set a lunch date.  Below is Sheila's address to send her a card.  I know she would appreciate your prayers and encouragement.   Mrs. Sheila Nacey 8630 Pine Falls Dr. Houston, TX  77095 Phone - 281-550-4531  Take care and call anytime.  Thanks. Lynn 
+ FYI.  Just to keep ya'll in the loop.  This fix should be ready for test on Monday and migrated Monday night for Tuesday's use.  This fix will be very beneficial in minimizing Shipper imbalances on NNG.  Terry and Gerry will work with the teams to be sure everyone is up to speed on the change.  If you have any questions while I am out next week, please check with Terry Kowalke or Mike Bodnar.   Thanks. Lynn 
+ Larry, I want to know if you did not get the response you needed.  Thanks. Lynn 
+ terry, are these instructions on the Intranet where we have critical and no= n critical procedures?  If not, can we put them out there?  Thanks. Lynn 
+ Shelley, just to keep you in the loop since I am out next wee.  This is the information we sent to Regulatory (Mary Darveaux) as we finalize info on the Strangers Gas Settlement. Tangie is working closely with Mary and will get her what she needs.  we are also working with Dan Fancler and Debbie Mosley in Finanace.    If you have any questions, please let Tangie or Raetta (who is working with Tangie on this) know.  Thanks. Lynn 
+ Ricki, I just wanted to follow up, I was told Cynthia and Linda neither one had damage.  Cynthia's mother and sister had flooding and Linda was without electricity for awhile.  If you are hearing something different, please let me know.  Thanks. Lynn 
+ Ava, are you going to be available for this meeting?  I would like to know the outcome of the meeting in relation to any concerns on sending out invoices.    Thanks. Lynn 
+ FYI.  Just wanted to be sure everyone had a copy of this letter.  In relation to this letter we had a posting go out on the WEB.  Please be sure everyone on the team has read this notice.  Thanks. Lynn 
+ Terry, can you have the teams getting Ava email addresses on the list this week if Dennis does not already have them in PLE.  Thanks. Lynn 
+ Ava, have you taken care of this?  Thanks. Lynn 
+ John, have we met all of these "to do's"?  Thanks. Lynn 
+ Ava, have you taken care of this?  Thanks. Lynn 
+ Brian, just wanted to follow up to be sure you had talked with Toby Kuehl and he had answered all your questions.  If you have all your answers, you do not need to respond to this note.  Have a great day.  Thanks. Lynn 
+ I am fine with this schedule.  I am a little concerned about Lynda testing because of Galen being out and the team shortage.  Should we have a back up to Lynda if she cannot get away from the day to day so we do not loose any time on the testing.  Just a thought.  Thanks. Lynn 
+ FYI.  Just to keep you in the loop.  This is on the Bushton Measurement arbitration.  Thanks. Lynn 
+ FYI.  to keep you in the loop.  Thanks. Lynn 
+ Ava, where are we on training?  Are we OK for end of month billing?  THanks. Lynn 
+ Ava, please be sure this is on my calendar.  Thanks. Lynn 
+ Sharon, I am doing very well but cannot come back to work until Tuesday.  They will remove all the drain tubes Monday. Thanks for your thoughts and prayers.  I'll see you on Tuesday.  Thanks. Lynn 
+ Toby, Terry and I talked about this and I will address it again in next weeks team leader meeting.  Sorry for any inconvenience.  The teams should be aware of the procedure.  Thanks. Lynn 
+ Randy, what did this mean to shippers nominating on NNG's pipe?  Do they have to change their location or POI number for nomination purposes?  If so, how did we communicate to the shippers.  How does this effect OBA's? Thanks for the update.  Lynn 
+ Dale, how are we coming on this project in relation to the info Esther sent you? Do you need anything else from Esther?  Thanks. Lynn 
+ Ava, can you sign me up for the Tuesday, June 26?  If I am not available, could you spend some time with me and train me after my conversion next week?  Thanks. Lynn 
+ Ava, thanks for the update.  Please let me know how the session goes.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  I am sure you are already up to speed.  Glad your back.  See ya on Tuesday.  Thanks. Lynn 
+ Mike, can you follow up with the team, Chris and Sue to be sure we are all on the same page on this issue?  Thanks. Lynn 
+ Joe, are you and Gary up to speed on this ElPaso outage on the 26th?  Any concerns on our side?  Thanks. Lynn 
+ Kelly, this would not send to the "Outlook Migration team".  So I am sending it to you Ava.  Ava, Please get with Kelly and find out how we send it to the team.  Thanks. Lynn 
+ Rick, if you have some time on Tuesday, I would like to visit with you about this.  I don't want this move to be any more negative than what it is.  I have a possible game plan I would like to talk with you about and then maybe you and I need to take Larry and Raetta to lunch give them a chance to talk and then let them know our next steps. Glad you are back.  Lynn 
+ It was good to get your note.  To answer your question, I had my last (hopefully) surgery last Monday, June 18th.  Everything went well.  I should be back to work on Tuesday, June 26th.  I was surprised I did not get postponed with the flooding down in the Medical Center.  I stayed over one night and I was sure ready to go home the next day.  I really felt for those nurses.  The hospital (Diagnostic Hospital) was full to capacity since they were helping out the Medthodist and Herman hospitals.  Hope all your belongings in storage were OK.  I am so glad ya'll did not have more damage than you did.  I talked to Ricki yesterday and she has people starting to come in and redo the walls in her house this week.  I am so glad you told me about Steve Klimesh's mom.  I had not heard about that. Do you by chance have his address.  I would like to send him a card.  I had lunch with him right before he left and he was really looking forward to spending time with his Mom.  Speaking of parents, how are yours?  Hope they are both doing well.  As soon as Steve gets back we will email you and definitely go to lunch.  Take care of each other.  We sure miss you both.  Lynn 
+ FYI.  Just to keep you in the loop.   John, will you verify with Charlie that Rick Kile and Ronnie have the lead on this and that he is not waiting on us for anything.  Thanks. Lynn 
+  I just reviewed a vacation report that covers vacation up through 8/15/01.  There are still a lot of people with a large amount of vacation.  I made an assumption everyone is carrying over 40 hours (which is the max) to 2002.  There was still a lot of vacation to be taken.  I would like to meet with a member from each team Friday, September 14, at 2:00 to review your teams schedule for the rest of the year.  We can meet in my office.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava and John, please let me know if we are not going to have this info by Tuesday.  THanks. Lynn 
+ An update on our change for the Storage Allocation.  Several questions have come up over the weekend.  The weekend crew is documenting the questions.  I have left Mike Bodnar and John Buchanan a phone mail message to research the questions and concerns on Monday.  Then we will group with storage and determine what changes need to be made.  One change we talked about on the Sunday morning call with storage is to be able to use SBS on the non allocated portion of storage.  ie, if we are allocating injections, then withdrawals should still use SBS.  If we are allocating withdrawals, then injections should still have access to SBS.  Mike Bodnar will pursue this enhancement further.  Thanks. Lynn 
+ Mike, since Terry is out this week, can you take the lead to find out status of this report as you are checking to consistency with this report and the automation of the storage report.  Let's discuss on Tuesday.  Thanks. Lynn 
+ Richard, what is the status of this issue?  Thanks. Lynn 
+ Ava, let's go ahead with this day and time.  I will cover for John.  Thanks. Lynn 
+ Mary, we would love to have you come.  Thanks. Lynn 
+ Randy, thanks for your prompt reply.  Lynn 
+ Galen's home address is as follows.  Several people had asked for it to send cards.  I am sure he would appreicate the thoughts and prayers.  Home Address 10622 Endicott Lane Houston, TX  77318   Thanks. Lynn 
+ Shelley, FYI. I thought I would pass this on to you.  This was the gentlemen from Italy that we spent time with a couple of weeks ago.  Thanks. Lynn 
+ Please let me know if you have received this test message.  Thanks, Ava 
+ This message was sent automatically by Microsoft Outlook to inform you that you have been designated as a delegate. You can now send messages on my behalf.  You have been given the following permissions on my folders: Calendar:   	Reviewer (can read items) Tasks:      	Editor (can read, create, and modify items) Inbox:      	Editor (can read, create, and modify items) Contacts:   	Editor (can read, create, and modify items) Notes:      	None Journal:    	None  To open folders for which you have permissions, point to Open on the File menu, and then click Other User's Folder. You must be running Microsoft Outlook to do this. 
+  I have 4 tickets for the Astros game on Thursday,July 12 and 4 tickets for Friday, July 13th.  Does anyone have a customer they would like to take to the game either one one of those nights?  Please let me know ASAP.  Thanks. Lynn 
+ Jean, Ava, has us covered.  Thanks. Lynn 
+ Christine and Janet, you two can have the tickets.  you need to discuss which night each of you want and let me know.  Thanks. Lynn 
+ Terry, FYI.  Thanks. Lynn 
+ Renee and Raetta, are you guys comfortable with this info?  Is there any thing else we need from the field on Marketing?  Thanks. Lynn 
+ FYI.  Thought you might be interested in seeing this.  Hope all is well.  Thanks. Lynn 
+ FYI.  Gary did a good job of addressing some issues for us.  Thanks. Lynn 
+  Donna, please move the following people:  Terry Kowalke - September 20  John Buchanan - September 21  Lynn Blair - September 24  Thanks. Lynn 
+ Sharon, Gina is taking care of this since Shelley is out of town.  We are very sorry we missed his name.  I am glad he said something.  Shelley, Richard is one of the NNG/TW Gas Controllers and was here all weekend of the flood. Thanks. Lynn 
+ Mike, is this taken care of ?  Thanks. Lynn 
+ Janet and Christine, I need:  Which date each of you want: Who you are taking (name) Company Name they are representing  Thanks. Lynn 
+  Just a reminder to let everyone know Ava is out of the office on vacation this week.  She will be returning on Monday, July 9th.  If you need administrative assistance, please call Sharon Brown.  Thanks. Lynn 
+ Mike, sorry, I probably deleted not realizing it (I was adjusting to Outlook)  Would you mind resending it.  Thanks. Lynn 
+ Ricki, FYI.  I gave Christine the tickets for July 12th.  I will get you the info from Janet for the 13th.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+  Shelley, we had our weekly TW imbalance meeting this morning and I think you will be very pleased next week to see the progress the team has made.  They have come up with plans for both the dollar valued and volumetric imbalances.  We have ensured the volumetric imbalances have not grown this last week and will continue this effort.  TK, Darrell and Dan are bringing suggestions to the table to look at the economics of what the customers are doing.   We will continue to monitor throughout this week and weekend and be ready for an update on Tuesday.  Hope you both are having a great vacation.  See ya next week.  Lynn 
+ John and Terry, please review and let me know any comments.  Rick and Jodie, FYI Thanks. Lynn 
+ Tammy, would you have some time for us to discuss our game plan?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Any changes you want to make are OK with me.  Thanks. Lynn 
+  Sharon, could add the following company/person to the invitee list.  In talking with Bob Stevens it sounds like Semco is doing more and more business on NNG and he felt we should invite them.  Semco Dave Tyler Manager of Regulatory Affairs and Gas Services dave.tyler@semcoenergy.com   Thanks. Lynn 
+ Ricki, are you planning on Ava covering for you next week when she gets back? Or is Alma covering for you? Thanks. Lynn 
+  I have 4 astro tickets forTuesday, July 17 (Astro vs Cleveland Indians)  and 4 tickets for Friday, July 20 (Astro vs Cubs)  Does anyone have customers they would like to take.  Please let me know the date, name of customer and customer company ASAP.  Thanks. Lynn 
+ I don't think anything has changed.  I just wanted to be sure I had the right understanding. Ava can certainly help out where needed.  Thanks. Lynn 
+  There will be an update meeting on the status of the TW customer meeting on Tuesday, July 10 at 1:00 p.m. in EB4194.  The meeting will focus on the following:  Finalizing date - October 23 or October 24, 2001 Ensuring everyone has seen the customer list Boat - Size Meals Gifts Access to training room in Enron Building on 5 Agreement on invitation (Mark your Calendar) to be sent mid July  Status of Agenda  Thanks. Lynn 
+ Sorry for the change.  But the below referenced meeting has been re-scheduled for:  Wednesday, July 11 at 3:00 p.m. in EB4102  Thanks.  Lynn 
+ Rick, Mike and Jodie, we reviewed the attached recommendation and wanted to pass on an idea to you. On NNG, we are trying to ensure new or existing meters do NOT come on without a schedule volume to ensure proper billing.  Since TBS' on NNG do not always have a scheduled volume tied to it, we may need to ensure the volume is covered at the Zone level by the shipper. Do you think this is something the Measurement Desk could help the field with?  We certainly would be glad to help in any way on the scheduling side. This is especially important for new meters as we go through the billing process. Just a thought.  Thanks. Lynn 
+ It's a surprise!!!!!!!!!!! - We had a choice of 2 different sizes and Ava is checking on some info for us.  Thanks. lynn 
+ Mike, thank you for the update.  My only concern now is the file Jeff sent us last night took 13 hours to load (I am not sure it ever loaded). I know Jeff is diligently working on this, hopefully he can get this fixed this weekend.  Tammy has a call into Jeff to see if we need someone available this weekend to help test.  Thanks again for your support and follow up. 
+  Here is our first draft. 
+  Tammy, thanks for the update.  Please keep me posted if we are not going to meet Wed. dead line.  Thanks. Lynn 
+  Ranelle, I have a meeting Tuesday afternoon from 2:30 - 3;30 and Wednesday from 1:00 - 2:00. Otherwise I am available on those two afternoons.  I would like for John Buchanan and Terry Kowalke to be included on this discussion.  Thanks for getting this meeting set up.  Lynn 
+ FYI.  Thanks. Lynn 
+ Dennis, you are right, we are in the process of combining the two northend teams. They should be getting with you to give you any info you need to update PLE. Thanks for following up on this.  Lynn 
+  =09Dennis, John has been working with IT on a Forest and Trees issue which = was fixed =09this weekend.  You might want to check and see if it is the same problem= you are having. =09Thanks. Lynn 
+  FYI.  This is Christopher's roommates resume.  Mary Kay is sending me Christophers today hopefully.  Thanks. Lynn 
+ FYI. Thanks. Lynn 
+ Ava, go ahead and get you a new printer.  Thanks. Lynn 
+ John, can you please review and make sure Dennis has all our people plus as= sociates on the=20 distribution list.  Thanks. Lynn 
+ FYI.  Thanks. LYnn 
+ =09FYI.  Thansk. Lynn 
+ I am fine with Gary and Darrel having update access as long as they understand that it means they have access to change shippers info.  Thanks. Lynn 
+ Ava, how should we handle?  Thanks. Lynn 
+ Ava, here is the other email I got on expense report.  Thank.s Lynn 
+ Talk about a blast from the past.  Thought you might like to see this.  Thanks. Lynn 
+ I know a lot of work has gone into this effort and I really appreciate all the creative thinking some of you have done to accomplish our new report.  Dale and John, would you please work together to get the accounting support team to meet with us and to talk to someone about the long-term implementation of this project. Thanks. Lynn 
+  Here are a couple of things I want to be sure we discuss in the morning.   Two Associate Interviews - Bring to Houston  PRC  My conversation with Brad about the Migration this weekend Meeting scheduled for Thursday  PGAS concerns - Jodie taking lead with you and reps 
+ Ava, just wanted to be sure you saw this.  Thanks. Lynn 
+  Terry, would you work with Darrell on this issue and let me know outcome?  Thanks. Lynn 
+ Donna, I want to be sure we put this in Friday's bullets if Mary leaves it out.  This is signifcant for her as well as the North Team.  Thanks. Lynn 
+ Alicia, I am sorry I did not get this sent to you earlier, but I have a prior commitment and will not be able to attend.  I hope it is a good time for everyone else.  Thanks. Lynn 
+ Larry and Raetta, did Randy do this on his own?  Thanks. Lynn 
+ Ava, I will contribute $10.00.  Jut come by and get it.  Thanks. Lynn 
+  Attached is the action form HR has indicated we are to use for Level 3 performer.  This form will be in addition to the PEP system Peformance review form.  In discussions with Shelly we will use the form for all Level 3, but ONLY input "target dates" for those employees with issues.     Thought I would pass it on and let you modify as you need for your reviews.  If I have throughly confused you, give me a call.  Thanks. Lynn 
+  Julia, got your message last night.  Hope all is well.  Steve and I wondered if you would be available for lunch, Tuesday, Wednesday or possibly Thursday next week.  We would love to see you and Dave.  Let us know.  We can meet you wherever it is convenient for you.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Terry and John, do you have Mike's desk covered on those two days?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, did you recieve this message?  Thanks. Lynn 
+  Well, guys sorry it has taken me so long to get this out.  But attached is the list of functions that we could designate certain assistants to be primary and secondary knowledge base.      Please review and let me know of changes and additions you would like to see by Tuesday, July 17th.  Then I will recap for the Wednesday meeting.  Thanks. Lynn 
+  Ava, please change per our conversation.  Thanks Lynn 
+ Julia, Thursday sounds great.  We can leave as early as 11:00 a.m. since Steve is catching a plane to Minneapolis that afternoon.  Just let us know where and when. We look forward to seeing you guys Thursday.  Have a good week.  Thanks. Lynn 
+ FYI.  A little higher capacity than we had anticipated.  Thanks. Lynn 
+ Ava, please get with Randy and look at his schedule and mine for us to meet the first of next week.  Thanks. Lynn 
+ Mike, thanks for your help on this effort as well as your quick response.  Lynn 
+ FYI.  Thanks. Lynn 
+ Gina here is the spreadsheet I was talking to you about.  Sorry I failed to put your name on here.  Thanks. Lynn 
+ No replied to these tickets.  Do you have anyone you want to give them to in your groups?  Thanks. Lynn 
+ Ricki, do we have any tickets for next week?  I would like to go ahead and give Laura some as a "thank you" for switching pipelines.  Thanks. Lynn 
+ FYI,  Thanks. Lynn 
+ Brad, sorry I did not get the message to Ava before she sent this out.  She will send another out in the morning and include Tammy.  Thanks. Lynn 
+ Gina, each assistant does time sheets.  So I believe Alma Green would be the person that supports you. Cost centers is Donna's responsibility to work with us.  She has been real good about researching information for us.  Just let her know what you need.  I may go ahead and have a Primary and Secondary for Time Sheet questions and we can discuss on Wed.  Thanks Lynn 
+ FYI.  Thanks. Lynn 
+ Becky, yes I got a note as well.  I was very impressed he took the time to acknowledge this situation to us.  Hope all is well for you.  I enjoyed the opportunity to work with you on Mauro's trip.  Take care.  Lynn 
+ Ricki, it might be quicker to re-create the timeline.  I can give you a colored copy so you can keep it identical to the one we have.  Thanks. Lynn 
+ Shelley, FYI.  Thought you might be interested in this info.  We will keep you posted.  Thanks. Lynn 
+ Dale, what is the timing for adding this information.  Also are you or John setting up the meeting to discuss the accounting imbalance info?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, did you send out last weeks notes?  If so can you resend to team advisors and coordinators.  Thanks. Lynn 
+ Shelley, I think you want to continue using this report.  It is the report we have used all along to confirm the number against the ultra sonic meters.  We can discuss further if you like.  Thanks. Lynn 
+ Sheila, could I have one of the nights next week to give to Laura for Astro tickets? I'll give you one of mine!!!!  Thanks. Lynn 
+ Shelley, the DCC (downstream capacity constraint) code was to acknowledge that the downstream is the constraint vs our pipeline being the constraint.  We are working with Tammy and Donna to come up with existing codes to use for Needles and Nigas.  Thanks. Lynn 
+ So, why did only Jean and Janet readily respond?  Thanks. Lynn 
+ Brad, do we need to bump this concern up a level?  or have you already?  Seems like there has been a LOT of down time.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ This message was sent automatically by Microsoft Outlook to inform you that you have been designated as a delegate. You can now send messages on my behalf.  You have been given the following permissions on my folders: Calendar:   	Reviewer (can read items) Tasks:      	None Inbox:      	None Contacts:   	None Notes:      	None Journal:    	None  To open folders for which you have permissions, point to Open on the File menu, and then click Other User's Folder. You must be running Microsoft Outlook to do this. 
+ Jeff, thanks for taking care of this.  We appreciate your help. Dale, would you let me know if everything looks OK in our systems for all three pipes? Thanks. Lynn 
+ When: Tuesday, July 24, 2001 10:00 AM-11:00 AM (GMT-06:00) Central Time (US & Canada). Where: Lynn's Office  *~*~*~*~*~*~*~*~*~* 
+ Ava, I have review the IP/TV anti trust and sent that to Frazier King.  Some of the others may have done the same.  You might call Frazier and see who is still on his list of these people.  And if my name pops up let me know.  Thanks. Lynn 
+  Todd, I am planning on attending both the Sunday event as well as the meeting on Monday.  I look forward to the meetings.  Thanks. Lynn 
+ Mike and Terry, does this impact our storage numbers for July?  Thanks. Lynn 
+  Karon, I would like to order a 15" flat screen monitor for Christine McEvoy (EB4135K).  Her monitor is going out and we need to replace it as soon as possible.  Please let me know if you need any additional information.  Thanks. Lynn 
+  I would like to have a meeting to review pros and cons in relation to the procedure Transwestern is using today for the SoCal Needles "window" allocation.  Some of the questions being asked:  1.  Why are we allocating for SoCal, (at their request)?  2.  Why are we allowing SoCal to set the capacity lower than TW's primary firm?  3.  What are the options for TW to change the alloction procedure at Needles?  I am sure there is a host of other questions we could answer as well.  We are looking at Tuesday, July 24, at 9:00 a.m or Wednesday, July 25, 1:30 p.m.  Please let Ava Garcia (713-853-5842) know which day is better for you.  Then we will get a room and let everyone know date and time.  Thanks. Lynn 
+ Tangie, I had a call from Delaine yesterday and she and several others want to come down the week of August 20th to clean up all issues.  I said let me know who is coming.  She is sending me a list.  Hopefully we can resolve this at that time.  Does that work for you? Also, are you here that week of August 20?  Thanks. Lynn 
+ FYI, Thanks. Lynn 
+ Brad, thanks for the info.  Also should John Dushinske be invited to this meeting?  He is the Vice President over the North End Generation load and new services.  Just a thought.  Thanks. Lynn 
+ Ava, FYI.  Thanks. Lynn 
+ When: Tuesday, July 24, 2001 9:00 AM-10:00 AM (GMT-06:00) Central Time (US & Canada). Where: Lynn's Office  *~*~*~*~*~*~*~*~*~* 
+ Ava, that is fine with me.  Just be sure you have a back up and let the teams know. who is the back up.  Thanks. Lynn 
+ Steve, FYI.  Thanks. Lynn 
+ Miranda, please sign me up for August 22 for the below referenced training session.  Thanks. Lynn 
+ Terry and John, please plan on attending.  Thanks. Lynn 
+ Rob and Teb, I heard you were interested in  joining us tomorrow at teh SoCal Needles meeting. Just wanted to send you the information below and let you know we have you covered for lunch as well.  Look forward to seeing you tomorrow.  Thanks. Lynn 
+ =09Alma, I have this meeting on my calendar.  Thanks. Lynn 
+ =09FYI.  Thanks. lYnn 
+ FYI.  Thanks. Lynn 
+ Jan, thanks for the update.  This helps me to "think" cold to pack!!!!!  Thansk. Lynn 
+ Tammy are doing Wed or Thursday?  I have Fran scheduled for Wed. morning, but can reschedule if we need to use that time for the accounting training.  If it is Thursday, I will reshuffle my meetings.  Thanks. Lynn 
+ Kent and Dave, I reviewed our analysis of the swing for July 17th this morning in the meeting.  High level recap is:   130,000		Due to building line pack from Monday's gas day 95,000		Day to Day payback and I/C shortages ( the bulk of this was to repay Norval and Valero Sprayberry about 60,000 from the previous day)  140,000		Due to Market Area overtake (this includes 40,000 of Mid Am imbalance plus 100,000 spread over ABC, D and EF.  In looking at LSF, we were not able to determine that any one zone over pulled.  It looked to be pretty evenly distributed)  15,000		Due to 5% tolerance on Power packs. _______ 380,000		The total swing was 419,000.  The difference of 39,000 is a combination operational adjustments.  Hopefully this helps to identify some of your concerns.  If you have any questions, please let me know.  Thanks. Lynn 
+ Steve, FYI.  Thansk. Lynn 
+ Mike, thanks for the info.  I would like to be included on receiving the log weekly.  Thanks. Lynn 
+ One of you may want to set in on this meeting.  If not I can bring you up to speed.  Thanks.  Lynn 
+ Vernon, yes, you can do pool to pool transactions on an MPS agreement. 
+ Vernon, please see my answers in red.  Sounds like you had a great meeting.  Let me know if you need any other info.  Thanks. Lynn 
+ When: Thursday, July 26, 2001 9:30 AM-10:00 AM (GMT-06:00) Central Time (US & Canada).  *~*~*~*~*~*~*~*~*~*  Brad, let's try calling Mike or Ed Thursday mg at 9:30?  Does that work for you 
+ Terry, please plan on attending.  Thanks. Lynn 
+ Shelley, FYI.  John is on call this weekend and will work closely with all the teams as we look at the EDI files on Sunday morning.  Thanks. Lynn 
+  John, would you please work with Brad Holmes and Jerry Medeles to capture all of the system enhancements we have made on NNG since last years meeting.  Thanks. Lynn 
+ Ava, would you please designate these on my calendar.  Thanks. Lynn 
+ Larry and Raetta, could you touch base with Kathy and see if you can help her out.  If not, then let's get together.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Mary, FYI.  Thought I would pass this on.  Would you like to discuss further?  Thanks. Lynn 
+ Mike and John, let's discuss?  I may have led Vernon astray?  Thanks. Lynn 
+  There is a meeting scheduled for Wednesday, August 1, to reveiew how TW allocates through pools.   Ava - Please see if you can possible get us 4102 and let us know where we will be meeting.  Ava - Please order food for 10 from Trebeards.  The combination red beans and rice and shrimp et..... (don't know how to spell!!).  Ramona - Carla is most interested in allocations through pools on the receipt side of the business.  Doesn't mean she won't ask about delivery.  Let's discuss.   Thanks. Lynn 
+ Shelley, FYI.  These are some of the comments and requests we get about people attending the meeting.  Normally since Duke is in town and Duke and Robert have an opportunity to meet here, we usually do not sent those reps to the Winter Ops meeting.  However, a lot is going on with Duke right now and it might be very beneficial for us to go ahead and send Robert.  I'll review the list with you before we make a final decision on who goes.  Thanks. Lynn 
+  Ava, we have finally made a decision to go with November 8 and 9th, 2001 for the TW Customer meeting.  Please work with Donna on the details and let me know if you are not able to get the hotel for that time frame.  Donna, it was also suggested we just do the meeting in the Enron building and then go down to Kehma for the boat ride.  What do you think of that idea?  Thanks.  Lynn 
+  FYI.  Thanks. Lynn 
+ Sheila, FYI.  Thanks. Lynn 
+  Larry and Raetta, do you agree with Dari's comment?  Thanks. Lynn 
+ Janet, please work with Larry and Raetta to put together a settlement letter.  I would like for Rick and Dari to review the letter before we send it.  Thanks. Lynn 
+ Shelley, FYI.  We will let you know how well this arrangement works after several weeks of testing it.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Dana, the signed copy after the meeting is fine with me.  Thanks. Lynn 
+ Ava, remember I am on vacation August 6 through August 17th.  So it would be good to schedule one for the week of August 20th,  maybe the 22 or 23 to give me a couple of days to get back.  Thanks. Lynn 
+ Do any of you know if we use this Right Fax?  Thanks. Lynn 
+ John, can you help me put together the presentation we want for the Winter Ops meeting?  Thanks. Lynn 
+ Let's discuss in the morning. Thanks. Lynn 
+  Donna, my portable PC I am using today is an IBM ThinkPad 600.  Please let me know if you need more info than that.  Thanks. Lynn 
+ Glen, do you want us to call you in your office?  Thanks. Lynn 
+ I talked to Lisa with ENW and told her I would pass her concern on to the regulatory and marketing group.  That seem to make her feel better anyway.  We are working with her and other customers as needed to help them through the Timely process for the first.  At this time we are not planning on extended the Timely deadline, but we will revisit that decision as we get closer to 11:30.  Thanks for everyones support and help.  Lynn 
+ Michele, just wanted to forward this to you and see if you would like to atten?  We would love to have you join us.  Thanks. Lynn 
+ I will be on vacation, but Terry Kowalke and Steve January can cover for me.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Toby, thanks for the way you sent this note to folks.  Lynn 
+ FYI. Are you aware of this?  Thanks. Lynn 
+ Do you guys agree with Vernon's answers?  Thanks. Lynn 
+ FYI.  Donna, I wanted to let you know this for budget purposes. I am still waiting to hear from South Central teams and TW.  Thanks. Lynn 
+ Vernon, looks good to me.  I also had John and Terry review it to be sure we did not mislead you.  They were fine as well.  Thanks. Lynn 
+  Did you receive? 
+ Shelley, for Saturday's gas day the Socal window was approximately 653,000. We actually scheduled 615,674 For Sunday's gas day the window started at 707,476 and ended at 645,892.  We actually scheduled 615,618 Otherwise the weekend was quite.  I'll leave the schedules for Socal on your desk in case you want them. Thanks. Lynn 
+ Shelley, I thought I would pass this on to you.  It is not too often we get to pass on good comments. I will include this info in the year end reviews as well since we are still working on the report Ken refers to.  Also this is another example of why we need a business objects person in our group or connected with out group.  Thanks. Lynn 
+  Alfredo, Joe Hartsoe and Shelley Corman have asked Dannis Ballard and myself to work with you on Mr. Formaggio's visit to Enron.  If possible, we would prefer August 23/24 for Mr Fomaggio's visit.  But, we certainly can made August 20/21 work if necessary. We look forward to meeting and visiting with Mr. Fomaggio.  Dannis and I will work on an agenda to cover the topics you listed below.  If you have any questions, please let Dannis or I know.  Thanks. Lynn 
+ Maria, I wanted to follow up after discussions with you and Shelley, th= e SoCal window is based on what SoCal=20 is willing to confirm into their system for the day.  It does not neces= sarily have anything to do with physical capacity at Needles. If you have any questions, please let us know.  Thanks.  Lynn =20 
+ =09Rachel, congratulations,  this is a well deserved promotion.  Thanks. Ly= nn 
+ Shelley, I do not see the ladies name you mentioned on any of these emails. If you will forward it to me.  I will send her this note.  Thanks. Lynn 
+  Donna, I need one laptop computer for Terry or John to use when they are out of town.  Please put them on the list. Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ TK and I haev reviewd and agree with the statement.  Thanks. Lynn 
+ Ricki, I do not have anything.  Thanks. Lynn 
+ TK, I saw this after you left.  See what your thoughts are?  Thanks. Lynn 
+ Terry, I agree.  Let's let them know.  Thanks. Lynn 
+ Thought you might be interested in seeing this for fun.  Have a great day.  Lynn 
+  Shelley, while I am on vacation John is working on two presentations for me.  1.  NNG Winter Ops Mtg -  a.  Start pulling together enhancements, LFT, Reverse Auction, team pictures, etc.  b.  Customer hot buttons for marketing and Customer Service - John will talk to teams to get ideas.  We will pass on to Dave Neubauer all marketing issues.  c.  John will work with Debbie Moore as we finalize the presentation.  2.  Italian Visitor -  a.  John is modifying an existing presentation we have used for international visitors.  b.  John will work with Debbie Moore to finalize presentation the week of Aug. 20th.  Shelley and Steve, let John know of any questions or concerns.  Thanks. Lynn 
+  In talking with Delaine today, the date has changed for Oneok to come to Houston. They are now looking at August 27 or 28th.  Mary, does that work for you at all?  Is everyone in the office those two days?  I will be in the office Monday morning, August 6, so let me know and then I will coordinate with Delaine.  Thanks. Lynn 
+ Raetta, how come these guys did not have access to SAP?  Just curious.  Thanks. Lynn 
+ Please set Randy Janzen up for SAP access.  Thanks. Lynn Blair 
+  I would like to remind everyone it is very critical that we send out accurate invoices to our customers.  It is our responsibility to review the reports ahead of time (Measurement, Preliminaries, etc).  I feel very strongly that we should NOT be taking comp days on critical accounting days. As I have stated in previous memos this is mainly, reservation close day, the day before commodity close and commodity close day.  You should also be considerate of your team when scheduling vacation around these days and ensure you have SPECIFIED proper back up. It is still your responsibility to ensure your invoices are properly reviewed and sent out whether you are in the office or not.  If you have any questions, please let me know.  Thanks. Lynn 
+ Toby, I wanted to be sure you saw this.  Thanks. Lynn 
+ Randy, that is great.  Keep me posted.  Thanks. Lynn 
+ Alma, John Buchanan will be attending in my place.  Please send him a request to attend.  Thanks. Lynn 
+  I will be out of the office August 6 thru August 17th.  In my absence you can contact the following people:  Scheduling Issues - John Buchanan Terry Kowalke  Gas Accounting Issues - Larry Berger Raetta Zadow Rick Dietz  Operational Issues - Gary Spraggins Darrell Schoolcraft Steve January  System Issues - Please go through John or Terry.  If they are not available, contact Brad Holmes  If you need a Director for signatures: Rick Dietz and Steve January will be available.  Have a great two weeks.  I will be thinking of all of you while I am on vacation!!!!!!  Thanks. Lynn 
+  Since we are all moving at different times, we have declared this week to be "causal week" to accomodate cleaning out files, desk, etc.  The more we clean out now, the easier it will be to move to our final destination.  We appreciate everyone's efforts to accomodate the move as best we can. Please let Donna, Sheila, Rick, Steve, Brad or I know if you have any questions.   Thanks. Lynn 
+ John, this was my original message.  so you can modify and resend.  Thanks. Lynn 
+ Fran, please update Leonards Review with the attached comments.  Thanks. Lynn 
+ Steve, I thought you might be interested in this meeting.  Thanks. Lynn 
+ Ava, please put this on my calendar.  Thanks. Lynn 
+ Mike, FYI.  Also, would you please follow up with Gerry and be sure we will have this fix in by September 1.  Thanks. Lynn 
+ John and Terry, what kind of training are we going to give the teams to be sure they understand how to use CAS?  Thanks. Lynn 
+ John, are we suppose to put together a handout for the morning meeting?  Let's discuss.  Thanks. Lynn 
+ John, FYI.  Thanks. Lynn 
+ John, did you ever get any information on this?  This may be part of our presentation. Thanks. Lynn 
+ Shawn, it was good to hear from you.  Sorry it has taken so long to answer.  I will certainly look at the possibility of Robert being at the customer meeting.  I appreciate your comments. I am glad Shawn is going to be able to attend.  Have a good week.  Thanks. Lynn 
+  Due to all the teams being on different floors, I am very concerned about coverage by John and Terry to accommodate all the team needs.  Here is a plan I would like to propose for now through March, 2002.  Terry concentrates on all TW issues and testing since he will be on 13 with the team.  John concentrates on NNG North end and testing since he will be on 42 with the NNG team  Mike concentrates on NNG South end and testing since he will be on 42 with the NNG team  As each of you are on vacation, then the other 2 will cover your area.  Another option is to have Larry and Raetta help out with the NNG teams during this time frame  Let's discuss on Wednesday after you have had a day to think about this.  Thanks. Lynn 
+ Ronnie, I just got back from vacation and wanted to follow up on the discussion below. Have you heard back from Jerry?  Do you need me to try calling Delaine again?  Thanks. Lynn 
+ Mike, thanks for the update.  I have a couple of questions/comments:  1.  Is Legal and Regulatory in the loop on these decisions?  2.  Anything we can automate, I would like to ensure we have the automation on the enhancement list.  I like the idea of automating the last bullet.  I am not sure if it is in CMS or elsewhere, but I would like to be sure we pursue this automation. Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Ava, please be sure this is on my calendar.  Thanks. Lynn 
+ Ava, no problem.  Just remind me.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ I talked with Gary Anderson and he has assured my this fix will be done before August production close.  As far as the "sum station" issue, they have it as an high priority.  He was not sure they would have it fixed by August close by should have it by September close.  Raetta if you hear anything different, please let me know.  Thanks. Lynn 
+ Raetta, if we could have an update before I go to Omaha next Monday I would appreicate it. We are meeting with Marketing and the new morning report format is one of the topics. Thanks. Lynn 
+  The accounting/Market Service SGA conference is being held this year in New Orleans on September 26 - 28.  I would like for each team to pick a candidate to attend this meeting.  If you attended last year, it would be good to give someone else an opportunity this year to attend.  A few of the highlights of the conference are: Internet Billing presentation and discussion Presentation on electric deregulation Natural Gas Prices Challenges and issues for electric scheduling and accounting  Please let me know who you candidate will be by Monday, August 27. If you have any questions about the conference, you can give me, Larry or Raetta a call.  Thanks. Lynn 
+  Fran, here is the draft we worked on today.  Thanks. Lynn 
+ Dale, what is the status of your research on this project.  Were we able to get to a zone level?  Thanks. Lynn 
+ Joe, are all of these points valid for transport?  Thanks. Lynn 
+ Larry/Randy, what is the status of the contracts?   Have they been terminated?  Thanks. Lynn 
+ Larry and Raetta, would you work with Janet to finalize this process and let me know the outcome.  Thanks. Lynn 
+  It looks like we are on for a meeting with Oneok on the 29th.  Are you guys in the office on that day?  The main topic of discussion is the new Mid Continent Market Center interconnect at Bushton.  Please let me know if you are available or not.  Thanks. Lynn 
+ FYI.  Is this the same on NNG and TW?  Thanks. Lynn 
+ Rob and Teb, this is the agenda I left you a message about.  I realize this is last minute, so if it does not work for you to visit with Mr. Formaggio, I think we can cover the time.  Thanks. Lynn 
+ Jim, good idea.  I had not thought about that.  Thanks. Lynn 
+  I talked with Delaine today to firm up our meeting on the 29th.  Here is the plan.  11:30 - 12:00  -  Lunch in the building (Ava can you get Trebeards)  12:00 - 4:30   -  Discuss:  Midcontinent Market Center I/C at Bushton Points that are on the wrong OBA Imbalances on the Gathering OBA American Processing Issues (Robert)  Let me know if we need to add anything else or have any quetions.  I think this will take the majority of the afternoon.  Ava, please get us a room (preferrably 4102) for the afternoon. 
+  I talked with Delaine today to firm up our meeting on the 29th.  Here is the plan.  11:30 - 12:00  -  Lunch in the building (Ava can you get Trebeards)  12:00 - 4:30   -  Discuss:  Midcontinent Market Center I/C at Bushton Points that are on the wrong OBA Imbalances on the Gathering OBA American Processing Issues (Robert)  Let me know if we need to add anything else or have any quetions.  I think this will take the majority of the afternoon.  Ava, please get us a room (preferrably 4102) for the afternoon.  Attendees from Oneok are:  Delaine Kurth, Kim Hardman, Sherry Rogers, maybe one other person.  Thanks. Lynn 
+ John, can you plan on attending?  Thanks. Lynn 
+ John looks good.  I have a call into Lisa Sawyer to get her opinion on the 9/30 target date. But you can go ahead and get this to Debbie.  Thanks. Lynn 
+ Karen, no problem we can call you in for your part only.  I do not have any more detail at this time, but if we get some before the 29th I will pass it on to you.  Thanks. Lynn 
+ Larry, thanks.  Just keep me posted.  Thanks. Lynn 
+ =09Vernon, here is what was sent to the customers.  Thanks. Lynn 
+ FYI.  Thank. Lynn 
+ Sharon, I found the agenda you sent out and Vernon sent it to Virginia Power.  This is their reply.  Thanks. Lynn 
+ FYI.  All four of you do not need to be there.  But I would like one from accounting and one from scheduling.  Thanks. Lynn 
+ Ava, I was in the office all this pay period.  Thanks. Lynn 
+ I am concerned we will have/or should have some of the frank discussions we have with AA setting in the room.  Is there anyway we could have a rooster everyone signs to show we attended if that is all they are concerned about?  Just a thought.  I can live with either decision, but I want to prep my people before the meeting if AA attends.  Thanks. Lynn 
+ Brad, I thought we were re-arranging the meeting to do Rates and Revenue before the other topics. Otherwise, looks good to me.  Thanks. Lynn 
+ Pat, thank you for sending this to me.  Do you by chance have Bill's home address?  Thanks. Lynn 
+ FYI Thanks. Lynn 
+ Shelley, I am assuming you are aware of this.  In case you weren't, I thought I would pass it on.  This is Bill's address.  Thanks. Lynn 
+  There are several things we need to discuss on Monday:  Schedule for not working weekends, but making up that time on evenings during the week.  Mastio study letter  Oneok Meeting  Shift Differential communication to teams - By payperiod vs by month  Winter Ops presentation   I did not want to forget these items.  Thanks. Lynn 
+ Terry, who requested these to be done before the 8:00 a.m. meeting?  Let's discuss.  Thanks. Lynn 
+ Charlie, I agree we should get payment either way.  Gas Logistics is meeting with Oneok on Wednesday on some other matters.  Do you want Steve Herber or I to mention this again to Delaine or wait to see what their review says?  Thanks. Lynn 
+  Jodie, Toby,  Steve and I are planning on reviewing and performing a practice run on our presentations.  We have 4102 from 9:00 a.m. to 11:00 a.m..  Anyone that wants to join us is welcome.  Thanks. Lynn 
+ Please review and let Dari and I  know of any changes, additions, etc.  Thanks. Lynn 
+ I definitely think we should let customers know as needed basis.  Someone should certainly talk to ENA.  Terry, please work with Jean on this.  John and Terry, are there other customers who download our rates?  Thanks. Lynn 
+ Raetta or Larry, do either one of you have the SMS chart on line?  I only have a hard copy.  If you could help Courtney out, I would appreciate it.  I will be in Omaha tomorrow and back in the office Wednesday.  Thanks. Lynn 
+ Ava, I think it is a great idea.  If Shelley is OK with it, would you please coordinate the effort.  Thanks. Lynn 
+ Guys, sorry we left off the day.  We are doing this on Friday, August 31.  Thanks. Lynn 
+ John, please work with the team to be sure we have the basis covered until we have our meeting next week.  Thanks. Lynn 
+ Approved.  Thanks. Lynn 
+ FYI.  Thought you might be interested.  Thanks. Lynn 
+ Randy, I think it would be a good idea to do some training in Omaha.  But we should coordinate it to cover all customers in the Omaha area.  Then we can do it in one trip. Thanks. Lynn 
+ John, thanks for questioning this.  Lynn 
+ Ava, please add to my calendar.  Thanks. Lynn 
+ Alfredo, I would be glad to visit with you tomorrow (Friday) anytime after 1:00 p.m.  You can call me at X37637 or if you get my phone mail you can call Ava Garcia at X35842 and she will find me for you. Thanks. Lynn 
+  I have 4 baseball tickets for Wednesday, September 12 and 4 tickets for Thursday, September 13 for the Astros vs Giants.  If anyone has a customer they would like to take, please let me know by Wednesday, September 5th.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Terry and Darrell, are you both planning on attending?  To keep this low key I will not attend, but will be available if you need me.  Are you OK with that?  Thanks. Lynn 
+ FYI. 
+  Shelley, I talked with Kent Miller and he confirmed that the Storage group sends storage volumes to EIA for reporting purposes.  They do NOT send anything to AGA.  But it is his understanding that AGA is getting their information from EIA so by default he believes that AGA gets NNG's storage numbers.  As a reminder this question came up in the staff meeting this week and I was to follow up with Kent.  If you have any questions, please let me know.  Thanks. Lynn 
+  Shelley, Just wanted to pass on to you, Becky Cantrell and I met with Alfredo today to review our discussions with Mr. Formaggio. We had a very good conversation and Alfredo may be calling in the future for more information.  If you have any questions, please let me know. Thanks. Lynn 
+ OK, here is what I have: For Wednesday, September 12 - Cynthia and Renee (NGPL) (2 tickets) For Wednesday, September 12 - Robert and Duke (2 tickets) For Thursday, September 13 - Bert and Texaco (4 tickets)  Cynthia I am assuming you only wanted 2 tickets.  If that is not correct let me know and we can give one of you the 12th and the other a later game.  Thanks. Lynn 
+ Ava, does Tim know I only have 30 minutes?  As far as I know Shelley will be having her staff meeting.  Otherwise, I am OK.  Thanks. Lynn 
+ Steve, I did not see your name.  Don't you usually approve these?  Thanks. Lynn 
+ If I understand correctly we will make the change for January 1, 2002.  Do NOT change anything for 2001.  Is that right Donna?  Thanks. Lynn 
+ Have you guys seen this email?  Just wanted to be sure you had.  Thanks. Lynn 
+ Mike, is this what you are looking for?  If I need to talk to anyone to help you get the referrel, let me know.  Thanks. Lynn 
+ Raetta, have we taken care of this?  Thanks. Lynn 
+ John, where are we on this item?  Thanks. Lynn 
+  I have approved all of the submitted reviewers for all teams with a few exceptions.  Those people who had changes will be notified by email.  The changes were necessary to ensure an even distribution.  If you would like to discuss any of the changes I had to make, please let me know.  Thanks. Lynn 
+  Laura, I had to change one of your reviewers.  I changed Christine to Amy.  I also removed Richard since he had been selected to many times.  I will visit with him though and get some feedback.  Please let me know if you have any questions.  Thanks. Lynn 
+  Christine, I had to change Laura to Linda Ward on your request.  We had to many people selecting Laura and I need to evenly distribute the reviews.  If you have any concerns, please let me know.  Thanks. Lynn 
+  Linda, I went ahead and assigned Beverly Miller, Amy Mulligan and Richard Hanigriff to review you.  You need to submit those three names in the morning.  Thanks. Lynn 
+  Sherry, I had to change from Chris to Debra on your reviewers.  I will still visit with Chris since you did put her name down.  Thanks. Lynn 
+  Chris I had to change  Sherry to Janet McDaniel on your reviews.  I will still visit with Sherry to get input from her for the year end review.  Thanks. Lynn 
+  Randy, I had to change Chris to Robert for one of your reviews.  Please let me know if you have any concerns.  Thanks. Lynn 
+  Joe, I had to change Chris to Robert on you Year end review.  Please let me know if you have any concerns.  Thanks. Lynn 
+ Ava, please put this on my calendar.  Thanks. Lynn 
+  Janet, I had to change from Harry to Kathy Sturr on one of your reviewers.  Please let me know if you have any concerns.  Thanks. Lynn 
+  Debra, I had to change from Chris to Janet McDaniel for one of your reviewers.  Please let me know if you have any concerns.  Thanks. Lynn 
+  Kathy, I had to change one of you reviewers from Chris to Randy Janzen.  Please let me know if you have any concerns.  Thanks. Lynn 
+  Randy, I had to change one of your reviewers from Diana Porter to Shirley Walden.  Please let me know if you have any concerns.  Thanks. Lynn 
+ Randy, in our meeting yesterday, I told people they could also give unsolicited feedback on any one on the team and encouraged them to do so.  I will talke with Diana to get some feedback from her without her having to fill out additional forms if that sounds OK with you.  Thanks. Lynn 
+ Ricki, that sounds great.  Would you please take care of this?  Make it from Gas Logistics?  Thanks. Lynn 
+  Do you still want to go to Lunch?  Call Me.  Thanks Lynn (7637) 
+ Janet, I will add Harry to your evaluation.  Thanks. Lynn 
+ Randy, make sure someone is up to speed on your process that can represent you in the meeting.  Thanks. Lynn 
+ Jean, very good memo.  Thanks for covering the basis internally on these issues.  Lynn 
+ Donna, I am not going to worry about this unless you tell me I need to.  Thanks. Lynn 
+ Who is sending the letter to let Bear Paw know we need prepayment?  Thanks. Lynn 
+ Shelley, FYI.  Thanks. Lynn 
+ Shelley, I have three PAA's that the North team has done.  Two people are IT.  I wasn't sure if that made a difference?  I told them I would see if we could get them done, but at this late date there were no guarantees.  If you approve, I will have Fran fill out the necessary blanks.  Thanks. Lynn 
+  Shelley, I wanted to see if I could get the PAA in for Ava.  I think she did a very good job on the Transwestern meeting and I would like to recognize her for that.  If you approve, then I will send to Fran to fill out the appropriate information.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Can we get processed?  Please call me.  Thanks. Lynn 
+  Fran, I have Shelley's approval on these.  Can we get them approved.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ FYI. Thanks. Lynn 
+ Mauro, it was very good to hear from you, I just wish it would have been under different circumstances.  I do appreicate your thoughtfulness.  Hope all is well with you and your family.  Take care.  Lynn Blair 
+  Paul gave me his home and cell phone numbers for this weekend in case anything comes up.  Home - 281-320-2563 Cell Phone - 281-731-0692  Please do not give out to anyone else without Paul knowing.  Thanks. Lynn 
+ Shelley, NNG and TW are ok.  We use UPS and direct mail only.  Thanks. Lynn 
+  Shelley, below is the TW information for December 1, 2001  (1) ENA did not nominate on Transwestern for 12/01/01.  (2) EES Contract 25980 - Nominated 	Scheduled 2100	      0		PRR LaMaquina Plant (POI 500539) did not confirm 
+ FYI.  This is the info I sent Shelley for Dec. 1 on TW.  We need to track any changes to this information during the weekend.  Please let Terry or I know if you have any questions.  Thanks. Lynn 
+  Kathy, here are the towns in question:   Westbrook - Westbrook Power and Light Leadyard - Interstate Power Ivanhoe - UCU Zone EF Milbank - NWPS  Thanks. Lynn 
+ Can you double check and make sure there are no outstanding issues in either category for my group and let me know what you find out.  Thanks. Lynn 
+  Shelley, there is nothing new from the scheduling business on TW and NNG.  Same as your last update.  Thanks. Lynn 
+  FYI.  Thanks. Lynn 
+ Ava, no problem.  Thanks. Lynn 
+ Sheryl, right now I am planning on coming in Friday night, late since I could not get there Saturday morning.  So hope all works out.  If not I am sure I can find something to do on Saturday.  Thanks. Lynn 
+ Kim, looks good to me.  I am ready for you to send to Drew.  Thanks for doing this.  Lynn 
+ John, let's discuss.  Thanks. Lynn 
+ We are in the process of calling customers to be sure they know the wire transfer has been changed. Thanks. Lynn 
+ Jean, this is a very good report.  Would you please add Steve January, Gary Spraggins, Mike Bodnar and Terry Kowalke to the list.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Glen, I had a conversation with Pat Davidson (SoCal) yesterday.  Things have been going smoothly, because SoCal has not been calling any OFO days.  She felt like we would not have an issue until spring and at that time, there is an expectation that SoCal could be calling more OFOs.  We agreed to continue talking, but that does not resolve the issue completely.  Thanks. Lynn 
+ Shelley, FYI.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Sheila, just an FYI.  This is the spreadsheet for ENA on NNG, plus some major interconnect info.  Thanks. Lynn 
+ =09Fyi.  Thanks. Lynn 
+ Terry, did we get Dave and Chris' second request done?  If not maybe John could work on it.  Thanks. Lynn 
+ Here is the update from the last meeting we had on the TW OBA issues and possibly making some TW imbalance filing changes.  We are to meet next week to review the information that has been gathered and consider our next steps.  Thought we could discuss on Friday.  Thanks. Lynn 
+ Glen, thanks for the quick turnaround.  Lynn 
+ I am available.  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ I agree we need to put this posting out.  Thanks. Lynn 
+ What are your thoughts on this?  Thanks. Lynn 
+ John, what did you do with this?  Thanks. Lynn 
+ FYI.  Thanks. Lynn 
+ Raetta, would you please work with Richard and have him do the same process you have done with NNG.  Thanks for everyone's help.  Lynn 
+ John, can you work with the Jean Adams and let's get this resolved?  Thanks. Lynn 
+  Ava, please set up a meeting with the following people:  Shelley Corman Rick Dietz Elizabeth Brown Terry Kowalke Lynn Blair  Timing:	This week - One hour - Make it towards the end of the week  Topic - Status

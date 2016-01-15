@@ -1,0 +1,110 @@
+working with the RAC IT, she would know the latest.  Stacey 
+  Does this make sense to you?  Stacey 
+ Make sure you have my e-mail address as the full name Stacey.W.White@enron.= com   I don't know why they would be coming back.  Hope you are doing well!  Stacey 
+ The report named: VaR and Peak Position Report By Trader <http://erv.corp.enron.com/linkFromExcel.asp?report_cd=22&report_name=VaR+and+Peak+Position+Report+By+Trader&category_cd=5&category_name=EAST&toc_hide=1&sTV1=5&TV1Exp=Y&current_efct_date=10/02/2001>, published as of 10/02/2001 is now available for viewing on the website.  (Revision: 4) 
+ The report named: VaR and Off-Peak Position Report By Trader <http://erv.corp.enron.com/linkFromExcel.asp?report_cd=23&report_name=VaR+and+Off-Peak+Position+Report+By+Trader&category_cd=5&category_name=EAST&toc_hide=1&sTV1=5&TV1Exp=Y&current_efct_date=10/02/2001>, published as of 10/02/2001 is now available for viewing on the website.  (Revision: 4) 
+ Are you still attending these meetings?  Stacey 
+ Let me know if this does not work.  This is a report straight from the calculation engine so it is easy and fast to generate.  Stacey 
+ Let's wait until we all meet so we don't piecemeal the data to you, but you are correct in your assumption about transmission for the East.  Stacey 
+ Sounds like a great idea to do follow-up reviews.  I have budgeted $2000 a month for travel and lodging on the West RC.  I would prefer you keep it to every six weeks in order to cover me coming up there and others coming down for training.  I think it would be beneficial for you to be able to meet with groups in Houston.  I also only budgeted for $100/month for Overtime/Working Meals so we may have to subsidize that with the traveling budget.  I have not heard anything lately on the video conferencing.  If you don't mind, ask Tim if he has made any decisions on the video conferencing.  Stacey 
+ Here you go.  It is totally liquidated, so no one will have to worry about it anymore!!!  Stacey 
+ Question re: Jeff Richter  Stacey 
+ Can you take a look at this report for the West and make sure it is correct.  Thanks, Stacey 
+ Thanks for doing all the work!  Stacey 
+ We will be having a staff meeting today.  If we can start at 12:15 rather than 12:00 that would be great because I have an 11:00 meeting.  John, What is the phone number where we can reach you?  Sorry I do not have an itinerary.  I would like to go over Doorstep findings and anything else you would like to fill me in on since we have not met in a while.  Stacey 
+ Can you let them know you will be doing this.  Stacey 
+ What was it?  stacey 
+ Lavorato is asking why Jeff Richter still has $25MM of reserve associated to him since he has moved to EES?  How would you like me to handle this question?  Thanks, Stacey 
+   I will talk to Tim re: Jeff Richter's Schedule C reserve and get back to you.  Stacey 
+ The blending vs. non-blending can be confusing and could potentially cause problems down the road so I would first like to make some general statements regarding the history or this change and what the rules should be as I understand them.  Only the curves applicable to the East NERC regions are being marked as a daily and monthly volatility; therefore, no blending is needed for daily options (they point directly to the daily vols) or monthly options (they point directly to the monthly vol).  All curves applicable to the West NERC regions are still being marked as intramonth and monthly; therefore, blending is needed to provide a volatility for daily options.  The best rules to be in place for the blending vs. non-blending would be based on curve.  East curves do not blend.  West curves do blend.  Therefore, ANY daily or monthly option in the East would not have to blend.  The potential problem that could be caused by making the rule apply to portfolios is that, for example, the East portfolio could potentially enter into an option at a West region (curve) and that transaction would need to use blended curves even though it is in the East portfolio.  Options at a different expiry than daily or monthly is another problem.  Are there different blending rules embedded in the code for weekly expiration?  We still need to discuss this.  I would be happy to all sit down and have a meeting concerning this issue whenever everyone is comfortable enough that we know all the current rules.  Let me know.  Stacey 
+ I agree with this request.  Stacey 
+ When you get around to setting up these fields for the West, please use the portfolio code 'W' for West and then use the same methodology for Book Code that Andrea did.  I'll let you know the answer she gets from Andrew re: 'US Power East' because you should be using 'US Power West'.  Stacey 
+ yes 
+ The file is in O:\_Dropbox\Stacey\Quarterly Comparison.xls  Let me know when you get the file so we can make sure it will work for you.  Thanks, Stacey 
+ Here is Thursday's data:  Broker	Deal ID	Enron Entity	Portfolio	Trader	Deal Date	Deal Start Date	Deal End Date	 Total Deal Volume INTERCONEXLL	814580.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 9:30	10/12/2001	10/13/2001	                       800 INTERCONEXLL	814582.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 9:31	10/12/2001	10/13/2001	                       800 INTERCONEXLL	814583.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 9:32	10/12/2001	10/13/2001	                       800 INTERCONEXLL	814594.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 9:37	10/12/2001	10/13/2001	                       800 INTERCONEXLL	815612.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 14:32	11/1/2001	11/30/2001	                  10,000 INTERCONEXLL	815655.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 14:42	10/15/2001	10/31/2001	                    6,000 INTERCONEXLL	815656.1	EPMI-ST-CA	WEST	Chris  Mallory	10/11/2001 14:44	10/15/2001	10/31/2001	                    6,000 Chris  Mallory Count	7 INTERCONEXLL	814642.1	EPMI-ST-NW	WEST	Diana  Scholtes	10/11/2001 9:28	10/12/2001	10/13/2001	                       800 INTERCONEXLL	814613.1	EPMI-ST-NW	WEST	Diana  Scholtes	10/11/2001 9:49	10/12/2001	10/13/2001	                       800 Diana  Scholtes Count	2 INTERCONEXLL	815156.1	EPMI-ST-SW	WEST	Holden  Salisbury	10/11/2001 12:42	10/12/2001	10/13/2001	                       400 INTERCONEXLL	815158.1	EPMI-ST-SW	WEST	Holden  Salisbury	10/11/2001 12:43	10/12/2001	10/13/2001	                       400 Holden  Salisbury Count	2 INTERCONEXLL	814976.1	EPMI-LT-SW	WEST	Matt  Motley	10/11/2001 11:37	11/1/2001	11/30/2001	                  10,000 INTERCONEXLL	814978.1	EPMI-LT-SW	WEST	Matt  Motley	10/11/2001 11:38	11/1/2001	11/30/2001	                  10,000 INTERCONEXLL	814981.1	EPMI-LT-SW	WEST	Matt  Motley	10/11/2001 11:38	7/1/2002	9/30/2002	                  30,800 INTERCONEXLL	814982.1	EPMI-LT-SW	WEST	Matt  Motley	10/11/2001 11:39	7/1/2002	9/30/2002	                  30,800 Matt  Motley Count	4 INTERCONEXLL	815155.1	EPMI-LT-NW	WEST	Mike  Swerzbin	10/11/2001 12:41	7/1/2002	9/30/2002	                  30,800 Mike  Swerzbin Count	1 INTERCONEXLL	814544.1	EPMI-ST-CA	WEST	Phil  Platter	10/11/2001 9:30	10/12/2001	10/13/2001	                       400 Phil  Platter Count	1 INTERCONEXLL	815598.1	EPMI-ST-NW	WEST	Sean  Crandall	10/11/2001 14:28	10/15/2001	10/31/2001	                    6,000 Sean  Crandall Count	1 INTERCONEXLL	815320.1	EPMI-ST-SW	WEST	Tom  Alonso	10/11/2001 13:22	10/12/2001	10/13/2001	                       800 Tom  Alonso Count	1 Grand Count	19 
+ All I ever saw was the e-mail from the Office of the Chair.  Stacey 
+ It was wonderful.  Not so excited to be back - I'm sure it will get better as the week goes on.  How was your flight?  Did you feel safer?  They want me to go on the London Doorstep in November, so I was just wondering.  Stacey 
+ Thanks!  Stacey 
+ Thank you!  Stacey 
+ Where did she get this information?  Is it a below the line adjustment (not in the DPR)?  Stacey 
+ Yes, she is actually down here right now and I am showing it to her.  Send me your names and I'll print them in color for her.  Stacey 
+ I understand all the following except the Index-Option.  Why would it be treated as a Spread-Option?  Stacey 
+ Wasn't sure if you had gotten this answered, but there is really no reason that should want to see this.  Stacey 
+ Sounds good, I will abide.  Stacey 
+ What is the latest on this?  Stacey 
+ Have them go through accounting.  This is non-trading expenses.  Not our area unless it runs through the DPR.  Stacey 
+ Did you send this to Kathy reeves?  She is in charge of Calgary's power risk management.  Stacey 
+ Dave,  Can you please approve or reject Samantha's request.  If you are not comfortable approving it, then reject it so she can resubmit.  When I went into the system today, it said it had already been assigned to you.  Stacey 
+ Wasn't sure if you had heard anything about Donnie testing for EES and EnPower.  I am not sure there is anything we need to do, just wanted to keep you in the loop.  Stacey 
+ FYI - here is the 6th floor plan with my group attached to desk.  Stacey 
+ I don't really like what they are suggesting either.  We'll talk Monday.  Besides, they(we) would have to get AA to sign off on half MTM half something else.  Stacey 
+ You can put John as your primary and me as  your secondary.  Stacey 
+ These are fine.  Hope all is well.  Stacey 
+ Just FYI - Thu Pham Arnold does our Global Counterparty requests now.  Stacey 
+ I forwarded this meeting to Casey.  I will be out of the office.  Stacey 
+ Hopefully you will be able to make it to this.  Sorry for the inconvenience. 
+ East Delivery Points for Facilities 
+   Let me know what other detail you need.  Stacey 
+ Make sure that all curves are downloaded by the end of simulation, 11:00 CST, tomorrow.  Ideally, the 2/7/02 curves should be marked in the morning prior to simulation.  We have been instructed to kick the calculation off as close to 11:00 CST as possible.  This is to ensure that ALL downstream systems are able to run through the simulation.  Please forward to all applicable traders.  Thanks, Stacey 
+ As you can see from various e-mails, Samantha will need to take responsibility for these twice weekly calcs.  I talked to Bob yesterday and he is aware that she is there and needing something to do.  Unofficially, he said that there should be no employee changes before the end of February, so Sam should start coming to work and taking over any specific West Estate requests.  Stacey 
+ We will be explaining the process to Tom Chapman for the East and Samantha Law for the West.  Stacey 
+ Also, will you get Tim to give direction on what traders will be allowed to trade what regions.  Thanks, Stacey 
+ You will be extremely missed!  Good luck in all your future ventures.  Stacey 
+ This should answer your regional trading question.  Once again, there is nothing to physically stop them from trading in any region, but the management decision on regional trading for the East is as follows.  I do not have this same information from the West.  Stacey 
+  Bob,  What is the plan for this going forward?  I am expecting that you will want to use my risk estate employees for this, I am correct?  Stacey 
+ Just a reminder to make sure you get Tim a list of books/regions that are currently designated to be traded.  We need to change trader names etc. so make sure he gets us this information as soon as possible.  Stacey 
+ Sounds good to me.  FYI - the option true-up was a different issue, related to the way options were being input into the system.  They had days which would fall out of the calc, not a last day of the month problem.  Stacey 
+ Bob,  What is the plan for this going forward?  I am expecting that you will want to use my risk estate employees for this, I am correct?  Stacey 
+ I certainly do not anticipate that we will.  I hope the Estate people are designating someone for this.  I am going to look into it.  Stacey 
+ Thank you. 
+ I think your resume looks good.  Brad called me today and they are definitely pulling together resumes.  He says send a resume, call or both.  Stacey 
+ Power December books are final.  This does not mean that every termination has been accounted for in the final Dec. 31 calculation.  We eventually hit a stopping point for terminations and will catch up the remainder of terminations in 'after December' books.  Also, power books are set up as you have defined below.  Stacey 
+ Will be there. 
+ Thanks for the reminder.  Just an FYI - it is not babysitting when it is your own kids.  (Just kidding - wanting to share a pet peeve of my sister's.)  Stacey 
+ I updated the Physical Power Terminated spreadsheet with the following update.  FYI - it is NSTAR!  Stacey 
+ Here's what he said.... 
+ Can you find out who in your HR would be a good contact for a job opening previously held by Lou Casari?  I have a friend at Enron, my first boss, who will probably be leaving the company, but does not want to leave Houston if she does not have to.  She is very well qualified for a management position, her resume should speak for itself.  Let me know.  Stacey 
+ Please update me on the answer to the following e-mail.  I am almost certain I know the answer, but would like to make sure we are all on the same page.  Thanks, Stacey 
+ Roberto,  Can you please add to the m: drive a first tier directory of common.  Please let me know ASAP that this is complete.  Thanks, Stacey White Director, Power Risk Management 713-853-1870 
+ Do you know if they got these same numbers from John?  Stacey 
+ Make sure you talk to Casey & John.  Most of my Houston group has been out of the office either this morning or this afternoon for a UBS orientation.  Stacey 
+ I will be out of the office for a UBS orientation.  Stacey 
+ Do you think we should get Sonia to update this?  Stacey 
+ Can you go to this meeting in the morning?  I have two others at this same time.  We can go over what they will be looking for before the meeting.  Stacey 
+ kimsach@hotmail  Here you go.  There is a chance I may have to go to a UBS dinner tonight, but it might get changed to tomorrow.  If it does get changed, I will be there tonight.  Stacey 
+ Thanks for the update.  I finally talked to him also.  The message you just told me, is what I communicated to Samantha.  Whenever or if ever, you find out more specifics re: Portland estate, please let me know.  Stacey 
+ Sounds good to me.  The only days I don't want to meet are the 4th and 5th.  Stacey 
+ According to Tim, if we could find no other spots for her to stay in Risk, she would be designated as VM and Kit Blair would be taken off the list.  Do you know what communication is being given to 'estate' employees in Portland?  Stacey 
+ I have re-confirmed with Power Operations and there are no more spots available to make room for one more risk person.  I have all of Heather's information and will be glad to communicate her offer to her, if it has not already been communicated.  Also, please let me know the message you are sending to 'estate' employees in Portland.  I would like to communicate the same message to Samantha.  If you want to talk to me you can reach me at 281-894-0468 or send me an e-mail.  Stacey 
+ Who do we ask to set up the m:\common?  This makes the most sense to me.  Stacey 
+ Thank you so much for this query.  At this time, I am not sure what happened to the numbers in our spreadsheet.  The data was pulled from AdHoc by calculating East, West, Eastbank, & Westbank.  However, the total we retrieved from AdHoc did not match the total Portcalc value.  I do not want you to spend time trying to figure out what happened to our spreadsheet because it could have been anything from using the wrong code to calc the books to simple user error.  There are too many variables that are unknown.  The good thing is, it works now.  Thanks, Stacey 
+ So sorry to be such a bother, but I just want to make sure that you received and are frantically thinking about my message.  UBS is needing names confirmed this morning so offer letters can go out today.  Stacey 
+ Home 281-412-9234 Cell 713-553-3641  Hope these are still the same.  Stacey 
+ Thanks 
+ The following post-id's represent the re-calcs for 11-30: 15785 - total P&L $48,108,223 15786 - total P&L $(128,887,942) 15788 - total P&L $1,168,735,362 15789 - total P&L $(101,541,449)  The total forward P&L for these post-id's should be $986,414,195  The following spreadsheets represents the final product from our request.  Please see if you can pull by the parameters we chose from AdHoc.    Stacey 
+ Can Cecilia do what she has requested below?  Stacey 
+ It looks good for me.  There are a couple of applications I do not have access to.  Let me know what method you would like me to take in requesting access.  Stacey 
+ You will LOVE this!  Stacey 
+ Have you told Kathy about this transfer?  Should it be a bankruptcy book?  Stacey 
+ have you forwarded to John, or do I need to? 
+ Are they working on it? 
+ Yes, thank you.  How much do I owe you?  Stacey 
+ I totally agree!!  Stacey 
+ Did y'all export, etc.?  Stacey 
+ Can you update the original file you sent with Bryce's changes below.  I am afraid I do not understand exactly what I should change on Sequent.  Thanks, Stacey 
+ Hope all is well.  My new e-mail is stacey.w.white@enron.com  The one you have will be decommissioned shortly.  I still have a job and will more than likely go to the 'new co.' - the piece that UBS has bid for.  Currently, we are extremely busy trying to close out old business at the same time as setting up details of the new business.  Russell and I are both well, probably working too hard.  What is new with you?  Stacey  If you get a chance give me a call - would love to talk to you.  713-853-1870 (w) 281-382-5215 (cell).  I tried the number listed on this e-mail for you, but it just rang and rang. 
+ Can you all verify that you do or do not use the applications listed below as soon as possible.  We are in the process of moving or discarding applications to move to the NETCO environment and are unaware of who uses the following applications.  Thanks, Stacey 
+ Thought you were moving this meeting to 3:00.  Jeff and I have a meeting with UBS from 1:00-2:30.  Stacey 
+ http://energycommerce.house.gov/107/news/layletter.pdf  Wasn't sure if you wanted to read the whole letter.  Here it is , if so.  Stacey 
+ Attached is a menu, please email me your order ASAP!    Thanks, "Z" 
+ EB3127 - Edith Cross (Service Deal) 
+ Claudia 
+ Room per Chaun - 3-3404 
+ The conference room is located by the kitchen on the 31st floor.  If you have any questions, please call "Z" at ext. 5-4858.  Thanks! 
+ If you have any questions, please call me at ext. 54858.  Thanks,  "Z" 
+ Thomas, if you have any questions, please call me at ext. 54858.  Thanks,  "Z" 
+ Lunch will be provided from CRUMLEYS COGWHEELS 
+ Vanessa, the meeting will take place in Conference Room EB3127 @ 4:30.  Thanks,  "Z" x54858 
+ EB3127 - Fiscal Yr. 2000 Audit Issue/Arthur Anderson(Juan Camarillo,Michelle Atwood)  Thanks,  "Z" x54858 
+ Avril Forster - (Power Market Report) - Meet at Stacey's Desk EB3102g  Please call if you have any questions.  Thanks,  "Z" (Zionette) Vincent x54858 
+ Renee,  FYI -  EB2378 - Trey Hardy/Georganne Hodges to meet with Stacey White RE: ENA California/Schedule C  Thanks,  "Z" x54858 
