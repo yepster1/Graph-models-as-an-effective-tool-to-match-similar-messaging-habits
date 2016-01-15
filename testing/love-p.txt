@@ -1,0 +1,332 @@
+ done the west and I have resaved this file out there.  I highlighted the rows to be changed in yellow.  If we all do this, we should be able to use the same list.  I added a column to the file and put IM S/B, LT S/B and Daily S/B. PL 
+ I only show that we should have triggered 1127631 for December and they did not trigger 1131418 at all.  They will need to provide documentation to us - i.e. signed confirms that show this was done.  Is the trigger price they are suggesting in our favor or not?  If it is in our favor, I am sure we will change it ASAP.  Please let me know. PL 
+ thanks PL 
+ http://espn.go.com/ncf/news/2002/0104/1305851.html 
+ I passed this on to my boss and he is not interested at this time.  Thanks for sending it and please keep me up to date on any opportunities you see that look good.  Thanks. PL 
+ I have no idea...hopefully we will know soon PL 
+  Please add Financial and Control group to these book requests if they are missing.  We would like for everyone to have access to these books that is on that matrix we sent you.  Thanks. PL 
+ Susan, attached is a new matrix for each desk.  This should replace the previous matrix you are using.  We are just putting our groups down in the access request list and this should be used to cross reference.  Please let me know if you have any questions.  Thanks. PL 
+ are you still in?  I need to get your nt login so you can be given access to the calcs.  Thanks. PL 
+ Guess what I just heard - Steve Spurrier has resigned.  No word yet on where he is going...check out espn.com  I got a Canon Elph 100 Talk to you soon. PL 
+ I hope it is not Woody, Vandy sucked at offense and defense.  He is horrible and I would hope we would go after somebody else.  We need to get someone in there soon so they can put the offense/defense in and the players can start studying it to get a head start on next year.  I am afraid if Tubby doesn't turn it around next year he may be gone.  I got a digital camera for Christmas that works real well, I will get some pictures to you. PL 
+ sorry Pop, I forgot to send this to you.  My home email is plove@houston.rr.com.  Talk to you this weekend.  I heard Auburn got rid of Off and Def coordinator.  We will see if that changes anything. PL 
+ I have tried to contact you guys three times today and have been on hold each time at least 20 minutes.  I cancelled my service with you over a month ago and asked that you keep from sending me a bill.  My service was cancelled immediately and I was told I would receive a bill from you and I would then have to call and dispute the bill to have my account credited.  I asked at that time since I had waited on hold that time for 30 minutes that this matter be taken care of immediately so that I would not have to call back and sit on hold again for half an hour.  Your customer service manager, very rudely I might add,  said that was impossible and I would just have to do it anyway.  Since I have had to wait on hold today for so long I want this email to serve as my dispute and have my account closed and the balance due removed since you terminated my service and I did not get the use of my phone.  Just a word of advice, I would hire more customer service representatives if you plan on keeping customer to serve.  This is by far the worst customer service experience I have ever had with a company and I will make sure all of my colleagues and friends know of this experience.  I understand that you don't really care about giving good customer service to your ex customers, but I assure you make a fatal error when you assume those people will not share there experience with current and future potential customers.  Phillip Love Acct. Number 00W-80016440 Mobile # 713-204-9164 
+ Do you have an estimated time on retranslation? PL 
+ I wouldn't expect anything.  I am sure everyone will move over as a lateral.  They may do retention packages, but I have not heard anything. 
+ FYI - the head hunter that I have been talking to forwarded this job description to me.  If you are interested in talking to her, let me know and I will give you the info.  She told me the salary is in the $140's. PL 
+ I saved the file for us to send to Susan Trevino for all the book access requests.  I added the control group and put goss, kam, valdes and his people in there.  So make sure you add that group to your book requests.  Please take a look at this file and let me know if we need to make any changes.  I plan on sending this file to Susan Trevino by tomorrow afternoon.  The file in located in the Netco directory under controls/desk matrix.  Thanks. PL 
+ nice.  real impressive. PL 
+ thanks. PL 
+ I just got back from lunch, when you get a chance, please stop by and we can talk about you coming to risk.  I sit at the end of the row at the row behind the flag that says gas risk management.  Thanks. PL 
+ let me know what she says, I have my request filled out and saved in the same directory, I will send it to her when we know if she can do it. PL 
+ Just wanted to let you guys in on a few things we have talked with Gossett about.  Today we officially begin the process for the New Company.  That being said, we now have to tighten the ship a bit.  From now on, please refrain from playing games and surfing the internet all day.  If you are bored and don't have anything to do, please look for things to do that are work related.  This is a good time to improve your skills and learn about things you are not absolutely proficient in.  Read some options books, study macros in the P&L's, etc.  The key phrase here is work to improve your skills so that we can shake off some of the rust we have developed in the last month.  All of this is coming from Goss and it is serious, to be a part of the new company you have to show that you are willing to contribute and are the best of the best.  I know this sounds harsh, but we have all had a nice vacation and I am sure most of you are like me and looking forward to not having such a boring job.  It looks as though bidders will be in this week, so we will have some reports and demonstrations to give.  Please pull me aside or email me if you have any further questions.  Thanks and Happy New Year. PL 
+ Intra-East-Phy should be Intra-Northeast-phy.  Is this in risktrac? PL 
+ http://www.click2houston.com/hou/news/stories/news-114261420011231-081253.html 
+ Please do this ASAP...I have to head out of town for a few days and we need this done ASAP.  Thanks.  Curves are under NW and SW in the netco directory - ask Kam for help.  Thanks. PL 
+ NG-Price contains All physical and All intercompany ENA-FT-WC-SJ Financial Deals that are out of the money ENA - FT-WT-SOCAL Financial Deals that are in the money  Shout with anymore questions. PL 
+ FYI -looks like everything is fine.  sorry for the mix up. PL 
+ P-1450608 B-1450609 I-1450610 GDM-1450611 GDY-1450612  PL 
+ here is the forwards detail minibook.  Looks like three deals today.  I have sorted by counterparty and period.  Looks like a few of these deals go out to calendar year 2002. PL 
+ While I was out Friday, we were expecting to get letters for people to sign for Netco, any news on that? PL 
+ file is saved to o:/_dropbox/finanical transprt 1220 PL 
+ if your values ref out on the transport model - hit Clt-Alt-F9. PL 
+ here it is, good luck. PL 
+ Here are the post ids: P-1448445 B-1448446 I-1448448 GDM-1448450 GDY-1448453  Scott Palmer will be sending this email tomorrow. Thanks. PL 
+ FYI.  IF you are needing to load our gas daily/intramonth curves - the instruction are on my desk on the tower under my monitors.  Melissa will be out next Thursday and Friday(so will I) so the designated representative for the east desk those days will have to load them.  Thanks. PL 
+ call with any questions. PL 
+ FYI - this is set up and has been added as a tab to the bankruptcy post id sheet(CAN).  If you open the attachment, you will see she set these up as MMBTU/USD books in Risktrac.  I talked with Cecilia and she has changed this in ERMS/TAGG effective today to be GJ/CAD.  Not sure how this happened, but it is fixed now.  Should not have any problems, there is nothing in this book currently.  Let me know if we need to calc these when I get back on Wednesday. PL 
+ done. PL 
+ standard reply is that we will be working on the last day and no one knows what it will be like.  Make a reservation and we will do our best to get you out.  The problem is I am sure everyone wants to get out for New Year's Eve so you might generate hard feelings.  I have nothing to do because I consider it to be the most dangerous night of the year and I always stay home.  You decide what you want to do and we will work around it.  If you stay here, I have always heard the Hyatt has a great party and room rate all included.  I am sure other hotels have the same. PL 
+ thanks Kam, I was going to do it this morning. PL 
+ Kam is on vacation the rest of the week.  She has requested that we send you the bankruptcy post ids.  They are as follows: Price -1446982 Basis - 1446983 Index -1446984 GDM - 1446985 GDY-1446986  Please shout with any questions.  Thanks. PL 
+ please reactivate/unarchive the following books - we are going to have to start calcing these today.  Intra-Central-Phy and Intra-East-Phy.  Thanks. PL 
+ Your math looks good to me.  When can I expect my $140? PL 
+ I will do it Wed and Thursday.  Kam and I will be out Friday, can someone else do it then?  We are supposed to email the post-id's to Debbie Bracket correct? PL 
+ please set up the book attached asap.  Thanks. PL 
+ take a look at them. PL 
+ yes 21st is cool.  Just use this as a time to help out and do any projects that come up and use up all of your vacation - doubt it will be there to carryover.  As far as I know, our employment status has not changed - we have made no changes to the "list".  I would not worry for now. PL 
+ FYI - and you will also have to continue to calc physical books - deals not moved from those calcs yet - value and position.  Let me know if you have any questions. PL 
+ The report named: EMW Positions <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=33&report_name=EMW+Positions&category_cd=9&category_name=EMW&toc_hide=1&sTV1=9&TV1Exp=Y&current_efct_date=10/29/2001>, published as of 10/29/2001 is now available for viewing on the website.  (Revision: 2) 
+ The report named: EMW Positions <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=33&report_name=EMW+Positions&category_cd=9&category_name=EMW&toc_hide=1&sTV1=9&TV1Exp=Y&current_efct_date=10/29/2001>, published as of 10/29/2001 is now available for viewing on the website. 
+ look at slide #20. PL 
+ here are the values: 04/01 - $110,658 05/01 - $114,347 06/01 - $176,846 07/01 - $114,346  Thanks. PL 
+ There are rumors around here that all the employees going to the new company - UBS Energy will be taken off of the Enron servers tomorrow.  If this is true, I do not know what or when my email service at work will be back up.  Please send in the mean time any emails to plove@houston.rr.com.  Thanks.  Hope all of you are doing well. PL 
+ please do ASAP. PL 
+ I like the name.  I think it is beautiful and distinguished.  I hope she is at least six feet tall.  There is nothing wrong with a tall drink of water.  Gotta run and get some work done.  PL 
+ by the way congrats on the girl.  Is it going to be Mallory? She is going to be 6.5 feet tall PL 
+ so I guess I have to start calling you fancy pants.  Just call me THE HARPOON. PL 
+ http://members.iglou.com/lyons/bitchGen.html 
+ just incase you haven't gotten enough to read about us lately PL 
+ Here are the numbers - Out of the money CP's - 68 In the money CP's - 67 Terminated CP's- 330  PL 
+ maybe we will try that. PL 
+ Once again, it appears we have changed a price desk deal without letting them know.  I hope everyone understands how bad this makes our entire team look.  This issue continues to be brought up in the staff meeting and we are always the cause of it.  This is the second time in less than a week and we have gone over this several times.  Next time this happens, someone is liable to get an exit early pass from the floor for good.  To keep this from happening we will now practice the following Rule: Anytime a price desk deal that involves the central desk needs to be changed, the person that runs the central book will not leave the floor until Errol or Joey tells you that there book is ok.  If that happens to be midnight, sorry.  That is the rule and there will be absolutely no exceptions.  Sorry I have to be a jerk, but it is obvious that being nice about it has not worked.  Thanks for your help in eliminating this in the future. PL 
+ The report named: CE P/L Summary <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=25&report_name=CE+P/L+Summary&category_cd=3&category_name=CENTRAL&toc_hide=1&sTV1=3&TV1Exp=Y&current_efct_date=10/25/2001>, published as of 10/25/2001 is now available for viewing on the website.  (Revision: 2) 
+ The report named: CE P/L Summary <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=25&report_name=CE+P/L+Summary&category_cd=3&category_name=CENTRAL&toc_hide=1&sTV1=3&TV1Exp=Y&current_efct_date=10/25/2001>, published as of 10/25/2001 is now available for viewing on the website. 
+ that is what I plan on going as for Halloween PL 
+ what is this I hear that you may have a new job for me?  I hope so, we keep going in the toilet on Wall Street.  My 2,000 options are now all worthless. PL 
+ I won't be visiting that country 
+ Please look at Sheet 1(2).  You will see there are numbers Lee attribute to You and I.  I wanted to go over the months that there is a large difference - see what counter parties make up the difference so that we can determine the absolute correct number for him.  I also wanted to discuss OA if we have time.  I have a 10:30 meeting and if you need to get back to the auditors, we can address at a later date.  Thanks. PL 
+ Thanks for your help. PL 
+ I apologize, I forgot to tell you earlier today that Jason and his family have not heard of this guy.  Like you said he must be in Double Springs PL 
+ random people that obviously don't work as hard as you and I and they have the time to spend all day surfing the internet. PL 
+ trip to steamboat: Jan. 13-19 $425 a night for a house that sleeps 10. That works out to $500 a couple for the week(6 nights).  That will give us 5 days to ski(or 4 on 1 off). Continental flys directly to Steamboat for $300 roundtrip. Need to know interest level ASAP. We have to pay 50% upon booking the house and %50 within 30 days of arrival. I will pay the %50 up front, I just want a firm committment that you will be going. Take a look at the house: http://lodging4vacations.com/steamboat-home/  It is the bettger house PL 
+ Here in lies the problem.  These fix price locks are not deal specific - rather counterparty specific.  Therefore, we can not modify prices until the end of the month when we know which deals flowed volumes and which did not.  This means we have to do this the last two days of the month along with all of the other things we are doing.  For every month since May - except September we have been able to do this.  It just so happens the one time we do not do it, we had the most locks.  The problems we had in previous months were due to liquidations hitting central that should have hit Chicago.  Same deals, different issues.  Thanks. PL 
+ FYI - keep an eye out for this. PL 
+ I can not remember if I called you Friday or not.  Let me know when you want to get together and go over the consumers stuff.  Sorry if I forgot, the mornings are the best for me. PL 
+ Daryll, Try these instructions and let me know if this works.  Thanks. PL 
+ try sylvia pollan, she is the originator on the deal. PL 
+ unfortunately, I do not have any information about these deals.  With these being IT day deals, the schedulers and traders will have all of your information.  sorry. PL 
+ Please email me or call me...I need the deal number again.  The number I wrote down expired in 11/30/01.  Thanks. PL 
+ I think the confusion with this lies in the fact that last month we had the same issue and I thought you put these deals that are desk to desk in tagg back on my region.  These relate to fixed price lock ins with Peoples.  I think what happened last month happened again this month which is settlements and the risk person did not get the fixed price lock ins done until the following month.  We will have to try and work on this for this month.  The problem is that they can take their volumes on several deals and we have to wait until it is completely scheduled.  Sorry for the confusion. PL 
+ NXAVC is just like nymex, it settles as one price for the entire month.  I don't know what you mean look for pricing for 9/11-9/14.  NXAVC is a monthly index.  Please clarify. PL 
+ In 
+ here is the updated file. PL 
+ Jason has never heard of him, but is going to ask around.  I will keep you posted. PL 
+ just think if he came to camp on time how many yards he might have.  I am a big Lester Hayes fan, I wish they still let them wear stick em!!!  I think he called it stick em and he just ran his hands through his hair. PL 
+ FYI : When entering deals with Canada, please remember to have the counter parties in a financial deal to be ECC and Riskmantra and a physical deal it will be ENA to ECC. Also remember on gas daily out months(2 legs) that the book on the gas daily swap leg needs to be INTRA-CND-WE-GD not INTRA-CAND-WEST(this book is for basis piece).  ALSO: Please remember to check your new deals completely every day, this will help eliminate future OA variances.  Do not rely on your trader to catch mistakes.  Thanks. PL 
+ I am sorry, but that will be the only game the chargers play the rest of the year I will not route for them.  I am a die hard Raider fan(I am sure they are your least favorite team).  How about LaDanian?  He is ripping it up for me in fantasy. PL 
+ we definitely got a scare this weekend.  How bout those Bolts!!! Took down the Mighty Broncos.  Have you been to any games this year? PL 
+ This report just in on the wire..... 3 students at Louisiana Tech have been detained on possible immigration violations, their names: Bin Losin, Bin Cryin, Bin Whinin  They were captured at a football game between La Tech and Auburn University 
+ I have a pre existing meeting on this day, I can attend the Monday session. PL 
+ Russ/George - has this new location been mapped to the same curves as the previous location - PGLC/NGPL?  From my standpoint, I think that is the only thing that needs to be done with the exception of changing/adding swaps on these deals.  Please let me know.  Thanks. PL 
+ attached is a file from the IT team for the tagg numbers that are in the Enovate books.  Please shout if you have any questions.  Thanks. PL 
+ Here is a list of the types of deals that always fail: GDD Dawns deals EOL#2054274 Physical dawn deals fail - EOL will only let one trader map their deals to one physical book(don't think you can fix this one) EOL#2047749 Mich basis swaps EOL #2054712  This should be a comprehensive list.  Thanks. PL 
+ see this spreadsheet, you will see that previous months match.  This spreadsheet comes straight from our crude guys.  If the counterparty continues to disagree, get documentation from them and we can take it to the crude guys.  Thanks. PL 
+ unfortunately I will be on vacation.  Thanks for the offer. PL 
+ All indications are that we will be here.  I have not heard anything new to the contrary.  If you need to take it off, take it as vacation for now. PL 
+ Her name is Sladana Kulic.  SHe goes by Anna.  Thanks for your help.  She is really excited about talking to you and I will bring her by and introduce her.  Thanks again. PL 
+ Dude - you are freakin riot. I almost fell out of my chair with that one.  You know what else does....crawfish pie 
+ he is in vegas 
+ maybe it was over the internet that the bread was so expensive.  You guys still have charger fever out there after a few loses? PL 
+ how about Friday? 
+ This should be mapped to Omicron 3 PL 
+ We have actually been able to find that bread here at Sam's, so we are absolutely set man.  If they stop selling it, we can get it over the internet, it is just a little pricier.  You need to get us to start buying it here and shipping to you man - Sam's has it for less than $4 a loaf.  I think Ashley said it is close to $6 in San Diego.  We still need to get you some soup don't we? PL 
+ here are Souad's book names, Bharat is going to give you the portfolios: FT-PEOPLES-PRC FT-PEOPLES-BAS FT-PEOPLES-IDX ARUBA-TP-PHY FT-PEOPLES-GDL ARUBA-SPLY-PRC FT-PEOPLES-GDI FT-CENTRAL-OPT-GDL INTRA-CNT-TRANS-PHY  Thanks for all of your help. PL 
+ Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys. GDP-St.CLAIR		Omicron 14 GDP-NGPL(IA-IL	Omicron 11 GDP-MONCHY		Omicron 11  Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday. PL 
+ Sorry you could not open it, it was a pretty funny PowerPoint slide.  Your brother still has not responded to my email.  I talked with your dad last night, I think we are going to be hitting dinner with them in the next week before they head out of town.  Hope pregnancy is going well. PL 
+ GDP-ST.CLAIR and GDP-NGPL(IA-IL  Thanks. PL 
+ according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks. PL 
+ here is an updated list of the omicrons PL 
+ Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help. PL 
+ #597330 
+ Do not suspend this CPID, because we have physical and gas daily deals that are active in this book.  Sorry for the delay.  Thanks for your help on this. PL 
+ thanks. 
+ Attached is the list of counterparties we need moved today.  The list has 140 counterparties on it.  Please let me know if you are not going to be able to move these today by 3:30.  Below is what we need done: 1.  Only financial deals with these counterparties 2.  Change the ENA book name from NG-Price to ENA-FT-WC-SJ 3. commodity code should be NG 4. cutoff date 1/1/02  Please shout if you have any questions.  Thanks. PL 
+ schrab is going to have to answer this question.  He put the deal in after sep began.  Sorry I can not help. PL 
+ correct.  The information contained in this book matches the information that is in another book that you capture in our P&L.  Thanks. PL 
+ The deal still has not been signed, so nothing is currently in those books. PL 
+ This book simply replaces a book that we were officializing for position purposes only.  We have a separate gas daily calc that is for value that goes into our P&L.  Nothing has changed with that book.  Please shout with anymore questions.  Thanks. PL 
+ I had no problems accessing it.  Thanks. PL 
+ Jennifer who? 
+ I want to keep the two ladies that currently do my OA.  Any deviation from this will result in bodily harm to you and your family. PL 
+ Can you take a look at this Natalie, I think you have the binder.  Let me know if I can help.  Thanks. PL 
+  open the file and look at the lavo tab PL 
+ FYI, I will show you how to work this spreadsheet, just call this guy and tell him what you are going to name the file and why.  Tell him it is like Brian Gillis' file in Canada.  He needs to know the prefix you are going to call the file and then you attach the current date in the MMDDYYYY format. Thanks. PL 
+ The positions file for last night is saved out to o_dropbox and is attached. PL 
+ this incorporates the change of Stevens orig. PL 
+ Attached is a book request for two new books - one for Lavorato and one for Cuilla.  Due to the problems we had last week/this weekend that you guys helped us try and resolve, we are going to have to go the route of Canada on these Aeco deals and book a spreadsheet for VaR purposes.  Please set the two books up like Calgary's book(Sheet 1 on the attached file) We need to start doing this tonight, because Hunter and Lavorato want their VaR reported correctly tonight.  They both plan on altering their positions and utilizing all of their VaR.  I apologize for the short notice and appreciate all of your help so that I can get this fixed for tonight's VaR.  Please let me know any additional information I can provide you.  Thanks. PL 
+ I am in 
+ I think the only other solution is to post two curves, one with an SP and one with PR.  You should be able to simply set up the same curves as risk type PR and have it look to the SP curve.   Then you would publish two curves with the exact same name and value, just two different risk types.  The only other option I see is to change the deals back to the "old" aeco curve that we used prior to this. PL 
+ Kam Keiser suggested I give you a call, the auditors have requested all the deals for the Chicago office books.  I need to get a list of all TAGG deals since 1/00 that are done with the book FT-ENOV and INTRA-ENOV.  Is this possible.  I need to give a list to Arthur Anderson as soon as possible.  Thanks for your help. PL 
+ Kam Keiser suggested I call you to help with a request I received from our auditors.  Can you give me a list of all of the deals that have been put into Sitara for the Chicago office - the book/counterparty name will be Enovate.  The Arthur Anderson auditors have requested this information.  They are doing an audit of Enovate and want a list of all of the deals since the book started in order to get a sample size for their audit.  you should not have to go back farther than 01/00.  Thanks for your help and shout if you need anymore information. PL 
+ Did Bruce get this information to you on Friday?  I was out of the office and asked him to respond.  Let me know and I can get it for you.  Thanks. PL 
+  Can you please set me up in the XMS system as a manager.  One of my employees has a reimbursement that is outstanding and I would like to get it approved as soon as possible.  Thanks. PL 
+ here it is. PL 
+ can you tell me why EH6453.2 is not on the list?  We are moving EH6453.5, in the comments it says it is an unwind of leg 2.  Counterparty is Boston Gas.  Thanks. PL 
+ Boy did you call it 3 months ago....WE SHOCKED THE WORLD!!!!  What a great game.  I just wanted to thank you again for the great tour we had on Friday.  Everyone talked about it all weekend and we look forward to the expanding projects at the raptor center and hope to be able to help in those efforts.  It was great meeting you and I look forward to talking to you again in the future.  Thanks again. PL 
+ SEE ATTACHMENT FOR CHANGES. 
+ works for me or I can do it.  I can not do the first one (I vote for Kam) PL 
+ From talking with my guys, I came up with 2 more topics for brown bags - curve mapping and how physical deals flow through the systems PL 
+ FYI we will be having a meeting next Wednesday from 1:30 to 2:30 with logistics in 32C2 to go over what risk does and what logistics does.  Should be an informative session.  Please also remember to email your goals for the next six months so that we can work on making sure you meet those objectives.  Thanks. PL 
+ Can you guys map the following curve: EMPRESS-US/IM needs to be mapped to Dawn and Omicron 14.  Please shout if you have any questions.  Thanks. PL 
+ Yes it will.  This deal is still in the structuring stage.  We simply wanted to get the books set up in TAGG and Sitara for if and when this deal goes live.  I will keep you posted.  I think that logistics is also going to be setting up a pipe called MGU that will have all of these deals on them.  I will get with you when I hear the final so that we can map the correct curves to these locations.  Thanks. PL 
+ sounds great. PL 
+  Can you do the same thing with a different book id?  Instead of book counterparty FT-CAND-TERMIN, move any deals with the FT-TERMIN-GD book to the bankruptcy book from NG-Price.  Financial deals only.  Thanks.  Let me know if you need any further clarification, should be the exact same script as yesterday, just substitute FT_TERMIN-GD for the two books you were looking for yesterday. PL 
+ I too am a little worried about the outcome on Saturday.  I am bringing two friends that are University of Texas Alums and am just hoping to show them a good time and what true tailgating is all about.  There will be including myself 7 adults and my 3 year old son.  Is that too many?  Please let me know.  Everyone is extremely exciting and my son is now to the age that he will really enjoy it.  Last year we always took him on game day to see the raptors and he was kind of interested, but now he really enjoys animals.  Thanks again for all of your help arranging this trip.  Please also let me know again when the scholarship dinner is going to be held, I am sure some of my family would really enjoy attending.  Thanks see you at Chuck's. PL 
+ which books in TDS do you need access to?  I approved your erequest, but I have to go into TDS and grant the actual access.  Thanks. PL 
+ Just wanted to follow up and make sure we were still on for tomorrow?  Can we make it 12:15 at Chucks BarBQue?  I have your numbers and will give you a call if we run into trouble.  Thanks. PL 
+ thanks. 
+ can you unarchive post id 1280448.  Thanks. PL 
+ Can you run a component VaR report again for me.  We can not figure out where Souad's VaR is coming from.  IT fixed the curves and Burton fixed them on his side, the VaR should be virtually nonexistent.  I am also noticing a high VaR for Virawan Yawaponsiri, can you also run one on hers please.  Sorry to continue to bother you with this, Jeff Gossett just wants this resolved ASAP.  Thanks. PL 
+ I got 32C2 for next Wednesday from 1:30 - 2:30.  How does that sound? PL 
+ sure.  I will have it to you in the morning. PL 
+ What do you think about setting up a meeting between your group and mine in which each of us gives a short 15 minute presentation on what we do and how things other groups do affect our group.  If you think we will need more time, maybe we set up two meetings.  Let me know what you think.  Thanks. PL 
+ Denver is not my region, you might want to try Anne Bike PL 
+ Darron and I may need it if Ed does not cut the cord by tomorrow.  I would prefer not to have access to force him to use the estate people. PL 
+ sorry to keep bothering you.  It looks like Souad's VaR continues to go down, but her net positions 5 contracts and her VaR is over $300K.  Can you verify that it is her Aruba book that is causing all of the VaR.  She only has positions at about 5 locations and they should all be mapped to the same omicron curve and either NG or Chi. Gate.  I would think that there would not be that much difference between NG and Chi Gate.  Any assistance is greatly appreciated.  Thanks. PL 
+ goss and you can't go now because of some LaGrasta trip on Saturday so looks like we are rescheduling for sometime in December. PL 
+ Looks like our outing for October 19th for Risk just got cancelled, so are we on for some poker on Thursday the 18th?  Who will offer up there house? PL 
+ thanks a million PL 
+ Jim Simpson has moved from the Chicago office to the Houston office.  He will be taking over the Mich-CG book.  We need to have the books transferred from Hunter Shively to Jim Simpson. The books are FT-INT-CEN-MKT2-BAS,GDI,GDL,IDX,PRC and INTRA_CNT-MKT2-PHY.  Jim should not need to be set up in the system, because he was in Chicago, he should just need books added.  Thanks for all of your help. PL 
+ please exit the tagg deal so that I can look at the deal. PL 
+ thanks. PL 
+ can you follow up with the Forum group for me.  It appears only 3 of my six employees returned the feedback.  I have been assured by every member of my team that they sent these in on time.  Several members of our class yesterday had the same issue, with one not having any returned.  This seems curious enough to investigate.  Thanks for your help. PL 
+  see the bottom of this email for the locations and mappings.  Thanks for your help and let me know if you need any additional information. PL 
+ thanks.  FYI - we will have a pretty big book move for you around lunch tomorrow and need it before 3:30 if possible.  We will be moving third party financial deals(ENA is the Enron counterparty) from NG-PRICE to ENA-FT-WC-SJ.  I will get you the list before lunch tomorrow, just thought you could get started on the script.  Thanks again. PL 
+ we will have to take the PMA, it looks like a deal entry error. PL 
+ thanks. 
+ can you check with IT.  IT looks like Souad's VaR is still way too high.  Thanks. PL 
+ I am headed out to lunch at 1 and will be back by 2:30.  Is that good? PL 
+ 3264b 
+ thanks for your help.  Due to my lack of a complete understanding of VaR, can you give me a lesson if you find out exactly why.  All I have ever changed are the correlations.  Thanks. PL 
+ I think that the correlations for the points in the Aruba book must be different.  Her position is 5 contracts long in the book and her VaR is $500K.  Is there any way you can tell me the correlations that are being used for the points that she has positions at in that book?  The pub codes are : IF-NNG/VENT, NGI/CHI. GATE, CHI./N/BORDER, NGPL-IOWA0ILLIN,UF-NGPL/OK-NW, NGI/CHI./PEOPLE,NGI/CHI./NIPSCO,ML7/CG.  Any help you can provide would be much appreciated.  Thanks. PL 
+ I think you will have to log off.  I approved the request.  Look at the status of your request and see if it says final approved.  If it does than try logging off and trying again.  Thanks. PL 
+ this post id for FT-IM-CENTR-CAD-GDL and it is official.  For some reason it is not coming through risktrac.  There are no deals in this book. PL 
+ 1. move to the appropriate book based on the logic - Canadian deal needs to go to CAD 2. should only have to change deals from NG-Price to bankruptcy (deals are not in any other book) 3. The Canadian logic deals will probably be in GJ and the US logic should be in NG 4. Financial only 5. Cutoff date 1/1/2002 
+ FYI, I spoke with the erms team about the problem we have with curveview going through runm.  If you open runm on your PC instead of a sun machine, you need to open curveview first.  If open curveview before any other applications, the screen will be blue and all others will be set up correctly as well.  According the Erms guys this is an ancient program and they are unable to fix the logic.  Pass this on to your groups. PL 
+  FYI - Andy and Martin will be giving classes to the trading track guys on the two different locations.  They are opening these classes to everyone.  I would recommend that you attend, I am going to try and attend as well.  THE ONLY CATCH IS THERE WILL BE A TEST AT THE END AND THE RESULTS WILL BE SHARED WITH HUNTER.  I think it would look very good if you attend, I only caution you to pay close attention because the two guys have been known to ask tough questions. PL 
+ just a status reminder of what is going on: -Please give me a list of your goals and objectives, we will plan on meeting at least once a month and going over those to determine how I can better help you meet those and we can track progress. -We now have a file in the central file in excel entitled project list central desk.  there are a list of projects already out there that each of you need to sign up for.  This will assist in the PRC process in terms of providing me with examples of things each of you are doing that are contributions to the organization.  If you can think of a project that will be an improvement, please add it.  If you add a project, put an expected completion date and then put the date it was completed. -  We will meet this week or first thing next week to go over the status of each of your "training plans" PL 
+ According to our benchmark guys up here, it looks like the Central Transport GDL book did not make it into risktrac under souad.  The book is named FT-Central-opt-gdl.  I also should have asked you to send the FT-Peoples-GDI book over to Souad.  It appears that the remaining FT-Central-Opt- books (PRC,BAS,IDX) are under Martin Cuilla, these should be under Geoff Storey.  Can you please make these changes.  Thanks for all of your help. PL 
+ The only FT-Central-Opt book that should move to her is the GDL.  The others should remain with Geoff Storey.  She also needs to have the INTRA-CNT-TRANS-PHY book.  Sorry for the mistake. PL 
+ here is what I said. PL 
+ Please set up Souad Mahmassani in risktrac.  She is a new trader on the central desk.  She will be running the Aruba and central transport books.  The following books will be her responsibility: ARUBA-SPLY-PRC ARUBA-TP-PHY FT-PEOPLES-BAS,PRC,IDX,GDL FT-CENTRAL-OPT-BAS,GDL,IDX,PRC  Souad would need to roll up to the Central desk in natural gas, I would say she should be set up similar to Denver Plachy.  Please shout with any questions or additional information that you may need.  Thanks. PL 
+ Aruba-Sply is an active book, there are just a few deals and there are two with external counterparties. PL 
+ separate region.  It is within the Mich P&L.  Also starting in October, Central transport will no longer be in FT-OC, it will be in Aruba and needs to continue to roll up to Central.  Do I need to call you back? PL 
+ thanks 
+ did you get to this? 
+ work with ed on this and please do this asap.  Check the rest of your books as well please.  Rember this will be any deal with Transcanada and any other canadian counterparty.  Or search in TAGG for your book with ECC as the Enron counterparty - should take 5 minutes.  Thanks. PL 
+ sounds good, I heard from Bruce that the booking is not going to well.  I don't think it is that complicated, but I will be happy to do it tomorrow.  Any luck on getting it into an existing book and not having to calc another book from here on out?  Hopefully we can do it tomorrow since it is not going live until 11/01.  Talk to you in the morning. PL 
+ We do not receive this information currently - Jackson Logan forwards the email to us currently.  I would appreciate having myself added to the list for email notification.  Since there will be an allocation to my cost center, please limit access to this to myself - Bruce Mills does not need access.  Please call if you have any questions. PL 
+ FYI - please continue sending this to Robin Rodrigue and change the book admins name to Lynn Pikofsky for the Chicago office(EMW).  Kevin Radous is no longer with the company.  Thanks. PL 
+ Give Mark a call and get him a copy of the transport model for the central and ontario for 8/31/01.  His number is x68680.  Thanks PL 
+ Bruce Mills x58118. PL 
+ I have never heard of this location.  I only see a basis and index curve for this, no intra month, Storey has this location in his curve file.  We have no deals at this location.  Does Canada?  We do not do the pub posting on Mich_CG-GD, rates does this one.  I would think they should post the NGI as well. PL 
+ If you want an updated value on the deal, give the ticket numbers that need to be modified/deleted to Bruce and he can get it taken care of.  Let me know if you have any questions.  Thanks. PL 
+ Please move the following book to book trades with Canada from NG-Price to Bankruptcy: FT-Cand-Termin Ft-Cand-Gone-PR  Pleae let me know when this is done, we are waiting to calc today on this.  Thanks. PL 
+ That's my man. PL 
+ AC - can you check on this for me please.  I am in the chicago office and will not be back until next tuesday.  Irena said this was taken care of, you might check with her.  Thanks. PL 
+ I am sorry to ask for a change on this reservation, but a colleague just mentioned he wanted to get a separate room, so could we have two rooms non smoking with double beds, I realize this may increase the rate.  Thanks for all of your help. PL 
+ thanks. PL 
+  Interesting take on the state of affairs. PL 
+ thanks so much 
+ A violation is a violation.  I suggest that you go big time next time in order to get your money's worth. PL 
+ Christmas time is going to keep me from playing.  Thanks for the invite and congrats on the Big 12 south. PL 
+ Can you please grant access to calc the ENA-FT-WT-SOCAL book to the following people: ebrady dgiron plove  Thanks. PL 
+ none of these are mine.  sorry for the delayed response, I was on vacation. PL 
+ that is not very nice. PL 
+ are you now back in the office?  When did you get back?  How is the baby?  Good I hope. PL 
+ grab me tomorrow and let's discuss.  I am not aware of which calc sheets she had to do, so let's look at them together and go from there.  I know Melissa does some also.  Thanks for pulling double duty training Michelle and doing the east desk.  Hope you had a good thanksgiving. PL 
+ here is the spreadsheet that you sent.  Please let me know if you have any questions.  I highlighted my changes in red. PL 
+ If you did not get this file, please take a look at it and research the variances and plan on taking them on Friday.  Please shout with any questions.   Thanks. PL 
+ FYI 
+ good idea coming back.  It is a zoo around here.  Looks like D-Day is today.  We will see.  At least I got to move into the new building and see it for a few days.  Where are you currently sitting? PL 
+ Have they given you guys any time frame?  I am up on five, you get a chance, stop by. PL 
+ http://espn.go.com/ncf/news/2002/0201/1321198.html 
+ This is an email regarding prices for textbooks related to Energy derivatives.  Trying to get Enron a discount on book purchases. PL 
+ FYI 
+ I will be at my desk for a while if you want to stop by. PL 
+ I face the one that is on the way up to 6.  I am at 05145. 
+  attached is the minibook for the existing Brooklyn union deal.  Let me know if you have any questions.  Thanks. PL 
+ I am in. PL 
+ this is a cemetery book, none of the deals in this book are active.  You should also see this case for several similar books - UN-CENTRAL.  Let me know if you need more information.  Thanks. PL 
+ good, I have some direct meters forms that are under tolerance.  Not a big deal, I simply signed them without looking at them. PL 
+ ed brady and james hungerford are working on east stuff 
+  Looks like we also need to modify the OA tabs - John has anyone in OA come up with a new template? PL 
+ Bailey I heard bon jovi is your idol.  Enjoy. PL http://www.thechunk.com/links.php 
+ what is up with leaving me off the email this morning?  You don't want me to come work for you too?  My feelings were hurt.  Hope things are going well in San Antonio.  We need to get back to Vegas so I can gamble away what is left of my retirement. PL 
+ If we are completely confident that any changes in locations will be changed on the swaps 100% of the time, I am more than happy to not get the email. PL 
+ I received your name from Kam Keiser.  We are both managers in risk management at Enron.  Kam had mentioned that you are in the process of recruiting for several clients in the energy industry.  I have roughly 4 years experience in the industry with 2.5 of those years in risk management.  Prior to employment with Enron, I worked for a big six accounting firm and in the healthcare industry for the University of Texas.  I am interested in staying in the energy field.  If you think one of your clients might be interested, I would like to send my resume on to you.  If they or you are not interested, I apologize for taking up your time today.  Thanks and I hope to hear from you soon.  Phillip Love 713-853-7376 281-486-7026(h) 
+ still working.  I hope to have it completed before the week is out.  As I am sure you are experiencing as well all the fire drills that are currently going on around here, I have been running since I got back from vacation.  Believe me when I say this is a high priority for me as well because of all the potential P&L fallout for the traders who have been entering this information. PL 
+ hope this is what you were looking for.  Please let me know if you need anything else. PL 
+ yep...you knew i would 
+ thanks for checking and publishing this.  I will have another talk with the guys. PL 
+ send it to alove@houston.rr.com.  Thanks. PL 
+ pretty funny PL 
+  Here are the documents you requested.  Thanks for all of your help.  I look forward to talking with you.  Also, alternatively, I can be reached at home 281-486-7026. PL 
+ Here is the head hunter I am working with.  She seems pretty receptive and has been proactive getting back with me. PL 
+ looks good to me.  Basically states the main things that I do now.  Thanks. PL 
+ I do not know anyone that has the skills you left me a message about - Mathematics Ph.D.  Sorry. PL 
+ FYI - reminder that the last person here every night needs to publish to the web the East P&L and the East Positions.  Everyone should have access to this and if you do not know how to load these files, let me know.  We have all been guilty of forgetting this, including myself.  We owe a big thank you to Kulvinder who has saved us a couple of nights in the last week.  Thanks. PL 
+ Here is a spreadsheet put together by settlements.  Make sure you see the notes at the bottom.  Positive amounts are what they owe us, negative we owe them.  Please let me know if you need anything else.  Thanks. PL 
+ trying to keep from sucking on a tailpipe in my garage.  Just hanging in there and waiting to see what happens.  I have a few feelers out.  We will just see what happens.  How are things with you? PL 
+ Contratulations on winning the Luxor Money Clip.  Please let me know how you will be paying and I will ship as soon as I receive payment.  Paypal payment will insure the quickest shipping.  Total cost is $9.50.  Thanks. PL 
+ Is the director Jerry Wu? PL 
+ tell them to archive it PL 
+ sure.  Why not.  Move them. PL 
+ fyi research your PMA's and put them in your P&L tomorrow. PL 
+ unbelievable pictures. PL 
+ here is the file with last night's curves. PL 
+ thanks. PL 
+ Send to your group's please.   If you feel like drowning your sorrows at the end of the world in some free keg beer, sodas and hard liquor - come down to Clear Lake and celebrate the fact that today may be the last paycheck you receive from Enron.  Playstation, pool, and darts(with pictures of great Enron leaders) will be available for your enjoyment.  You can also try chase the 3 year old with the dirty diaper.  Party starts about 7 ish.  We will order Pizza or something like that if you haven't eaten.  Directions: I - 45 South to exit 29 - CLC Blvd. Turn left under the freeway - heading east You will travel roughly four miles (through 3 lights and two stop signs) turn left on Noble Pine(across from Children's World) When that street dead end's take a right on Towering Oak Take first left onto Cherry Oak That dead end's at Sterling Wood Way - take a left. Third house of the right 4435 Sterling Wood Way 281-486-7026  Hope to see everyone there. PL 
+ read the email subject fool 
+  Also - no insurance - he did not pay for it. PL 
+ fyi if you want to come, I invited my whole group. PL 
+ Due to lack of interest, we are going to postpone the gig.  Try and reschedule after we actually file. PL 
+  party killed to due to bad spirits down here. PL 
+ Happy Valentine's day palmer.  Megan - Scott now handles the central desk. PL 
+ you have already won.  check schedule. PL 
+ not really, waiting for some communication. PL 
+ not a bad thing if you get a job out of it. PL 
+ they can be placed in East and set to inactive for now.  Thanks. PL 
+ FYI - Dad told me about this article today in the Pro-Bama paper. - Huntsville Times PL http://www.al.com/auburnfootball/huntsvilletimes/index.ssf?/xml/story.ssf/html_standard.xsl?/base/sports/1007406914372431.xml 
+ can you send the titleist balls - 1 sleeve to this guy for me.  Thanks. PL 
+ we are not sure yet if we are going to copy these deals or simply move them completely to this new book(remove from old books).  You can move them to a new root portfolio if you want.  I do not know what that means though. PL 
+ we at least temporarily halting the calcing of the trading track books.  Please make sure the following books (all risk types) are inactivated: Dummy-Book EPMI-Trdtrck-11 Trade-Track-7 Trade-Track-8 Trade-Track-9  Thanks. PL 
+ The report named: East P/L Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=1&report_name=East+P/L+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=12/03/2001>, published as of 12/03/2001 is now available for viewing on the website. 
+ you absolutely amaze me.  You send me an article that describes your fans as some of the most low class fans in the country.  Nice try and getting my dander up.  FYI - Paul Finebaum was fired from the Birmingham News several years ago because of his lopsided reporting(Pro Alabama).  HE now works for the Mobile Register - you know that Pulitzer prize winning paper in Lower Alabama(come on). PL 
+ hilarious PL 
+ red this yesterday - made me sick.  I have always hated Finebaum. PL 
+ thanks PL 
+ take off on Friday if you want, get with your back up so that they know what is going on & as far as I know we are working the day after Christmas. PL 
+ Please move all the following counterparties(financial & natural gas trades only)deals from ENA-FT-WT-SOCAL book to the BANKRUPTCY book: HESSENESER BRIDGELIGASMAR CONSUMERS CORNERSTPROL P IGIRES OCCIDENTENEMAR PRAXAIR PSEGENERES SEMPRAENETRA  Please move all the following counterparties (financial & natural gas trades only) from NG-PRICE book to the BANKRUPTCY book: CARGILL CONTOURENECO DEUTSCHEBANAKT DUKEENENGLLP NATIONALENETRA N-IL-GAS PRIMARYNATRES WESTPORTOILGAS WPSENGRYSVC   We are heading out shortly, so if you have any questions, please call me at home 281-486-7026 or cell 713-819-0765, or Darron Giron at home 281-304-8303 or cell 832-524-6091.  Thanks for your help.  PL 
+ now that you say that, I think you are right.  She is really good with detail and very personable. PL 
+ unbelievable.  Still hanging on here.  We let go of 4,500 of the 7,500 people in Houston.  Crazy stuff.  Will keep in touch. PL 
+ I will play if we have a team - Kansas down here has a friend on that team - I will have him give the guy a shout and see if they are showing up. PL 
+ what is up rob?  I still have a picture of the four of us on top of that mountain in California with dirt all over us from riding those four wheelers when we were in 9th grade.  I am still here for now - no jokes about the demise of the big E.  Pretty rough carnage through here.  I am sure you guys in California are loving it.  I will give you my secondary email if in fact I am one of the next one's out - plove@houston.rr.com.  Ev just had a baby boy last week - he was one month early and the boy still weighted 9 lbs. 5 ounces.  21 inches long.  His name is Devon Lamar.  Ev has changed companies - his new email address is ESmith@kanekatexas.com.  I am sure he would love to hear from you.  Hope all is well with everyone. PL 
+ looks good.  I have a few suggestions and they are just personal preferences - I prefer to see every left justified and the name, address etc centered on the page.  Also, I would leave off qualifications. PL 
+ heard you had a really good story about a five year old louisiana boy that likes to bite adults.  What the hell are you guys teaching the kids over there? PL 
+ hanging in there.  We are still here for now.  Hopefully one of the I Banks will come through and buy us up.  I will keep you informed. PL 
+ With a little more notice, hopefully we will not cancel the gig.  The party is back on for Saturday Dec. 15th - party start time is now 4 p.m.  Please pass on to your groups again. PL 
+ if you guys want to come, feel free. PL 
+ Per Cecilia this was done and I just spot checked a few deals and checked ENTERGY in particular and it they were moved to Bankruptcy. PL 
+ you and Gary come on if you can get a babysitter. PL 
+ The report named: East Position Totals <http://trv.corp.enron.com/linkFromExcel.asp?report_cd=2&report_name=East+Position+Totals&category_cd=1&category_name=EAST&toc_hide=1&sTV1=1&TV1Exp=Y&current_efct_date=12/07/2001>, published as of 12/07/2001 is now available for viewing on the website. 
+ here is the new deal PB&I for NUI. PL 
+ no thanks necessary - you have done a great job - now keep it up.  The courts are going to rule if some bonuses can be paid out - there are no guarantees, so I would not count on them approving it.  They are supposedly negotiating to have us stay on 5 & 6.  Nothing really new on those fronts. PL 
+ here it is. PL 
+ I am still here.  I have a contract through March 1 of next year, so I should be here at least until then.  The absolute destruction of the company has been pretty brutal - some of the people lost everything in their 401K.  I guess they really believed in the company.  We should still be in town in Feb. just let us know when the party is and we will be there. PL 
+ yes 
+ FYI - sorry I forgot to send this to you guys last week - Alex I do not have Elizabeth Soto's home number - if you do, please invite her as well.  Hope to see you guys there. PL 
+ I have inactivated the following books on the website(all risk types) please verify they are inactive: FT-VNG FT-VNG-Storage FT-VNG-Trans Intra-VNG-Phy  There should only be one active book under VNG is FT-VNG-PMT-PRC(we will inactivate after value liquidates this month).  Please let me know if you have any questions.  Thanks. PL 
+ please check again for me, I have inactivated FT-VNG-IDX PL 
+ Done. PL 
+ the website says that EAST-TP1 - PRC & Bas are not official.  I checked both post ids and they are official.  The postids are 1435337 & 1435338 respectively.  Thanks. PL 
+ FYI - Sean no longer works here.  I forwarded this to Scott Tackett - he is handling all Deal Validation now. PL 
+ According to Hully - we have a game tentatively scheduled for tomorrow at 7 p.m.  He needs to know ASAP who can play because of some snafu at the Y(we were supposed to play last night and they forgot to call him).  Let me know today if you can play and I will let him know so he can call the Y.  Thanks. PL 
+ http://www.annistonstar.com/sports/2001/as-college-1212-0-1l11v5728.htm 
+ looks like she is really excited to be in front of the tree.  What did you do give her a sedative and then take a picture.  How are things going? PL 
+ done 
+ here is the excel file for value of empire. PL 
+ You should have received feedback from me shortly after you paid.  Please check your feedback and let me know if you do not have it posted and I will repost.  Thanks again, and please leave positive feedback for me as well. PL 
+ done 
+ I think we should also put the position report file in there that Jad/Couch created as a backup to the CEPos/East Positions.  Couch can you put the query file you set up for the price desk? PL 
+ ESPN just reported that bama got five years, 2 years no bowls and reduced scholarships(no number posted yet).  WAR EAGLE!!! PL 
+ thanks. PL 
+ stay west 1-10(west 10 is Steve south, recently added). PL 
+ Per Grigsby, all ten traders have signed on and the products are fixed.  Thanks. PL 
+ please see attached file and see comments below.  Thanks. PL 
+ FYI - the west is wanting to split the region into two regions.  Stephen, I know you have been working on mapping the P&Ls for reporting purpose, the attached file breaks down those two regions.  We want to call then Southwest and Northwest.  They will be headed by Phillip Allen and Mike Grigsby respectively.  Please let me know if you have any questions.  Thanks. PL 
+ here is the list.  Thanks. PL 
+ We lost about 15% to layoffs and we lost about 40% to the estate (staying with Enron).  The remaining people are going to UBS.  We will see what happens.  How are things with you?  Talk to you later. PL 
+ I am booked on a flight 1 week from Friday 8th of February - I land in Birmingham at 9 a.m.  I should be to Huntsville by 11 a.m.  I am staying until Sunday.  I think Ashley and Jackson are going to stay here for now unless you report granddad is doing much worse next week.  We will see how that goes.  Talk to you soon.  Did you call last night? PL 
+  the book is ENA-FT-WT-SOCAL.  Answer to question 2 & 3 - yes Commodity code NG Move deals as of 1/1/02 Do not understand question number 6 - other side should remain counter party PL 
+ done.  You now have 2,000 shares and $1,000 cash in your account. PL 
+ not sure if this got done yesterday by Francis and Sanjeev.  Can you let me know.  Thanks. PL 
+ already headed to someone else's house - place with bunch of kids.  Thanks for the invite. Sorry. PL 
+ Do you mind sending this guy that mouse pad on the desk?  Thanks.  The priority mail boxes are behind the filing cabinet in the office, you will need to use one of the larger ones.  I would stuff it with newspaper or something like that to keep it from sliding around. PL   Thomas Parrent 758 Regency Park Dr Crystal Lake, IL 60014 USA 
+ not sure if you got this.  No idea why it is coming to me. PL 
+ my dad told me about this a few weeks ago.  That is crazy.  I had not seen the pictures until now. PL 
+ Please move the following six counterparties from NG-Price to Bankruptcy.  Please move only financial deals.  Please let me know when this is complete.  We need to have it done by the time we calc our books today - no exceptions.  Thanks for your help.   TAGG Short Name: TRANSWEST VITOL S.A. DUKEFSVCMAR ENCOREACQCOM ENERGYUSA ENTERGYKOCTRA  Thanks again. PL 
+ Attached is a file with the CP's that are terminated per Kim's list and had been sent to IT to move to the bankruptcy book.  There are six CP's on this list.  I will send the legal names to Cecilia to get these moved today(with 7,000 lines, I am afraid it would take at least a day for risk to move manually).  We will then recheck the book tonight.  As you will see on the summary page, the total value of these deals is $(61.6M).  If there are any questions, please let me know, I will bring hard copies to the 11a.m. meeting.  Thanks. PL 
+ This is complete.  These deals have been moved previously.  Thanks. PL 
+ Jennifer 334-844-1491 PL 
+ FU 
+ 2-5, so much for the nice machine 
+ hey you are not wearing your target purple shirt today are you?  I have mine on and I don't want to look silly 
+ thanks.  We talked with Martin Cuilla last night and he thinks we are missing some transport usage tickets that will offset a major portion of our gain.  Thanks for your help. PL 
+ I do not unless I start working for you and have to worry about accounting issues. PL 
+ would you prefer me mailing or delivering personally to you?  I was planning on shipping this afternoon.  Just let me know.  I will be out of the office tomorrow.  Let me know whatever you prefer. PL 
+ most current. PL 
+  here is the location of the file and the person that compiled the file,.  Please let me know if you need anything else, thanks. PL 
+ FYI 
+ looks like this deal got zeroed out and rebooked on #1019677 look and see if you see

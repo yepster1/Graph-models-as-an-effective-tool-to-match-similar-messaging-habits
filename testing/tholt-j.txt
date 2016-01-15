@@ -1,0 +1,84 @@
+igations during th= is time so I will not be able to attend. 
+ I felt really bad when I left early on Friday because I forgot to wish you good luck and give you a hug. I hope you will be very happy in your new endeavors.  You made the right decision.  I am sure you will be very happy in your new career.  I hope to read about you in some of my women's magazines. 
+ I am planning to attend the meeting and will send you a copy of the hand-outs. I am sorry I will not get an opportunity to meet you. 
+ Attached is a summary of my notes at the Socal meeting regarding revised window procedures.  No hand-outs were provided.  Calculation of Receipt Point Capacity Topock  540 mmcf/d Ehrenberg 1250 mmcf/d Needles 800 mmcf/d Wheeler 800 mmcf/d  New Receipt Points Kramer Junction 200 mmcf/d Hector Rd 50 mmcf/d Both will be available around Feb 1  Basis of Pro-Ration-Current Windows Calculation Currently, Gas Control provides total receipt point capacity comprised of demand forecast and injection capability and compares to maximum amount of gas that can enter system.  Gas Select prorates interstate's receipt capacity based on prior day's nominations.  New Calculation, Changes and Display Based on operational maximum with adjustments for maintenance.  SoCal ist aking and applying the current formula for Wheeler Ridge to all the points.  Any changes to operational maximum will probably be due to maintenance and posted on Gas Select.  Customer will choose which points it wants to reduce receipts.  Operating maximums will equal demand forecast plus injections.  Demand forecast will rely on Gas Control weather forecast.  They use Weather Bank as one of their tools.  OFO Declaration Name changes from overnomination Can declare before any Cycle Provide 2 hour notice Post on Gas Select Show OFO Calculation on Gas Select  Windows Reason to set windows was to set limits to prevent too much gas from coming into system Calculation based on noms which does not work well.  Lots of complaints.   People were complaining that it restricted access to the system.  Eliminating point specific calculation.  Open system to Max Oper. Limits or Contractual Limits.   Will continue to operate Wheeler Ridge under Aug 1 procedures.  No changes to Wheeler Ridge. Due to the need to maintain operational control, an OFO will be declared when scheduled volumes are greater than the max operating capacity on any cycle. Replace windows with operational maximum volumes.  If  CPUC approves comprehensive settlement, will post 5 days of information to anticipate OFO's Now customers will elect which point they will back off instead of using windows.  Scheduling Changes-Nov 1 Gas Select is being rebuilt and will be an internet system in mid-2002 .  No direct dial-up. Rollover noms-noms will be copied from cycle to cycle Copy confirmed noms All noms will be rolled over-will not be at discretion of 3rd party.  However, can still make  changes.  Can still upload new files.  2 Hour Notice Socal will provide 2 hour notice on  Gas Select of OFO.  Other methods include leaving message on Socal Hotline (213-244-3900) and list of e-mail messages that can go directly to pagers.  Gas Select is official notification.  Courtesy notification is hot line and e mail.  Gas Select is a subscriber- based system mandated by CPUC and must get regulatory change to make free. OFO's are going to be system wide and not customer specific.  OFO's can be declared intraday.  Once OFO declared, it will be kept for entire day.  Concerned that if call off, will have to put back on.  Don't want to go back and forth.  This decision may be reconsidered once they see how it works.  Many times Socal see an increase of 200 mmcf/day between Cycle 3 and 4 so they are concerned.  Scheduled vs. Capacity-Declare OFO Nominations may not exceed 110% of expected usage. Expected Usage is defined as usage for the same day for the prior week.  Can revise expected usage. No interruptible storage injections allowed during OFO. Use Elapsed Pro-Rata Rules Expected Usage-cut nominations to 110% of expected usage so will use same day  of the prior week as proxy.  Generators need to revise expected usage.  Acceptance of changes are at the discretion of SoCal. Flow Day Diversions don't go into effect until after Cycle 4.  Gas Control will determine if flow day diversion will be allowed. If call OFO after cycle 3 or 4 and have interruptible storage injections, such storage will be prorationed back under the elapsed prorata rules. Many people were concerned that interruptible storage will be severely compromised. If OFO called , Interruptible Storage could be cut under the elapsed prorata rules as follows:  Cycle 1    Nom 1000  ; 0 cut Cycle 2 Nom 1000; 666 cut Cylce 3 Nom 1000; 500 cut Windows will only be implemented during cycle 4 if OFO callled after cycle 3 and no improvement is realized.  Will allocate prorata.  Will use latest scheduled volume and will pro rate by receipt point.  In other words, if OFO declared during Cycle 1 and no relief after 3 cycles, Socal will window Cycle 4 and prorata cut. Parties will determine what gets cut on all the other cycles. For penalty purposes, actual burn from 12 o'clock to 12 o'clock will be used to calculate penalties or MAXDQ if not metered. For OFO, assume supply delivereis day before and burn is the same day for the prior week.  Declare OFO on prior day's scheduled volume.  For an evening declaration-will use most recent available scheduled volumes.  For example:  Flow Day 10/4                10/3 Scheduled Volumes Cycle 1                                    Cycle 2 Cycle 2                                     Intraday 1 Cycle 3				evening cyle 2 on 10/4 Cycle 4                                     Intraday 1 on 10/4  In other words, will look at evening cycle 2 scheduled volumes on the 3rd for declaring OFO on cycle 1 for the 4th.; look at intra day 1 for the 3rd in declaring OFO for cycle 2 on the 4th;  look at evening cycle 2 on 10/4 in declaraing OFO for Cycle 3 on the 4th;  look at intraday 1 on the 4th in declaraing OFO on cycle 4 for the 4th.  Winter Balancing Rules Effective Nov 1-March 31 No changes. All customers must comply. Minimum delivery requirements 50% of daily usage over 5 day period; (Nov 1-5;6-10;) 70% of daily usage depending on storage level 70% daily usage implemented when storage levels equal 20 bcf above peak day min 90% of daily usage depending on storage level 90% rule implemented when storage levels equal 5 bcf  plus peak day min. Look at storage graph on Gas Select.  Posted 24 hours in advance if the minimum daily is changed.  If go to 70% , current 5 day cycle must end completely, before new % goes into effect. Must increase storage inventory by 1 bcf above the 70% before going back to 50% rule. Once 90% rule implemented, will return to 70% as soon as operationally feasible,  Contracted Marketer's customer usage and delivereies are aggregated in one balancing account.  Core Aggregation-subject to 50% daily throughout entire winter period based on DCQ. Core-50% of daily throughput for the enitre period,; (Patrick Brown group) Not subject to 70% and 90% rules.  2 types of gas count toward daily obligation- firm storage withdrawal and flowing gas.  As-available storage and imbalance trading do not count.  Burn=measured daily usage thru electronic measurement, Min DQ-used if customer does not have electronic measurement.  Customer assessed  GIMB charge if total deliveries is less than 50% of total burn over 5 day period.  Customer purchases gas at daily balancing stand-by rate under  G IMB Rate Schedule which is 150% of highest Socal Border price per NGI Gas Daily plus franchise fees and other charges.  Rate is posted at end of every month.   OFO can be declared during undernom season (winter season) 
+ thank you. 
+  Jeff-can you review this and let me know what you think.  Please initial and send back if you think it's ok as is.  Plsease advise by Nov 5. Thank you. 
+ I have not done any deals with Sierra Pacific but will pass on to Steve South. 
+ He is a cutie.  You will be happy with me.  I got some San Diego stuff for you.  I am going to call you tomorrow to ride in with me on Wednesday.  I will give the info to you then. 
+  Do you have a problem doing this?  We would just change the description  at  Socal KRS to inlcude this point. 
+ Patty Sullivan 713-853--0494 work number 713-646-2626 fax number patti.sullivan@enron.com 
+ Are you feeling better today? 
+ what's the message 
+ Why can't you find them in sitara? 
+ can't access the document-can you resend it to me 
+ We can not pay any deposits 
+ What is the term of the deal and we need to address different weekend volumes 
+ Full Name: Jane Marie Tholt  Login ID:  jtholt  Extension:  35539  Office Location:  eb3209c  What type of computer do you have?  (Desktop,  Laptop,  Both)  desktop  Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilot, Jornada)  no  Do you have permission to access anyone's Email/Calendar? no If yes, who?  Does anyone have permission to access your Email/Calendar?  no If yes, who?  Are you responsible for updating anyone else's address book?  no If yes, who?  Is anyone else responsible for updating your address book?  no If yes, who?  Do you have access to a shared calendar? If yes, which shared calendar?  west desk calendar  Do you have any Distribution Groups that Messaging maintains for you (for mass mailings)? If yes, please list here:  no  Please list all Notes databases applications that you currently use:  In our efforts to plan the exact date/time of your migration, we also will need to know: 
+ I don't need an entire table but will share.  Could use 3 or 4 seats. 
+ I f there is nothing new to discuss we can cancel but I would like to know what is on the Commisssion's Agenda for next when you get it.  Thanks.  Also, the next time Leslies come to town, maybe we can all go to lunch. 
+ What a cutie 
+ yep but there area lot of people that are hurting right now 
+ if it doesn't work out next week -we can do it another time as well 
+ Thought you would get a kick out of the fact that Christie Nickels(spelling?) came down today to attend our regulatory meeting.  I told her that things were hot and heavy for the last 4 weeks and have slowed down so we cancelled the meeting.  I felt like saying g Where the hell hav eyou been? 
+ ok with me.  Thanks 
+ Believe it or not, I have booked my trip to London and Paris.  I am coming out there around October 4 with my freind Deb and her freind Christie.  We are staying at Mark Frevert's flat.  Hopefully, we can get together for lunch or dinner during that time.  I'll get back to you in a couple of months wonce I know more about our plans. 
+ Just a reminder that I asked for your comments back to me today.  Thanks 
+ I am good to go.  Kim is a maybe now.  I got a card in the mail that everyhting is 50-75% off.  Sale starts at 9:00 
+ Julia and Dave are out.  Neil is in.  I e-mailed Rock in Arizona but I do not expect him to come. 
+ Thank you for your comments. 
+ I agree with your invitation list.  This is Deb's closest circle of friends and she would not want it to be any bigger.  I'm glad you included Maggie and Nora becasue I was thinking about them today as well. 
+ My husband's name is Joe. 
+ I am reading an article in NGI that talks about how California Regulator's are scheduled to approve some form of unbundling on Socal's system.  Please provide details of this as soon as it happens.  Thank you. 
+ Thank you.  Just let me know if it changes. 
+ that is so awful 
+ you may want to call Keith Holst to get an update for the winter prices-they have really fallen in the last couple of days 
+ I don't rally have an opionion-your call-just let me know what you want me to do 
+ no problem -I let Ann Bike know and thought she would handle it 
+ We have a deal with Gwwon this month-November.  Baseload sale at Needles for 10000/d.  Deal No.  1135697. 
+ This willnot happen very often. 
+ Please provide us with a copy of the filing and maps.  Neutral intervention will be fine, 
+ Neutral intervention is fine. 
+ it's on the sasme night as Felicity 
+ I am a desperate person for entertainment-what can I say. 
+ Sounds good to me as long as I have my own bathroon at the hotel in Paris.  Why does the description for the double include a shower.?  Does that mean that single rooms only have a bath tub? 
+ Have you seen Ben on Felicity? 
+ I was looking in the TV guide and did not see where it is on this week let me know if they changed the date and time. 
+ Volumes are not improving.  Very diffficult to trade and balance in west..  Huge arbs between ICE and Enron ONLINE because people willnot trade with us.  Many times 10-15 cents differential between ice and enron.  This sucks.  Otherwise,  hope you have a nice day. . 
+  Made changes to 1102017 and 1111318.  Deal no 1133558 is ki8lled so not sure what needs to be checked . 
+ I saw the tv advertisement last night for Temptation Island for Thursday.  I think it may conflict with Will and Grace.  Could be a tough night. 
+ Did you watch Ally last night? 
+ Just one copy . 
+ They have some cute guy lawyers this year-but I bet you probably watch that manly Monday night Football. 
+ you should be working on your resume 
+ My resume is finished and the job offers are pooring in 
+  Can we imbalance trade this gas.  What happens when the cogen burns the gas without telling us like they have been doing.  Which desk keeps the 15000 demand charge? 
+ Vi is working at Salon Picasso which at the corner of Longenbaugh and HWY 6 in the strip center where Spotz eatery is and the M&M food market.  15703 Longenbaugh.  Phone number is 281-861-9911.   She did not have your phone number so she could not call you. 
+ Did you watch Michael Jackson yesterday? 
+ It was really good.  Next wek you can watch Jennfer Lopez-I bet you can watch her bits and pieces. 
+ no you said you watched bits and pieces 
+ possibly-in my old age 
+ I am weighing ALL of my options 
+ Lucky for me that retirement is also an option 
+ price was GDA 
+ Does the gas desk keep the demand charge?  Also, we need to discuss-if you forget tocall.   If you forget to call, the price between the gas and power desk needs to be negotiated. Probably not a big deal in the summer but is a huge del in the winter with daily balancing.   Also, the gas desk will not be responsible for any imbalance penalties if you forget tocall.  If you forget tocall in the winter under daily balancing,  your desk will be charged my cost.   Otherwise, I think it's a go. 
+ yes 
+ So you better bet George that Joe will not go back to work for Grady-easy money for you Also, think about goingto Palm Springs next year for golf vacation 
+ yes for once 
+ probably 
+  I guess I was out that day and another trader did the deal and input the wrong price-so go ahead and honor their price 
+ I have no issues with these comments 
+ thank you 
+ Good luck in your new position!  I'm glad things worked out for you. 
+ I missed half of it but it was pretty good.  Ben found out thatDFelicity cheated on him 
+ We had a great time.  Let me know when you are not too busy to have lunch with the little people.  You are the one that always cancels-remember? 
+  I told Jeannie that we should not ask Joannie over  for Christmas.  She knows it is family tradition that we all get together.  Make her ask if she is interested.  No one else waits for an invitation.  Tired of her sorry excuses.  Some day she is going to need us and she is going to be sorry. 
+ All the gas stocks getting hammered.  Natural gas is bursting at the seams.  Your bill should go way down 
+  Cajun Chef-can only get it here.  Too bad. 
+ since when do you cook-Ithought Sue did everything 
+ Thank You. 
+ Did you watch the Victoria's Secret Fashion Show last week 
+ no-just a real man 
+ They tried not to show their back-ends-it was rather bazarre 
+ oh yea 
+ Stephanie-could you please add Aeco
