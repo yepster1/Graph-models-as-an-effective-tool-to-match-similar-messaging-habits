@@ -1,3 +1,0 @@
-It will come in the scrape as a firm schedule and there will be no schedule in the model.  Check tags EPE1152 and EPE1153 for more information.  Thanks, -John Anderson 
-  For Monday -  STNW is 35 mw short off peak @ Mid-Columbia.  Please cover these positions under the STWHOURLY book and enter an inter-desk swap with STNW to reconcile. Contact Bill, Sean, or me if you have any questions whatsoever about how to handle this.  Thanks, Kate 
- Hey..  The ISO forced balanced our PORTFOLIO for SUNDAY. They shifted EES load from SP15 to NP15 with Congestion and paid a lot of Congestion in the process. The Amounts are in The PGE3 LOAD zone under EES2. The amounts are as following.  HE8	8 HE10 	5 HE14	46 HE15	40 HE

@@ -165,25 +165,33 @@ def main(files,tester):
 	    print counter
 	counter+=1
         originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
-
+    counter = 0
     for j in filesSizes:
+        print counter
+        counter+=1
         filess = os.listdir(files)
         data = os.listdir(files)
-        print j
-	testingData = os.listdir(tester)      
+        testingData = os.listdir(tester)      
         originalVectors = []
         testingVectors = []
         for k in testingMatrix:
-            val,vec = lin.eigs(k[0])
-            vec = vec.transpose()
-            vec = vec[0]
-            testingVectors.append([vec.real,k[1]])
+            try:
+                val,vec = lin.eigs(k[0])
+                vec = vec.transpose()
+                vec = vec[0]
+                testingVectors.append([vec.real,k[1]])
+            except:
+                print j
+                print "error, non convergence"
         for k in originalMatrix:
-            values,vectors = lin.eigs(k[0])
-            vectors = vectors.transpose()
-            vectors = vectors[0]
-            originalVectors.append([vectors.real,k[1]])
-        
+            try:
+                values,vectors = lin.eigs(k[0])
+                vectors = vectors.transpose()
+                vectors = vectors[0]
+                originalVectors.append([vectors.real,k[1]])
+            except:
+                print j
+                print "error, non convergence"
         #print testingVectors[0]
         #print originalVectors[0]
         print j
@@ -199,7 +207,6 @@ def main(files,tester):
             things.append(array[::-1])
         positionFromFront = []
         counter = 0
-        print j
         for k in data:
             checkCorrolation(things[counter],k,positionFromFront)
             counter+=1
