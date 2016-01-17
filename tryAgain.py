@@ -135,24 +135,42 @@ def main(files,tester):
     try:
         myCharIndex = getmyCharsIndex("char")
     except:
+	print "first run detected, creating character matrix"
         originalMatrix = []
         testingMatrix = []
         myCharIndex = {}
+	counter = 0
         for content in testingsizes:
+	    if counter % 10 == 0:
+		print counter
+	    counter+=1
             testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
+	    if counter % 10 == 0:
+		print counter
+	    counter+=1
             originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+    writeChar(myCharIndex,"char")
     originalMatrix = []
     testingMatrix = []
+    print "continuing"
+    counter =0
     for content in testingsizes:
+        if counter % 10 == 0:
+ 	    print counter
+        counter +=1
         testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
+	if counter % 10 == 0:
+	    print counter
+	counter+=1
         originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
 
     for j in filesSizes:
         filess = os.listdir(files)
         data = os.listdir(files)
-        print j      
+        print j
+	testingData = os.listdir(tester)      
         originalVectors = []
         testingVectors = []
         for k in testingMatrix:
@@ -165,7 +183,7 @@ def main(files,tester):
             vectors = vectors.transpose()
             vectors = vectors[0]
             originalVectors.append([vectors.real,k[1]])
-        writeChar(myCharIndex,"char")
+        
         #print testingVectors[0]
         #print originalVectors[0]
         print j
@@ -196,4 +214,4 @@ def main(files,tester):
         del testingMatrix[0]
 
 if __name__ == "__main__":
-    main("Enron_collection","testing")
+    main("People","testing")
