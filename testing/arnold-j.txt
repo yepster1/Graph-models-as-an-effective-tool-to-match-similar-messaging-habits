@@ -1,0 +1,194 @@
+esnt make any sense. however as more fields start turning around throughout month, the stg arb to great in my opinion to keep spread there.  must close one way or the other. notice that spread tightened to 6-8 towards end of trading friday? in general think that gas is reaching the elasticity stage right here.  50 cents lower and no switching, no processing, and gain back some demand. market needs to see some big stg numbers first. i think the best play right now is to start buying longer  term put spreads. Jan 4/3.5 look great to me.  if we get back to 2.8 and don't match last year's early weather, bombs away. 
+ Are you around next Tuesday? 
+ I think you need to check your AGA model.  7.2 bcf/d seems awfully high. That's saying that had gas been at $2.5, the AGA for the week would have been 151.  Look at the AGA history for last week, this week and next week.  94 95 96 97 98 99 00 01 3rd week of Feb  -64 -46 -64 -63 -77 -97 -136 -81 4th week of Feb  -132 -118 -62 -76 -47 -128 -74 -101 1st week of Mar  -27 -132 -118 -57 -54 -69 -37 ??  Do you really think the # would have been 151 with no demand destruction?  It wasn't even really cold.  That would have been the highest AGA # of the three weeks by 15 bcf. Our guys are thinking 4.5 bcf/d.  Pira is saying that Feb as a whole averages 3.5-4 bcf/d. That's just destruction and does not include new production, if any.  Further Pira estimates that March destruction will be about half of Feb.  Assuming that gets to equilibrium:  2 bcf/d demand destruction, 2 bcf/d more production, 2 bcf/d more gas generation demand.  Start with a 400 b deficit and 200 injection days gets you to flat against last years storage in current price environment.   I think we are fairly priced fundamentally, but with huge customer imbalance for hedging from buy side, surprises in the market right now are to the upside in my view.  Course hard to imagine $6 for J.   Just sell vol. 
+ are you free at 3:00 today to go over the aga model? 
+ i think this is the biggest chopfest in nat gas history.  scale up seller, scale down buyer. reviewing my aga model and assumptions later today.  i'll see if i have any new inspirations. 
+ ok. i would not describe him as the hardest working man in the energy business. 
+ it just wasn't the same without you.   how was el doritos? 
+ maybe cal 2. 
+ freak show. cash started -7 then to -15 then -7 ended -15. 
+ freak show.   started at -7.  went to -15 then -7 then finishing out -15 
+ industrial demand the scary thing.  no question there are some steel mills and auto factories and plastics plants that were on last november that arent coming up now and its not due to gas prices.  the economy sucks and it will affect ind demand. 
+ 94 
+ Ina: Can you get this paid on a rush basis? thanks,john 
+ but that's my point.  the demand destruction roared its ugly head beginning of Jan.  The price level was $9.  Of course there is a lag.  Let's make up a lag time...say one month.   On Dec 1 cash was trading $6.70.  Probably a similar lag on the way down.  Cash is $5.20 today.  How much lost demand will there be in a month if we're still $5.2?   million dollar question if you can answer that. 
+ Forgot, I'm leaving town tomorrow afternoon.  Will be back Thursday morn. We'll do it some other time. 
+ Good to hear from you. After a great F, had an okay G.  Held a lot of term length on the risk/reward play.  Figured if we got no weather, all the customer and generator buying would be my stop.  It was.  Amazing that for the drop in price in H, the strips have really gone nowhere.  just a big chop fest. i here your arguments, but think they are way exagerated.  Agree with 1.5-2 bcf/d more supply. Call it 2 with LNG.  Imports from Canada should be negligible.  Now let's assume price for the summer is $4.  No switching, full liquids extraction, methanol and fertilizer running.  Electric generation demand, considering problems in west and very low hydro, around 1.5 bcf/d greater this year with normal weather.  Means you have to price 2 bcf/d out of market.  Don't think $4 does that.  What level did we start really losing demand last year?  It was higher than 4.   concerned about recession in industrial sector thats occuring right now. Think gas is fairly valued here.  Dont think we're going to 7.  But I think fear of market considering what happened this past year will keep forward curve very well supported through spring.  we're already into storage economics so the front goes where the forward curve wants to go. 
+ Would prefer a stand alone button as sometimes the problem is I can't operate stack manager.  I need the ability to force everybody out of the website so people don't try to click numbers that are old.  On a similar topic, what's the status of the out of credit message?  Still a very frustrating problem for both counterparties and me.  Do I need to follow up with Bradford about lowering sigma?  Grab me Thursday afternoon to talk. 
+ very interesting.... i've been looking for new activities.  maybe i was born to be a knight 
+ true 
+ i'm free all week right now. prefer early in the week 
+ How about drinks at 5:30 on Thursday.   I try not to interrupt work with personal business. 
+ Who cares?????? 
+ He just rescheduled to Wednesday.   How about dinner on Wednesday after that ? 
+ not really...  already have plans on thursday .  are you going to the NYMEX candidate cocktail hour Tuesday? 
+ Just a reminder about drinks Monday night.. 
+ my polling location is the knights of columbus hall.  what exactly is a knight of columbus? 
+ yes i did 
+ Appreciate the opportunity to listen in.  I was unable to view the slide show though.  Can you either email or mail it to me. Thanks, John 
+ Michael: Thanks for putting the paperwork together.  I would have interest in meeting if you can present unique investment opportunities that I don't have access to now.  Most of my contact with financial advisors in the past has consisted of them suggesting a mutual fund, telling me to invest in Home Depot, Sun, and Coke, or trying to pass off their banks' biased research reports as something valuable.  The above services provide no value to me personally.  If you can present opportunities such as access to private equity or hedge funds, or other ideas with strong growth potential and low correlation to the S@P, I'd listen.  John 
+ Kim: 2 tix for Rent this Sat night will be waiting for you at will call at the theatre.  Bring ID. If you have any problems call the ticket agency at 212 302 1643 or me at 713 557 3330. Have fun, John 
+ i'll call 
+ Monday it is 
+ Are you free for drinks either Monday or Wednesday? 
+ that's not nice 
+ I think so in a month or so.  Problem now is that there is so much customer buying on any pullbacks and selling on rallies that the market, with such a flat curve, is going nowhere.  That will change, but it's going to take a while.  I like it eventually. 
+ where's the site that i can sell my vote? 
+ Andy: Enjoyed meeting with you.  One more thing I did not address.  My ultimate goal is to move all volume to EOL.  However, in addition to the NYMEX, we have about 6 other viable electronic trading systems.  We make it a point to never support these if possible.  We will only trade if the other system's offer is at or greater than our bid.  For instance, if we are 6/8 but have a strong inclination to buy and another system is at 7, I will simultaneously lift their 7's and move my market to 7/9.  The lesson the counterparty gets is he will only get the trade if I'm bidding 7 and he will only get executed when it is a bad trade to him.  People have learned fairly quickly not to leave numbers on the other systems because they will just get picked off.  If they don't post numbers on the other systems, the systems get no liquidity and die.  I mention this because I have heard that Enron is a fairly large trader on Spectron's system.  I don't know whether it is in regards to gas, power, or metals.  Just something to think about and maybe talk about with the other traders. John 
+ Thank you. 
+ Michael: Appreciate the idea.  However, with my natural long, I'm not looking to really trade around the position.  I believe ENE will continue to be range bound, but in case it is not, I don't want to forgo 50% of my option premium. I have price targets of where I would like to lighten up exposure to ENE and will use calls to implement the stategy.  To that regards, I noticed I was not approved to sell naked calls.  I would like that ability in order to hedge some exposure I have of unexercised vested options.  Please look into that for me. John. 
+ Looks good except for settlement period.  Industry standard and for ease to Enron, a spread trade is treated as two separate trades.  Therefore, there will be two settlement periods for the respective legs of the transaction. The file below states settlement period is 5 days after both legs have been set.  Please change to 2 settlement periods, 5 days after each respective leg has been set. John    Enron North America Corp. 
+ We've started breaking out separate P&L's.  It's been a very difficult process so far for a number of reasons.  The last processes will be separating out the P&L on the executive reports and on VAR. That will happen this week.  Meanwhile, the P&L will be retroactive to the start of the year and we are going through all the positions such that the total skew is zero or an adjustment will be made to get it there.   At the end of the year there will be a number next to Maggi's name that he will not dispute.  His contribution to the fixed side when I'm on vacations or in meetings will continue to be a subjective process. 
+ We will open EOL 4-7 on Monday for everyone's trading pleasure. 
+ both.   i have it on dutch's machine just in case something ever pops up but it rarely does 
+ Andy: Can you remove ICE from mine and Mike Maggi's computer. Also, do we have a list of who has it installed.  I hate supporting our competition. John 
+ I would do that.  I tried calling but got your voicemail.  Try me at 713 853 3230 
+ i didn't say you couldnt come down.   just not to expect much 
+ Ina: Can you get a small drink refrigerator for the office stocked with: Water (lots) Diet Coke Coke Dr. Pepper Diet Pepsi Various Fruit Drinks  Thanks, John 
+ Please change as indicated 
+ Will change 
+ i'll check 
+ Yesterday, Aquilla sold March at 5.77 and 5.76 for HeHub.  Please change it to Nymex 
+ it's one of those theoretically great trades, but those don't always work. Still, I'll put it on and win 7 times out of 10.  just so hard for the market to rally the backwardation is so weak. can easily see h going under if no weather appears. 
+ i am free for drinks after work but have dinner plans 
+ the end of the season is typically the best month to hold. Even if the first part of the summer is weak, people will be hesistant to sell the back half. Same with the winter.  That's why I'm long H2.  It has good correlation with the front on up moves and tends to hold value on the down move. 
+ careful...i'm having another bad day 
+ Liz: I have 4 tickets for Destiny's child for you.  They're pretty good seats. I'll put these on hold while I still try to get a box... John 
+ Cast John Arnold Bill Perkins Dean Theriot (trainer)  Dean: What's your favorite restaurant? John: Why, are you trying to make Valentine's Day plans? Dean : No.  I'm ready.  I've already bought a Valentine's card. Bill : John's ready too.  He already has his Valentine's hickey. 
+ Ina: Can you change my meeting with Sheriff's boys to Tueday after 3:00 from Monday. Also, stick me on thedistribution for the Enron press pack that has all the articles in which Enron is mentioned. Thanks 
+ can you send it through lavo.  he's suppose to pay for it. thanks, john 
+ imagine you have a gas well in the middle of west texas and you only have one pipeline running to your well.  the guy who owns the pipeline can fuck you because you have no choice but to flow your gas that way.  split connect means you have at least 2 options to flow your gas so the price the producer receives is more competitive and if anything happens to one pipeline you don't have  to shut your gas in because you move it to another pipe.  i'm going out with my brother and sime guys from work tonight.   are you free saturday day and night? 
+ yea 
+ can you change #23 and #375 to Nymex 
+ can you change deal 27 (paribas) today to NYMEX from gas daily 
+ hey hon: had a great time last night.  you're one ok chick. john 
+ Don't even think you're getting out of this with the "for a while" crap. Just for that you can add a star to the place we're going. 
+ i think taking a cab is more convenient assuming we can find one on the way back. 
+ i think we would rally if march were the only thing traded.  Problem is summer and on out so weak.  trade scale up seller of jv as it gets close to 600.  some customer selling in cal 2.  so h/j and j/k need to blow out because no other spread is moving.  i'm a seller of j/k so h/j needs to blow.  all other trade is scale up seller of that so it can move but slowly. it's a struggle each penny at this point.  at least one spread needs to break if we're going to run and i don't see that happening. 
+ cute girlfriends....    I'm in 
+ cute girlfriends....   I'm in 
+ we need one more good shot of cool air to ensure complete and utter chaos for the next 10 months.  hopefully this is it. you gotta love heffner...'if we take out the jan 31 low there is NO WAY anything bullish can happen' 
+ split connect 
+ you fucker that's my trade.   i was trying to buy nines the last 20 minutes. all i got was scraps.  50-100.  i think it's a great trade. 
+ this is the move i was talking about.   v/x implicitly trading 5.5 right now because cal 2 is weak.  some sell side deal got done there but jv is strong 
+ just sold 500 q/u at .05      that was the pop i'm looking for 
+ you will have 4 tix.  make your plans 
+ yea, i'll talk to them.  who should i call? 
+ but what's a pig? 
+ i think you're absolutely right about q/u.  again just a question of when to put it on.  Seems as if I'm always on the offer of that spread.  yesterday i had a 4.5 offer all day and i think i got 50 or so.  i can almost leg it better by buying winter and selling summer and the j/q spread. i would like to see it widen another penny before stepping in and i think with the weakness in the winter and relative weakness of cal 2, on any rally that could happen.  was that you on the q/u/v fly yesterday? 
+ ok. 
+ remove from email list 
+ don't care about the front.  i think its vulnerable to a good short squeeze like we saw on thruday and friday.  trade is getting short in here with cash such a piece.  if weather ever changes, which the weather boys are saying it might in 2 weeks, the cash players are going to be big buyers.  don't really want to carry length on the way down waiting for that to happen though. Backs are crazy stong.  cal 3 traded as high as +10.  everybody a buyer as california trying to buy any fixed price energy they can find 
+ he sends me his stuff... i like him because he's willing to take a stand.  so many technicians bullshit  their way "support at 5400-5600 but if it breaks that look for 5250".  if every technician put specific trades on a sheet with entry and exit points and published them every day, a lot of people would be unemployed. 
+ will do 
+ probably not. it would have to have a lot of upside.  never hurts to listen though 
+ The el orbits, eh? i've heard of them but don't remember who they are. there is a chance i've seen them at satellite i guess.  my, you are nosey.  i have a little date tonight.  wanna come along? 
+ Mr Sturm: Due to the California power crisis, Enron Gas Trading is unable to extend sell authorization on options to Enron Power Trading.  Please call if you should desire to sell any options and credit will be extended on a trade-by-trade basis.  We apologize for any inconvience. Sincerely: John Arnold Vice President, Gas Trading Enron North America 
+ Neal: Referencing Apr-Oct 5315/35 and Nov-Mar 534/536, on the following volumes I am 533/536.  Feel free to call to transact.  713-853-3230 
+ no... i went with matt thurell from koch.  they've got some corporate townhouse out there.  very nice.  good to see the old days of waste aren't completely gone yet. 
+ i actually started writing this on thursday.  got distracted and left late morning to go to Vail.  Apparently I missed a little craziness.  My point on v/x is that forward spreads, months 3/4 and back, don't necessarily trade on value, they trade on drawing a forward curve that makes equilibrium between hedging and spec demand.  Look at k/m... do you think k cash will average 3 cents above m.  i don't really see that scenario.  yet that's what it is worth because the market says jv is worth $x and to get there k/m=3.  The same argument applies to v/x.  i think this summer will be exceptionally strong as we try to inject 2 bcf/d more gas than last year.  But cal 2 will lag the move.  It's the main thing customers are selling right now because every equity analyst and even Pira are telling their customers that cal 2 will average 3.50.  so either the v/x and x/z spreads come in or f/g g/h h/j blow out.  After this winter, who in there right mind wants to buy f/g or g/h again.  my thought is that the primary juice will be h/j but v/x and x/z will be under some pressure.  i'm a seller at 9 and buyer at 5-6.  Not much in it either way though. 
+ quit pressuring them    i want to sell some too.  actually sold a few at 9 on the close 
+ agree guys are short h/j.  hard to see a big move with cash/futures trading flat.  agree that it has some squeeze potential though.  Started moving today as, simultaneously, march started running up and j aron won a big customer deal.  customer, maybe a hedge fund, bot 1000+ jv 450 puts.  weather frustrating me too.  a little long but it's in the backs so I haven't been hurt.  Sure would be nice to get some more weather and have this thing start going crazy again.  Seen liquids processing come back on at these levels. Would guess more than 50% has from peak.  Industrial demand different story. industrial economy just so weak that many petchems and others are burning less because of their markets, not fuel costs.  Chrystler is a prime example.   Any switching back to gas from industrial or switching back to domestic production from overseas muted by weak economy. 
+ we have 4    do you want them? 
+ i got 2 for tomorrow. 
+ i will try to get tomorrow.  if not, is another day okay? 
+ Contact Andy Rowe at 713 966 2107. They are a medium term fundamental energy player.  They have never indicated any interest in anything besides nymex or hub gas daily, but that may change.  They have interest in trading on EOL but have not gotten approval yet. 
+ thank you four you're note.  i am only twelv years old so i wont bid anymore. i am sorry. 
+ check with mike and dutch.  can they come any earlier? 
+ you're done 
+ Please respond to Jennifer 
+ Andy: I just briefed Lavorato on the credit issues.  His comment was that Bradford is going through defcom 3 over California right now and to give him a week when things start to get sorted out there. John 
+ Guys: We are going to run EOL on Sunday from 2-4 pm due to the big game.  Can you post a message on EOL to that respect. Thx, John 
+ Greg: Somehow I talked Lavo into it.  Can you reserve your jet for this Sunday around midnight? Thanks, John 
+ lumber 
+ huh? 
+ make that 450 @ 11.75 
+ you bot 475 at 11.75 
+ 83 
+ Hey: Any interest in King Biscuit after work?? 
+ Gentlemen: The following champagne is available at 70% of approximate retail price. Also have interest in trading for red wine.  Retail prices derived from Spec's website or Winesearcer.com.  Wine has been stored at temperature controlled private wine storage facility.   Quan      Vintage  Wine         Retail 3  1990  Perrier Jouet Brut Fleur de Champagne  110 1  1988  Piper Heidsek Reserve    65 2  1990  Dom Perignon     125 1  1990  Veuve Cliquot Ponsardin La Grande Dame 100 1  1988  Taittenger Millesine Brut    85 1  1992  Jacquart Millesine    29 3  1990  Roederer Cristal     200  Any interest?? 
+ Hey: Sorry I've taken a few days to respond.  Just the more I think about it, the worse of an idea it seems for both of us.  There is nothing good that can come of it either professionally or personally.  I still regard you as a good friend.  Nothing has changed that nor do I think we need to act weird around each other going forward.  Something I think we both wanted to try and we did.  Maybe best left there though. John 
+ fine 
+ Tom: My assistant spoke to Judy Smith about myself and my partner grabbing an extra seat on the jet to Tampa.  My partner and I were invited to the game by a couple of gentlemen from New York that I do business with.  Unfortunately, since I run the nat gas derivatives desk and February expiration is next Monday, the only way we could go is if the jet were coming back Sunday night.  No commercial flights would get us back in time.  Judy indicated it was fine if we caught a ride on the way back, so my contacts in NY booked the trip, including buying game tickets.  I am now hearing that you may be leaving early Sunday night.  I was just wondering if your plans had firmed up.  Obviously, it would be tremendously helpful to me if the plane were leaving after the game.  Please advise, John 
+ jeff: checking to see if you're still on for dinner.   wine room at aldo's at 7:00. drinks at your place before?  john 
+ cacio, try jshankm@enron.com john 
+ scott: we'll do it next time you're in town. thanks, john 
+ no thx i'll send them soon 
+ of course.  i think you have a few favors in the bank with me. do you need 4 or 8? 
+ I'll be there 
+ ina telerate on my computer at home is not working.  can you get fixed? john 
+ Deathly afraid doesn't even come close to describing it.  Busy tonight.  How bout tomorrow? 
+ speed on eol message for monday how to move to algorithms dave or tom moran 
+ i don't ask...i think he think he'll jinx it if he talks about it. 
+ i said i'm a vp and run natural gas derivatives trading and she asked if she could eliminate derivatives because then she'd have to write two more sentences about what that was. 
+ a couple of observations from here: cash/futures getting whacked.  whereas last weekend cash traded $1 over G, this weekend will probably trade $.15 over.  the lack of weather giving the market time to regroup.  good thing because another week of cold and the system was going to break.   certainly still has that chance in feb.  saw utilities recently staying on a verystrict withdrawal schedule and meeting any extra demand through spot market.  in effect, they said we're not withdrawing anymore so we'll buy marketers storage.  they had to encourage marketers to sell it to them, so cash was extremely strong in periods of even normal demand and should continue to be if/when any weather comes again. this week demand so low that utilities can meet demand without buying much in mkt.  g/h getting whacked in sympathy. probably priced 25 term deals through broker market  and own originators in past two days.  24 were from the buy side.  it's as if pira came in and told everyone term was cheap.  however, they've got the opposite view.  customers just seeing gas at $4 anytime as being okay now.  don't see any let up in back support for a while. front spreads the hardest call right now.  g/h h/j j/k ??? can't decide what to do with them and from the volatility in them, appears neither can anybody else.  almost think best play is taking feb gas daily against march, hoping for a cold spell that breaks the system and get a couple $20+ prints in cash.  probably as likely to happen in g as h and g/h has much less downside.  doing well here.  actually having the best month ever 11 days in.  played front short against term length.  got out of front shorts today.   probably early but gas has a history of getting off the canvas when least expected. will keep term length meanwhile.   i've hated summer backwardation forever. agree about u/h.  a little less crazy about  the trade now because i think the easy money was made over the past two days.  unbelievable spec demand for next winter over past week kept summer winter spread constant on rally up and crushed on move down.  jv/xh went from 22 to 3.5 in 5 days while front virtually unchanged.  don't know what to think of this summer longer term.  certainly not as easy as it was last summer when it was obvious $3 was not equilibrium for gas. now $6 for this summer, i don't know.  we're gonna have to inject the hell out of gas and keep some demand priced out for a long time.  but we will feel production increase hit the market.  just buy vol. 
+ Glad to hear progress is being made. I went to Vandy but a little later... 1992-5. 
+ http://www.baltimoresun.com/content/cover/story?section=cover&pagename=story&s toryid=1150540202173 
+ http://www.baltimoresun.com/content/cover/story?section=cover&pagename=story&s toryid=1150540202173 
+ Can you put a notice on EOL that due to MLK day, we will be closed Sunday and be offering Nymex products only from 4-7 on Monday. Thanks, John 
+ next Thursday at 7:00 pm 
+ Certainly encourage CSFP to transact all volumes with us.  If they shop the deal, everyone will front-run the volumes and they won't get a good price on the deal. Financial deals settle 5 days after the index has been published.  Physical deals settle much later.   My understanding is this is a financial deal. 
+ sorry i've taken so long...just been trying to fend off the chicks.   life is sooooo hard sometimes.    MONKEY !!!!!!!!!!!!!!!!! 
+ Bubbie: You are hereby invited to the tenth annual Spectron/Enron Celebrity Tony's dinner featuring Brian Tracy, John Arnold, and Mike Maggi.   Regrets only,   John 
+ please schedule a round of interviews with john griffith with scott, hunter, phillip, and tom asap (today if possible). thx 
+ what's this about? 
+ John: I would like for you to come talk to a couple more people on the gas floor about a possible position down the road.  My assistant Ina Rangle is going to schedule a couple interviews.  Please coordinate with her. John 
+ I want John to interview with the various desk heads (Scott, Hunter, Phillip, Tom).  I think I'm going to tell John not to mention the past.   It's an issue that doesn't need to be made public and as long as Lavo and myself are okay with it, I don't see the need to get individual approval from everyone. Thanks for your help, John 
+ greg: what is the (correct) formula you devised for profitability on last trade is mid? 
+ glad you enjoyed yourself even though you didnt get to go to ny.   maybe next year.  Had a great time in new orleans but it was freezing.  nice to get away.  going to vegas this weekend to watch the football games. love you, john 
+ are you free for a drink/dinner Wednesday night? 
+ Ed: I am starting options on EOL in about two weeks.  As we discussed earlier, I don't have the appropriate manpower to run this in certain circumstances, such as when I'm out of the office.  As such, I'd like to bring in John Griffith for anohter round of interviews for an options trading role with your permission. John 
+ not me 
+ He joined the group 2 weeks ago.   Put him in my cost center. 
+ take me off your mailing list 
+ i'm paying you in stock options 
+ take me off your mailing list 
+ you must bet sugar and orange bowls 
+ i was thinking about 25.  i'll sell everything on access down 15 
+ if we were open today, where would you open it? 
+ that info is correct. 
+ i would have paid you in full Tueday morning and resigned my bookie services... 
+ Torrey: Can you also approve Mike Maggi to trade crude as well.  Thanks for your help. John 
+ don't forget you owe me dinner... 
+ torrey: please set me up to trade crude. John 
+ fill me in.  how can i eavesdrop?? 
+ very useful...thx.   keep me posted 
+ thx  and have fun on vaca 
+ what is this??? 
+ wish you guys were going a week earlier.  i'm going next weekend.  too much vegas is bad for the soul....and the wallet. 
+ The positions went over limits due to the sale of HPL and subsequent unwind of hedges associated with the transaction.   Attempts are being made to unwind those positions currently 
+ Please approve Dutch for ICE    Enron North America Corp. 
+ Here is the name of an available options trader: Jeremy Sorkin VP, Deutsche Bank 713 757 9200  Would fit Enron culture, but have had little contact with him professionally. Might be worth bringing him in.   Tell me if you want me to call him. 
+ yep 
+ duke8duke 
+ sorry didnt respond to your message.   don't know how to do that instant messenger thing anymore.  volume very, very light.  most of stated volume in spreads and TAS.  No one seems to want to be in the office this week. Everyone wants to get this year over with. Keep pumping in the fundamental info.   very good stuff and i'm not getting it anywhere else. 
+ asshole 
+ asshole 
+ the market had to get to a price whereby these guys shut down.  there is just not enough gas to allow everybody who wants to to burn it.  the elasticity of demand is in the industrial sector.  million dollar question is have we gotten to a high enough price whereby we end the year with gas in the ground and deliverability to meet a late cold snap.  shutdown of processing, distillate and resid switching, loss of industrial load...maybe we have. good holidays, john 
+ i know 
+ Any idea what amount of switching in gas equivalents does the implied demand of resid equate to? 
+ thx 
+ can you program my steno in the offices like the ones on my desk? 
+ Thanks...It just seems like all the time. 
+ Andy: I just spoke to a guy named Neil Hanover.  He is a fund trader for a company in London.  He asked the head EOL marketer to give him a call about setting him up on the system.  Can you help? his number is 011 44 207 397 0840  john 
+ please remind me 
+ just called   they're on vacation for two weeks.......that sucks 
+ hey: any interest in seeing cirque du soleil saturday? 
+ Brian Hoskins is an analyst who rotated off the gas floor. Pete Keavey now reports to Scott Neal  My aa is Ina Rangel    Enron North America Corp. 
+ Do you know my hr rep's name?    Jennifer Burns  10/23/2000 04:09 PM 
+ pretty much all traders 
+ you just might never get it back 
+ No, i thought you would have known.  don't tell shank i told you.    Jennifer Burns  10/22/2000 07:24 PM 
+ hey: what was the first cd we listened to on Wednesday at my place? john 
+ still have not received credit for funds wired 11/16.  Please advise. 
+ absolutely agree.  the thought is always, even if cash is piece of shit today...wait until the future.  here's my question: what is the environment whereby f/g is worth $.50.   is there a market scenario where this happens? 
+ i heard he's interviewing to be Shankman's right hand man    Jennifer Burns  10/20/2000 02:12 PM 
+ Andy: I tried to open EOL at 4 on Sunday, but we had systems problems that delayed the opening until 6:05.  This is the third time in four or five sessions when EOL had problems on Sunday.  Anything you can do to improve reliability would be appreciated. John 
+ Adam: Hope your interview goes well.  Things are going crazy in the gas market so, unfotunately, I'm stuck at my desk and can't go up for interviews.  As far as the interview goes, my advise would be the same as any interview. Be confident.  Answer the question asked.  Don't be afraid to say you don't know but don't make excuses.  Express interest in why you find Enron appealing compared to the other 100 companies interviewing.  The trading training program is still in the works.  Few people outside the trading area are even aware of its existence at this point so I wouldn't ask any questions about it in the interviews.  If you receive an offer, it would probably be for a normal analyst position with the opportunity to enter the training program when you arrive.  Not sure about that last statement though.   The training program is geared towards our two most mature and pure trading business areas: gas and power.  There are still a large number of other trading spots in our developing commodities side that would not fall under the program.   That's a function of the program being developed by the head of these two businesses.  Not ready to take it corporate-wide yet.  Write me about how your interviews went. Good luck: John 
+ Hello: I received this by mistake. 
+ 6 months severence minus any errors 
+ if only i didn't have a position today I'd be ok 
+ think you're pretty clever, don't you? 
+ rajib: The following are my bids for the asian option: GQ 1 : .41 GQ 2 : .63 GQ 3 : .57 
+ 34 
+ can you find out if the tech group has scheduled installation of a dsl line in my apartment? 

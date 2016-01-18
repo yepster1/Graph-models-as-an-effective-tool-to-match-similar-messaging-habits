@@ -1,0 +1,151 @@
+ get you an exact number if you need it.  D 
+ done.    Enron North America Corp. 
+ I extended deal 559483 through Dec 01.  D   Aimee Lannou   03/06/2001 06:06 PM 
+ Lan:  cole1jake Sitara:  sitara cpr:  jungle pops:  daren unify:  jungle 
+ LA,  Can you look into the Transport piece?  We need similar numbers for Sep 2000.  D 
+ The deals you listed are transpurt usage tickets that we use to estimate the cost of transport and the fuel used in the transport.  This is just an estimate of what we think Lone Star will bill us under the Tenaska transport contracts (We will pay Lone Star and Tenaska will reimburse us.)  D    Enron North America Corp. 
+ Rita,  Since I was out of the office most of the week, I missed reading this e-mail.  I am open any afternoon this week except for Friday (all day) and Bob's staff meeting tomorrow (if we have it).  Let me know when you want to meet.  D 
+ done.   Aimee Lannou   03/02/2001 04:43 PM 
+ You can copy the old tickets or create new ones.  What ever you need.  D 
+ Heather, I will be out a 1/2 day today and a full day on Friday.  Also will be out a full day on the 9th.  I will be here the rest of the month.  D 
+ We are not interested in the sofa.  Thanks.  D 
+ You need to delete the lines with dates prior to 1/1/01 on the new tickets.  D 
+ The new deal should have the same price as the deal that you copied.  D 
+ I extended deal 583232 to cover 2/1 and #604056 to cover 2/6.  d   Aimee Lannou   02/26/2001 02:53 PM 
+ High zeros...?  Is that similar to going flatter?  D 
+ Liz - I would like for you to attend also. Stace - You can decide if you want to come or not.  D 
+ I have created deal # 640357 to cover this flow.  D 
+ What are the details on the tv?  How old? Problems? Condition? etc.  Daren 
+ mark,  Can you look into this?  You may need to check with Mary or Trisha on transport capacity tickets for Dec forward.  D 
+ Hey, Byron.  We may be interested in your sofa.  Send me the pictures when you get a chance.  Now that we are moving, we've got a few empty rooms.  Thanks.  D 
+ Kim,  I can always make time for you...  Just grab me sometime after 10:30 Monday morning and we can go over transport.  D 
+ Fred,  Why is nothing being allocated to Alpine?  This is a good deal we have in place with them and I really need the problem resolved.  D 
+ Talk with the person in accounting that deals with Teco.  See if they are using a different counterparty now at the plant.  d 
+ You can extend them, but make sure that the volume is zero.  D 
+ Mike,  I don't know of any deals that were negotiated for this delivery.  So, why don't you check with Gas Control to see if they know why vol was delivered on that day.  I would think that they had to send someone out there to make it happen.  Additionally, you can check with Gary Lamphier or Lee Papyoti to see if they made a deal with the plant.  D 
+ I don't know what PC 12667 is.  But, in the attached spreadsheet, my cost center is grouped with Risk Management.  I now report to Bob Hall, so CC 105633 should be reported with the other Logistics groups. 
+ I will be out of the office on the afternoon of 2/27 and the majority of the week.  March 5-8 is better for me.  D 
+ What does ooto mean? 
+ Hey Ken.  How are things going for you?  Is the market loving you?  We have been really busy.  We sold our house after 2 weeks on the market.  I don't think I had it underpriced.  I looked at the average $/sq ft for sales in our neighborhood for the last 6 months and I was pretty high above the average.  Anyway, we got what we wanted and made a little money, so we were happy.  Two days after we sold our house, Tonya found the one she wanted in Oaks of Devonshire.  It's over at Louetta and I-45, just before The Thicket. It's a little bigger than we were looking for (3100 sq ft), but it's got a great game room/sunroom for the kids.  It was built in 86, so it needs a little work.  But that's ok with me.  Anyway, we are closing on both houses on Monday and moving Tuesday and Wednesday.  We will have you and Linda over for lunch or dinner one of these days.  We also had tubes put into Jake's ears this month.  We hated having to do that, but it has really made a difference.  He had a constant ear infection since October.  Now you can tell that he feels so much better.  He's learning more and more each day.  We have nothing that is "Jake proof".  Even those plastic locks you put on cabinets don't hold him.  He knows that if you keep yanking on the door over and over that it will eventually slip or break and then your in.  I'm going to install pad locks on the cabinets at the new house.  We'll see if that stops him. Anyway, everybody's doing well.  I will be alot better after we finish this house business.  I don't feel so good when I'm writing all those checks. Talk to you later.  D 
+ That's fine.  D 
+ I have done deals with John at this point.  Why are we not being allocated any volume?  D 
+ Deal 606396 is already in Sitara for Dec 2000-2001.  D 
+ That's cool.  D 
+ I changed the demand to a negative value.  I don't know if this will work or not.  If it does not work, I can put the demand on the sale ticket.  D    Enron North America Corp. 
+ Done.    Enron North America Corp. 
+ I don't know.  Check with Settlements to see if they are billing us for Dec and Jan.  d 
+ Please move my group from Risk to Logisitcs.     D    Enron North America Corp. 
+ Done.  D    Enron North America Corp. 
+ I have created a spreadsheet to assist in the tracking and booking of the gas supply related to Tenaska IV.  If you have suggestions or comments on the file, contact either me or Mark.  Megan - You can copy the Jan 01 Est tab and update the volumes with actuals. The file should calculate the resulting settlement with Tenaska.  I will then update the demand fee on the deal ticket to true-up the month.  Since we haven't gone through actuals in the spreadsheet, we may have to do some tweaking with the formulas.  Anyway, this should give us a good start and you will be able to see where we closed the month in Logisitics.  The file is located in O/Logistics/Cleburne Plant/2001FuelMgmt.xls.  If you don't have access, we can look into creating a new location on the O drive. The spreadsheet is attached for this month.  This is definitely a work in progress.  So, if you have ideas to make it easier, or if you need something added, let us know.  D 
+ I would like to receive the alerts.  D 
+ I don't have any open positions.  Thanks.  D 
+ After speaking with Danny Conner, I have created deal 606396 to cover this meter for the next year.  D 
+ Heather,  I will be leaving today at 1:00.  We are buying a house and we have the inspection today.  So, if Bob ar anyone needs me they can contact me by pager or mobile phone.  Thanks.  D 
+ Liz,  Do you want to take this on?  D 
+ That would be fine.  D 
+ I have created deal #604061 to cover the buyback for 12/27/00.  D 
+ To forecast Entex:  We have a database that contains the citygate volumes by day, with the low and high temps for each day.  When we get a weather report for the new day, we enter the projected low temp and the spread into the file.  The database is sorted by that information with a +/- 2 degrees on the temps, and provides an average volume for that criteria.  (For example:  With temps of 40-60, the sort would produce a list of the volumes pulled for each day with a low of 38 to 42 degrees and a temperature spread of 20 to 22 degrees.  An average is then calculated from that volumetric data.  In this case, the average is calculated to 259,000 Mmbtu.)  Upon calculating the average, we then apply information we obtain through daily business and adjust that estimate. Things to consider:  if weather is cloudy or sunny, wet or dry;  wind chill; Entex's obligation on Midcon;  Entex's recent operating procedures;  Entex takes versus our prior estimates (have we been under or overestimating volumes each day), etc.  Additionally, since we only see about 30% of the meters, we apply a factor to estimate the remaining 70%.  If we have an unaccounted volume for a few days that is fairly consistent (and we have determined that the ua4 has not been caused by something else), we may adjust the factor to bring the estimates more in line.  Let me know if you have any questions.  Daren 
+ Liz,  Please look into this.  D 
+ I created deal 602030 under Cleco.  D 
+ We will need to wait until Janet gets back.  This is a spot deal that was done by Gary Lamphier.  Did Janet negotiate something with them after the fact?  D 
+ Sherlyn will correct all the booking when she reallocates the meter.  D 
+ Paul,  How are you determining that we should have a buyback for this deal?  D    Enron North America Corp. 
+ I forgot to get with you this morning on this.  I went ahead and changed the volume to 24,000.  D   Aimee Lannou   01/31/2001 10:13 AM 
+ What are the issues with this?  Is the problem a counterparty name issue? Did we pay the wrong company?  Is Cleco billing us?  D 
+ Grab me when you get a minute.  I have your bonus and merit info.  You're going to like it.  D 
+ Bob,  I didn't check voice mail until this morning (I don't have a blinking light. The assistants pick up our lines and amtel us when voice mails have been left.)  Anyway, with the uncertainty of the future business under the Texas Desk, the following are my goals for the next six months:  1)  Ensure a smooth transition of HPL to AEP, with minimal upsets to Texas business. 2)  Develop operations processes and controls for the new Texas Desk. 3)  Develop a replacement a.  Strong push to improve Liz (if she remains with Enron and ) b.  Hire new person, internally or externally 4)  Assist in develop a strong logisitcs team.  With the new business, we will need strong performers who know and accept their responsibilites.  1 and 2 are open-ended.  How I accomplish these goals and what they entail will depend how the Texas Desk (if we have one) is set up and what type of activity the desk will be invovled in, which is unknown to me at this time. I'm sure as we get further into the finalization of the sale, additional and possibly more urgent goals will develop.  So, in short, who knows what I need to do.  D 
+ You can change the tickets.  Thanks.  D   Aimee Lannou   01/31/2001 08:05 AM 
+ I don't think that we should have any volume on this deal.  It seems like Jan 2000 was added after the fact to assist with allocations.  But it was later determined that we didn't purchase anything from Copano.  D     Kimberly Vaughn 01/30/2001 09:40 AM 
+ Charlene,  Deal #214948 already had volume and price for the 12th and 13th.  You may need to have the volumes updated by Volume Management.  I added the 15th and 16th to the deal ticket.  D 
+ That will be fine.  D   Aimee Lannou   01/29/2001 04:17 PM 
+ I need for you, or the Producer Services group, to determine if you think the gas will flow for the month and at what price.  I will use your decision for our bidweek postion.  D 
+ Danny will input a new deal for Dec and Jan in the morning.  D 
+ Lee,  I would like to deliver as much of Midcon's gas as possible to Mobil (25,000-30,000) for February.  When the work is going on, we can move that around.  Also, we have 10,000 baseload on Centana we need to deliver to the plant.  D 
+ Deal has been extended.  d   Aimee Lannou   01/22/2001 04:58 PM 
+ Done.  D    Enron North America Corp. 
+ Jackie,  I didn't pay any attention to the date on this message.  We should be able to handle this on our side with out involving the East Desk.  If the OBA can be used, apply the volume there.  If nothing else, we can write it off.  D 
+ The PanEnergy spreadsheet is attached.  D 
+ done.    Enron North America Corp. 
+ Sandi,  Do you have a complete contract for the Apache purchase under the Tenaska IV deal?  Apache is billing us a rate that is $.11 below the commodity rate stated on page 22 in the original contract.  In the documents I have, I can't find a reason for the adjustment.  I may be missing an amendment or something.  I thought that you may have a complete set of documents and could help me out.  Daren 
+ Hey, Mom.  I got your e-mail just fine.  Is your computer fixed up now?  Cole had a great time at his birthday party last night.  When we were walking out of Chuck E Cheese after the party, Cole asked me "Daddy, am I three now?"  He got some good presents and got to play alot of games.  It took him forever to go to sleep.  He really loved the Blues Clues game ya'll got him. The packaging was coming open when he got it yesterday, so Tonya let him open it before the party.  He played it in the car going to the party and on the way home.  I think I'm tired of that game.  He can't play it in the car anymore.  It so funny to watch him play though.  He will repeat the question and go "hmm".  Anyway I need to go.  D 
+ Megan,  I can meet with you on the Pan Energy Swap anytime Thursday or Friday afternoon.  Early afternoon usually works best for me.  I can come up to your desk if that is easier.  Let me know.  D 
+ I have adjusted the pricing for the Apache and Williams deals for September forward as we disucussed in the meeting today.  D 
+ BH,  If the Super Saturday occurred on a different weekend, I would help you out. However, we have a pretty important family weekend coming up.  Cole's 3rd birthday is today.  We will be doing a little celebrating with that.  Plus, we are putting our house on the market this week and are scheduling appointments to view other houses.  Anyway, I hope everything else is going well for you.  We need to talk sometime.  I will call you in a couple of days.  D    Enron North America Corp. 
+ I will not be able to play golf or party.  I was really wanting to go, but can't make it.  D 
+ Hey, Ken.  Well, I don't know what I'm going to do.  We will have a Texas Desk, but I don't really want to continue here.  I may look into Brenda's group (Pulp, Paper, Lumber, Steel).  I will most likely interview with AEP to see what they have to offer, but it has to be very good in order for me to leave the Evil Empire.  I am just glad they finally anounced the sale.  Some folks are upset and concerned about the whole deal, but I'm glad it's happened.  Anyway, I meant to let you know how our Christmas went with the boys.  Cole loved everything.  He had a great time and was sad to see Christmas come to an end.  Jake is a little different.  We spent $60 on a couple of things for him.  He hasn't touched them more than twice.  He found his new favorite toy the day after Christmas:  it's one of those soft cooler things you carry your lunch in.  He found that in the bottom of our pantry and now carries it around everywhere.  Now we have these two big plastic things just taking up more room in our already crowded house.  We started our house hunting last week.  I think this is going to be a long process.  Tonya's out looking today.  I'm letting her make the first cut.  I will come in on the second round.  We will probably put our house on the market in a couple of weeks.  We have a few small things we want to clean up, fix, etc., before we list it.  According to the other sales in the neighborhood, we should make a little money.  I hope everything is going well with you and the family.  Later.  D 
+ Sorry about this, Victor.  I didn't even pay attention to the date.  I was thinking this was October business.  We will definitely be able to do somthing with this on our side and not involve the East Desk.  D    Enron North America Corp. 
+ The Texas Desk will not be trading on EOL.  We will not have trading or logistics personnel in the office.  So don't come in for us.  D 
+ Can you send me a copy of  Pan Energy's spreadsheet for Sept, also?  D    Enron North America Corp. 
+ Megan,  Can you forward your calculations on the Pan Energy swap for September 2000 to me?  My contact over there called me regarding some discrepancies beginning that month.  I may be able to help reconcile some of this.  D 
+ Mary,  How are we looking on the rest of our estimates thru King Ranch?  do we need to adjust Big Cowboy or 3 Rivers?  D 
+ I have rolled deal 506192 thru 1/1/01, priced at Dec HSC Index -.045.  D   Aimee Lannou   01/10/2001 09:23 AM 
+ Megan,  Please see the message below.  The pricing on deal 391125 was incorrect; should be HSC GD-.04.  I corrected the deal ticket.  D 
+ Danny,  What do you want to do about this?  D 
+ I extended 454057 for the month of December.  D   Aimee Lannou   01/09/2001 12:43 PM 
+ Gary,  Have you negotiated a price on this?  D 
+ This is a call out meter.  I think the best person to help you would be Kathy Benedict in Volume Management.  D 
+ Stace,  Please look into your notes.  You entered deal 214948 each day for the purchases at this meter for the month.  The 12th and 13th are ok in Sitara. However, there is nothing for the 15th and 16th.  D 
+ I rolled deal 150325 for the first 3 days of Jan.  I expect this point to be zero for the rest of Jan.  D   Aimee Lannou   01/05/2001 10:41 AM 
+ I have created deal 559843 to cover the flow for Nov 1 thru Jan 31.  This deal will probably be handled month-to-month from here on out.  D   Aimee Lannou   01/05/2001 10:37 AM 
+ Gary Lamphier is working on negotiating a price for this.  D   Aimee Lannou   01/02/2001 02:14 PM 
+ Deal 135714 is active through Oct 2000.  The volume on the ticket is zero, so the nom was probably never sent to POPS.  D 
+ I don't know anything about the transport either.  But, I would assume the rate remains the same.  D 
+ Done.  D    Enron North America Corp. 
+ Megan,  I adjusted deal 529856 on the 2nd of Oct and Nov for the adjustments below. Can you make this work?  D    Enron North America Corp. 
+ You think your pretty funny, don't you...     Enron North America Corp. 
+ Have any of the counterparties on the deals below invoiced us for any of the additional volumes?  D 
+ Jackie,  Please get with the East Desk on this.  If they agree, we can roll the deal.  D 
+ Any sales made to MGI off of HGPL or HPL should be billed by the Texas Desk. However, HPL will not invoice MGI.  All trades are done under ENA.  Daren 
+ I have extended #254839. 
+ Luis,  Please see the attachment.  This file shows deals that still need adjustment stemming from the base gas program being kicked off for Dec.  Please have these corrected also.  Thanks.  The "arranged_quantity" column contains the correct volume.  Daren 
+ We already have a deal in place.  #461059 with Torch-Rally.  D 
+ OW,  I have changed the pricing on deal 132975 for this message.  Please adjust the risk assignment.  D 
+ Aimee,  The Global Octanes plant crashed last night.  The undertakes (volume below the base load sale) will not go to the buyback.  This is considered a force majeure.  Do not allow any volumes to be allocated to the buyback until notified by either Lee Papyoti or myself.  Thanks.  D 
+ Didn't the deal that Victor extended cover these days?  I don't think anything should be adjusted on the Dynegy deal.  D 
+ done 
+ What was going on in Feb?  D 
+ Come by anytime today.  I've already made the check out.  I will be leaving early today (sick kids and wife at home), but I will leave the check and tickets on my desk.  D 
+ This volume should be allocated to deal 138642 for Jan.  The meter has always been on the ticket, but with zero volume.  D 
+ FYI. 
+ We should probably take this deal to zero.  Carlos - Please check with measurement to determine if this volume is correct.  We may have some bad information feeding through.  D 
+ This gas should be allocated to deal 70499 (Unit Gas Transmission).  That point is already on the ticket (under ENA).  D 
+ Aimee,  I have updated deal 15765 in Sitara for this change effective today.  D 
+ I tried to approve this a couple of times, so it should be taken care of.  D 
+ Esther,  Please add me to your First Delivery distribution.  Thanks.  D 
+ I have tried to approve this a few times, but it does not appear to work. What is the process to approve this in the system?  Daren 
+ Hey, Ken.  Well, the folks are fine.  But, they have a few friends who lost just about everthing.  In fact, one family found only a couple of boxes of salvagable(?) items from their home (only one family picture) .  I understand that alot of homes were reduced to rubble with very little left to save.  It was very bad.  What made it worse was the freezing weather coming in.  When we talked to Tonya's parents, they were really in shock of bad it was.  Have you been battling those Christmas mobs?  I took friday and Monday off and tried my luck at it.  I didn't last too long.  It doesn't seem right to be cussing everyone out at Christmas...I think I hate people now...I think I'm becoming a scrooge.   Well, I hope ya'll are doing good and staying in the Christmas mood.  Cole is excited about Christmas (wants more Hot Wheels and monster trucks).  Jake doesn't have the foggiest idea what's going on except that he wants to rip every ornament off of the tree and eat it.  We've told him "no" so much that he shakes his head back and forth and smiles while he's grabbing for one.  He is a handful.  Jake has also started taking steps.  He just turned 9 months old this month.  That's a little over a month earlier than Cole started taking steps.  Anyway, I need to go.  D 
+ I can meet on Friday from 12:00-2:00 or Wednesday anytime after 1:00pm. Wednesday would be the best for me since we will be into bidweek on Friday. But, I will make it work.  D 
+ This should be allocated to the liquids group's transport.  D 
+ With PMA's, volumes can be adjusted through the system as usual and I can adjust the demand fee on the Sitara ticket.  I am not able to follow your ua4 calculation.  However, there was imbalance payback that occurred throughout September and October.  (This should have been pathed to the Lone Star transport k in Unify).  Is this in that ua4 number?  Williams had been trying to make up volumes from prior periods, so that's probably why their volume came in greater than booked.  (Much of their gas is from El Paso and volumes vary each day from scheduled.)  The volumes that they were trying to make up would go toward the transport imbalance also.  I would think that Cleburne will carry an imbalance on Lone Star from month to month.  After Novemeber, the imbalance should be fairly small.  Our scheduler, Mark McCoy will have that number.  (When we took over this deal, the imbalance on Lone Star was very large.   When the plant went down in Sep, we decided to payback the imbalance then, so that we could take advantage of higher winter sales prices if the opportunity came up.)  The agreement does not specifically state anything about ua4.  But, I will discuss that with Legal.  The intent is for all costs, including ua4 and fuel, to be covered by Tenaska IV.  I will be leaving at 1pm today and will return on Tuesday 12/19.  We can get together then if you would like.  D 
+ Tonya and I will be there.  D 
+ I moved the Cannon sale volumes from #170335 to #529753 effective 12/14/00. You will need to re-nom #529753 for all prior days at zero and then allocate volumes at each meter from the old deal to the new deal.  Let me know if you have any questions.  D 
+ I'm cool with it.  D 
+ JM, Can you extend the contrtact on deal 138605 thru 10/2/00 ?  D 
+ Deal 386264 has a start date of 9/1/00.  D 
+ Password is now cole1jake. 
+ I have adjusted deals 436187 and 413538.  D 
+ Mike,  Based on the screen today and current spreads, we may be able to market the excess volumes (in the Waha region) at the following levels for 2001:  Jan 4.65 Feb 4.47 Mar 4.26 Apr 4.04 May 3.97 Jun 3.96 Jul 3.96 Aug 3.95 Sep 3.84 Oct 3.96 Nov 4.06 Dec 4.17   Of course, these are only forecasts and are very volatile.  If you need anything else, or have any questions, let me know.  Daren 
+ Hey, Dwight.  Everything is going fine here.  Thanks for your message.  I'm feeling pretty confident with how things are going.  I have received very positive feedback from my manager and my employees.  I have learned much from you, especially related to communication:  recognizing the different types of people, different ways to communicate.  And, I appreciate the time you've spent with me.  However, I would like to discontinue our sessions for the time being. When I'm in need of some "managing expertise" in the future, I will give you a call.  Again, thanks for working with me.  Daren 
+ I created #454057 for the flow at Mtr 5192.  Canny Conner is looking into mtr 6387.  I will let you know when he determines what we will be doing.  D   Aimee Lannou   10/26/2000 10:01 AM 
+ Gary,  The deal with Williams Terminals expired in Oct.  However, about 3,800 flowed for Nov.  Do you need to renegotiate this deal for Nov.  Or, do we roll it under the terminated k?  What do think about Dec?  D 
+ PW,  HPL's spot and base purchases by zone for April 2000 are reported in the attached file.  Let me know if you have any questions.  D 
+ Susan,  Are you clear on what you need to do with this?  D 
+ FYI.  You may want to check with someone to see if this will affect you this weekend.  D 
+ Robert will be coming too.  He said that he will be buying your lunch, since you wouldn't accept his x-mas present last year.   Just kidding.  D 
+ We are on the 32nd floor now (Thru the glass door and turn right), if your badge still works.  Or, give me a call from the Lobby and I'll come get you.  Would you like me to invite anyone else to go with us (Carlos, Lauri, etc)? It doesn't matter to me.  D 
+ Lee,  On deal 413447 (Chevron @ Olefins), we have a flex nom of 6,000 to 12,000/day.  Is this a monthly nom or daily nom?  Will we have a swing deal with them for the winter?  The current swing deal is for Oct only.  For Oct, they have pulled an average of 16,000/day.  D 
+ We have adjusted Suemar in Sitara.  And will probably adjust it again in a few days.  Since we bridge back estimates daily, the production at the Berryman well has been adjusted in the economics.  So, this will not have an impact on UA4.  D 
+ Why don't you come to the office around 11:00.  (I'll be trading Waha until 10:30 or so.) You can come up and say "hi" to everyone.  Or, we can just meet in the lobby and walk over.  D 
+ I have rolled the Hilcorp deal.  I will get Gary to look into the Williams deal.  D   Aimee Lannou   12/12/2000 08:43 AM 
+ Another national crown ... It must be nice.  We have to keep referring back to our one and only in 1935.  But, we will never forget it!  I am looking forward to the 28th.  Tonya and I are going to the Aggie/K-state game.  We'll see how that goes.  Looks like your corn boys will be playing OU that weekend.  That should be a good battle.  OU also has a week off to get ready for you.  (I think they should be rated #2).  Things are going ok here.  I can't remember if we've talked about the sale of HPL.  That is getting closer to happening.  I am hoping it does.  I'm ready to go on to something else, and that would make it much easier.  Ami Chokshi decided that she would leave the co. this week.  She is heading of to San Fran.  No job or any specific plans yet, but it's always something whe has wanted to do.  It would be nice to be able to pick up and do something like that.  How's everything else going for you and the family.  We are all doing pretty good.  I actually took last week off.  The only plans I had were to spend time with the family.  It was great!  It really drove the point home that I need to stop letting people/things around here set my proiorities.  Anyway, would you be able to come down for lunch on Friday?  I'm sure it's been a while since you've had your Treebeard's.  Let me know.  Sorry I haven't talked to you much.  I'm going to end up losing all my friends if I don't change my ways.   D 
+ FYI.  I changed the pricing on the September deal (#386540) to IF HSC-.05 from HSC GD.  D 
+ JM,  Is the contract for this deal still valid?  I want to roll the deal for Sep and Oct.  D 
+ You're right.  I have corrected the ticket.  D 
+ done    Enron North America Corp. 
+ I have created two new deals in Sitara.  You will need to get with someone in Volume Management to reallocate volumes from the old tickets to the new deals for Jan-Sep.  The Logistics group will be able to adjust October forward.  Deal #s:  144052 --> 440092 144049 --> 440093  Let me know if you have any questions.  D 
+ Consumer Price Index 
+ JM,  The message below is related to deal #138094.  According to Joan, October is the last month for this deal.  However, the evergreen flag is activated in Sitara and a new line has been created for November.  Can you look into this please?  D 
+ Has this been resolved?  D 
+ Diane,  I apologize for getting this to you so late.  I should have no staffing additions next year.  Staff  Manager 1 Sr.  2 Average to High  Training  Both Seniors should attend 1 personal enrichment class (Effective Communication) and 1 Technical class.  I think that everything else should roll for next year. Let me know what else I need to give you.  D 
+ BH,  I plan to be on vacation July 5-6 (finally) and on the customer trip on the 7th.  While I am out, Gary Hanks will be keeping our position during trading.  Stacey will be in charge of everything else.  I am comfortable that everything will be covered.  I will be back in town Thursday night.  The primary flight for the customer trip leaves around 11:30.  Others leave at 3:30 and 5:30(?).   The latest idea we had is that Pat would take a later flight on this trip and I will take a later flight on the August trip, allowing one of us to be in the office for half the day.  I can also come in for the half day on the 7th if we decide that is needed.  D 
+ I created deal #439909 for August.  Jeff - I am assuming that the price for August is Gas Daily.  Currently, we have the September deal priced at Gas Daily also.  Since this was flowing on the first, should the price be at Inside Ferc HSC for September?  D 

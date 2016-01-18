@@ -4,7 +4,7 @@ import scipy.sparse.linalg as lin
 import numpy as np
 from scipy import sparse
 import copy
-
+import shutil
 def unitVector(vector):
     return np.divide(vector,np.linalg.norm(vector))
 
@@ -103,7 +103,7 @@ def amountOfsuccess(positionFromFront,number,folder):
     files = os.listdir(folder)
     counter = 0
     for i in positionFromFront:
-        if(i <= number):
+        if(i <= number+1):
             counter+=1
     return counter/float(len(positionFromFront))
 
@@ -115,8 +115,14 @@ def PercentamountOfsuccess(positionFromFront,folder):
             counter+=1
     return counter/float(len(positionFromFront))
 
+def copyFolder(original,toCopy):
+    files = os.listdir(original)
+    for f in files:
+        shutil.copyfile(original+"/" + f,toCopy+"/"+f)
+
 def main(files,tester):
-    split(files,tester,75.0)
+    copyFolder("realunchanged",files)
+    split(files,tester,50.0)
     filess = os.listdir(files)
     filesSizes = []
     success = []
@@ -135,7 +141,7 @@ def main(files,tester):
     try:
         myCharIndex = getmyCharsIndex("char")
     except:
-	print "first run detected, creating character matrix"
+	   print "first run detected, creating character matrix"
         originalMatrix = []
         testingMatrix = []
         myCharIndex = {}
@@ -212,13 +218,13 @@ def main(files,tester):
             counter+=1
         positionFromFront2 = copy.deepcopy(positionFromFront)
         target = open("toptensucess.txt","a")
-        target.write(str(amountOfsuccess(positionFromFront,10,files))+"\n")
+        target.write(str(amountOfsuccess(positionFromFront,10,files))+" - "+ str(j)+"\n")
         target = open("tenpercent.txt","a")
-        target.write(str(PercentamountOfsuccess(positionFromFront,files))+"\n")
+        target.write(str(PercentamountOfsuccess(positionFromFront,files))+ " - " + str(j) + "\n")
         os.remove(files + "/" + j[1])
         os.remove(tester + "/" + j[1])
         del originalMatrix[0]
         del testingMatrix[0]
 
 if __name__ == "__main__":
-    main("People","testing")
+    main("Enron_collection","testing")

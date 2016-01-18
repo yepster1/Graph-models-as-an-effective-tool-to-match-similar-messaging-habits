@@ -1,0 +1,186 @@
+fit perfectly. 
+ $700 seems like plenty.  i know you don't want to be house poor, but i only think it's worth it if we find a sweet place. 
+ sweet. 
+ it's all about the action. 
+ i need to move my dining room table before monday night when a sofa is getting delivered.  can you help me out sometime this w/e?  i also want to show off the scooby phone. 
+ it looks like there are alot of places in the herald classifieds.  i need 30 days notice according to my lease.  did you do any thinking about how much you can spend on a pad? 
+ my nametag now reads "Mrs Jai Hawker".  in keeping with nickname strategy, i am pretending not to notice. 
+ apparently, your invoice has been lost in the system somewhere.  do you have a copy you could send and i will get it processed asap?  thx, cooper 
+ can you send eze email then?  not a disaster if you don't come.  based on the way you two got along last night, its probly better if you don't ... 
+ for Stan Williams of Williams Project Ltd.  submitted in december and approved by zufferli.  is this one in the pipe as well?  thanks, cooper 
+ do you want in on yoga w/ eze?  i'd like to set it up, especially since it may involve jamie, but not sure if you're interested in spending extracurricular time w/ eze 
+ Thanks Cheryl. 
+ Hey-  i just got back into town from almost 3 weeks vacation.  sorry i didn't get in touch over the holidays, but do you want to get together sometime soon?  my schedule is very easy-going at them moment - hopefully you are in town.  cooper 
+ Cheryl,  Nancy Taylor at Cognicase has asked me to check into payments for 2 IT Contractors.  I have the invoices and understand that you have them as well.  It's about 60 grand C$.  Are there any issues surrounding paying them?  thanks, Cooper 
+ Stan,  just back in the office and i will get right on it.  Cooper 
+ Greg/Dan,  now that things are firming up, can you give me a summary of what is happening to all of the servers purchased for trading decision support (i.e., fundamentals).  the ones i had to get zufferli to sign off on purchasing were power-fs1, nacal-sqws001p, nacal-sqws001d and the 3 pizza boxes.  i know there is some shuffling around now, but i'd like to know what the plan is for these in the short term and long term (either estate/ubs share, estate only, or ubs only).  thanks, cooper 
+ testing 
+ how about mon eve then?  i'm not sure how much time you have - sounds like you still have work to do before going home, but I'm up for anything - dinner or drinks/coffee later on?  or maybe something more seasonal - i don't know if you still have any shopping left, but I always leave it to the last minute and do a horrible job.  i'm running around today but i'll try phoning tonight to see what you think.  cooper 
+ yah, it's amazing how quickly christmas sneaks up on me.  i'm hoping i won't have to come into work next week and feeling very good about leaving work for awhile.  almost like being an undergrad at the end of a semester.  so, i'm flying out on wednesday and wondering if you'd like to get together before i go?  i'm more or less free from sunday until i go. coffee sometime?  dinner?  cooper 
+ i have enspace up and running - looks like the demo you showed.  unfortunately, i'm taking the rest of the year off, so I won't be around for your startup, but I will look at it first thing in the new year. 
+ can you move backups of production AlbertaPower and development AlbertaGas to i:\trading\newco\richey\db\?  thx,  cooper 
+ can you add mark dupuy to the "caldata_pwrfund" NT group.  He needs to take over some of Karim's responsibilities.  thx, cooper 
+ i think i can get around this, but i need to install some software under local admin.  can you drop by and hook me up when you get a chance? 
+ damn!  do you use microsoft outlook?  or some bizarre Corel product?  yes, it would be terrible to allow employees access to a cd-rom drive.  productivity would plummet.  enron let their employees have cd-roms and look what happened to them! 
+ I moved the meeting to VC1 for 9:30-10:30 - does that work? 
+ great. thanks.  -c 
+ IT never got the box up 
+ p	50 o	15 
+ Chris,   I need to get whatever access Greg and Colin had to AlbertaPower and AlbertaGas databases on dev and prod.  I may already have it, but I'm not sure, especially about the AlbertaGas database.  basically, their accounts have been cleared from the network and I need to run things under my own account, rather than theirs.  Also, on dev db, I need to admin rights as Colin had these to do some OLAP stuff.  I'm guessing you are not the person to talk to about this?  cooper 
+ are you around?  can you give me a call?  974 6946  coop 
+ hey,  i don't have your phone number at work.  i have some bad news - i'll be flying out 3 days later than i told you before.  either my booking got screwed up or i never booked the flight! i think it got lost on the internet some where, but i can't even remember what airline it was on, so it's impossible for me to check!  just booked a one week flight and i'll be coming out on the 19th.  i'm still going to take the days off from work and relax in calgary a little, which is good.  by the way, if you haven't already gotten me something, i thought of a xmas present. a squash raquet.  lots of people play here and i'm looking to get into it.  number here is 403 974 6946 if you want to chat.  love, coop 
+ wanted to send you a reference to my dream girl  http://www.ecologyproject.org/staff.html  scroll down to the julie osborn section  i used to work with her in berkeley 
+ everything look ok?  does the enron direct data look correct? 
+ final up-to-date version 
+   hey, do you see graphics above this sentence?  the admins showed me how to insert clip art into email and i'm trying to figure out if works outside of enron.  <Embedded Microsoft Clip Gallery> <Embedded Microsoft Clip Gallery> 
+ hey!  sorry for the delay and thanks for thinking of me.  i missed you at thanksgiving as well!  canadians celbrate thanksgiving in october!?!, but some friends had me over for "american" thanksgiving, so i had a good time anyway.  i'm hoping to catch up with you and kt over the holidays.  i'm planning on being on the east coast from dec 16 - jan 3, mostly in northern va.  are you going to be in bethesda at all?  also planning a trip up to NY.  yes, enron is in a bad way.  i'm doing fine, but it hasn't been a pleasant month at work with layoffs and massive uncertainty about future of the company.  i've resolved to not worry about it until the new year and it seems to be working!  still planning on staying in calgary but who knows?  let me know about your holiday plans!  love, coop 
+ just use same as yesterday 
+ what's your number over there? 
+ p	38 o	15 
+ yah - didn't feel like talking to you.  felt like a pawn on your wheelin' chicks chessboard yesterday.  we should talk later - don't want to get into it over email or on the phone. 
+ i don't know what you mean.  i'm just a dumb trader  it's called double mo cafe.  go to www.doublemo.cafe 
+ in case you didn't get this 
+ try having no work to do for two months and then having to stick around and "appear" busy...  i know what you mean, in some ways its harder when you're not used to not doing things.  i've gotten good at finding things to do with my time, but when i first had nothing to do, i was going crazy.  fridays are always slow around here and i'm guessing its the same there, although i don't know cnrl specifcally, oil and gas producer/marketer?  in terms of what i do, before enron went under, i was the short term alberta power trader.  since then, i have been champion internet surfer and investigating local coffee shops in an ever-widening circle.  although, things are looking up.  eze is (i think) an earls nickname -- pronounced easy-e.  although, they may just call her easy for short.  i'm sure she loves both names very much.  i have a very important meeting at 5 with my massage therapist and i was thinking about stopping by after that.  should i call eze's cell?  or do you have a cell #? 
+ Hey Tim,  not sure what you guys are up to, likely making yourself pretty for potential investors?  we're not quite at that point yet here, so things are very slow which has given me some time to look into R (been on my list for quite some time).  It looks very good!  have you had a chance to look into it?  i'd like to verify that it's worth putting some time into.  hope things are going well and i'll give a call to chat sometime soon.  cooper 
+ call me when you have a chance, something i want to share 
+ i'm tired today.  good night at earl's last night! your aggro-ness finally paid some fucking dividends 
+ bitch - you have to let me see them! 
+ sweet.  glad to hear things are going so well.  yeah, things are ok here.  it's more boring than anything.  not sure what the future holds ... 
+ i'm out. strings should put them on ebay. 
+ the burden of proof rests on your shoulders 
+ i'll just need a receipt and you're done 
+ you're done on the 85% discount ? 
+ 9 
+ sounds good. 
+ i'd have to see them and they'd have to fit my shoes, but as long as the discount is in the 85-90% range, i'm cool with it. 
+ sweet!  yah, jimi told me about the party and i will definitely be there.  i'm not happy about you deploying though dude.  do you know what your role will be?  definitely catch up when i'm back. 
+   P/OP Ratio	Bid	Offer	F	P	O Jan	1.54	36	42	39	46	30 Feb	1.58			40	48	30 Mar	1.81			39	49	27 Q1	1.64	36	42	39	47	29 Q2	2.10	33	41	37	48	23 Q3	2.33	38	44	41	55	23 Q4	1.88	40	46	43	54	29 Y2002				40	51	26 
+ p	40 o	15 
+ IT has to hook up unreal because it requires local admin rights.  also, we don't have the disk anymore since colin left, so don't think we hook up anymore.  unfortunately.  marks on the way 
+ greg,  i wanted to run the curve fetcher for the last few days.  i booted up the app, but it looks like i need to setup a db connection.  can you send me the steps i need to run for the last few days.  thx, coop 
+ Hi,  I'm responding to an email sent by Tim Callahan on Nov 30 regarding questions on tax equalization.  I also left a voice-message for you.  I'm in the Calgary office and paid out of the U.S.  I've been operating under the assumption that i wouldn't get hit twice on income taxes as there is a "credit" between Canada and the U.S.  However, after doing some reasearch on the IRS website, it seems there may be a cap to the "credit" that is allowable.  Do you know anything about this? or can you point me to someone who might be knowledgeable in such matters?  thanks, Cooper Richey 403 974 6946 
+ Hi Dawn,  haven't heard from you recently.  have you received anything from houston for me?  thx, cooper 
+ hey dude-  what's new?  i'm coming home dec 16 - jan 3.  are you planning on being around?  be great to catch up on life.  i haven't talked to anyone from hs in the last year or so - feeling lame and out of touch.  i hear howard is engaged.  things are going well for me, although job situation is somewhat uncertain at this point ...  i'm sure you've seen what's going on with enron.  how's callisma and life in general?  coop 
+ eze:  its going well, thanks for asking - work is good - i'm getting excited to start trading again and i'm actually doing some real work!  feels good.  and i'm having fun with the whole exercise thing - i hope it sticks.  how are things with you - i know you are super busy, but it must be good to finally be starting a career?  rockne is a special treat.  at least he isn't hairy.  i've found yoga to be a good antidote to modern life.  i'm not excited to move at all, but i am looking forward to living in a new spot.  change is good.  i probly won't need your help moving, but i am planning on lifting some of those shelves from ikea, so i'll be sure to give you a ring for the install.  great to see you last night at banana.  i can't wait to wear my blue pants, but it seems like they should follow the white pants rule, so i don't think i'll break them out until labor day.  definitely a good purchase, since i'll probably wear them twice (total).  hope to see you tonight.  cooper 
+ hey dude-  i hear you're engaged!  congratulations.  what's going on?  i haven't been in touch with anyone in the last year or so...  things have been going well in canada, but my company is melting down, so not sure what i'm going to be doing and probably won't know for awhile.  i'm going to be home dec 16 - jan 3.  are you going to be around?  looking forward to catching up ...  coop 
+ don't think so.  he's pretty old 
+ hey,  can you send me the last few of these?  thx, cooper 
+ there's an amazing guitarist playing at the double mo cafe (the one my friend's wife owns) on friday night.  ted williams.  i've seen him before and he's incredible.  i would call him a blues guitarist, but not sure ...  i think it starts at 9.  is strings interested? 
+ p	45 o	15 
+ no relation  that clip isn't the full one though. 
+ any interest in a chapter's visit sometime soon? 
+ not really.  i'm sure you've already been labeled a playboy (i feel you playboy!)  it depends how superficial and silly the men are there - my sense is that they aren't, but i don't know. 
+ definitely - i'm glad you want to talk more about it.  are you going to be downtown this week at all?  should know more on wed/thu in terms of enron canada's future. 
+ definitely!  what more could you ask for? 
+ hmm, synapses not jumping - i know the feeling,  i think i have three neurons firing in my brain this morning...  i know what you mean about getting soft - when i went home to virginia for christmas, my mom was like "it's cold out, shouldn't you put a jacket on?" and having been toughened by the brutal calgary winters (in addition to being the super tough guy that i am) i did go out --- naked almost every day.  let me know when you'er heading over to bass brothers and i'll meet up with you - i have a few things to do but drinks after work should fit in.  i ran into eze (aka emily) at banana republic last night - its such a small town!  hey, what do you do at cnrl anyway?  cooper 
+ p	44 o	16 
+ andrea.langfeldt@enron.com 
+ got the fax.  it looks like i made it in microsoft word!  :)  shouldn't need the hardcopies.  thanks.  will keep you in the loop on things.  love, coop 
+ sounds good to me. 
+ p	55.75 o	16 
+ i guess not.  i'll remove the C++ 
+  if there's anything you want me to change (technologies to add, things to highlight), let me know 
+ Hi,  I graduated in 1996 and need a copy of my degree as part of the application process for a visa in Canada.  Can you point me in the right direction for this?  thanks, Cooper 
+ don't do that to me 
+ Hey Mom,  Enron just cut to junk status -- very bad for the company.  thought i would give a call but don't have your number at work.  send it if you get a chance.  love, coop 
+ cell number is:  512 3312 but it's enron's phone, so ...  home number is 262 0205 and cooper@llamacom.com should be a good place to reach me.  as for me, i'm very unsure.  I'm still technically a U.S. employee and my visa expires soon, so I really don't have any idea.  worst case is i take a well-deserved vacation for awhile and worry about the rest later ... :)  cooper 
+ Hi Chris,  I don't know where you're at with things ...  i've been impressed how you've handled both the databases and the people involved with databases and would be happy to provide you with a solid reference if you ever need one.  please keep this to yourself as I don't feel this way about many people here ...  cheers :)  Cooper 
+ looks like i'll be free for lunch ... any interest? 
+ you're dumb 
+ bitch - you'll get your 20 bones when i get a card with my name on it. 
+ no problems here.  everything is fine. 
+ i'll be in this powerpool meeting from 9:30 to 2:00 
+ you're dumb 
+ p	42 o	16 
+ don't worry i'm certainly not blaming you for any of this. i have a short fuse when it comes to Houston IT. 
+ there is a market surveillance summary for the alberta power pool  at www.powerpool.ab.ca	with some spark spread stuff in it.  didn't look at it, but if you're still looking at spark spreads, it would validate your method. 
+ yah.  the brutal part is that i'm sure those planes are no where near full. 
+ i missed it that. 
+ looks like its 2 Gs to go to kansas city or st louis.  too far to miami, etc. 
+ gotcha.  hood river would be a sweet place to live for awhile.  alberta's great.  getting very cold here, but it's been puking in the mountains, so i'm looking forward to getting out skiing, etc.  with the nosedive enron is taking, it's easy to blow out of work and head to banff.  alberta just built a 40MW wind farm (doubling wind capacity in the region) with more on the way.  should be over 1% of installed capacity for the region soon.  have fun in mejico. 
+ done. 
+ can you come over when its convenient? 
+ excellent - really looking forward to dinner tomorrow! 
+ DBD::ODBC works like a charm.  if you're already using DBI, i don't think you'll have much trouble with the transition, assuming you're doing anything funky. 
+ Hey Greg,  sorry to hear you're sick.  hope you feel better soon.  what will be involved in handing over the development of the client piece (excel, etc.) of the eol feed to colin?  i'd like to get this done as soon as possible.  Cooper 
+ looks good.  i'm working some stuff now that is writing to the z:\ drive for publishing on the web -- i will have it write to i: and set it up so it will be easy to change from now going forward.  should be able to tell if it works from that.  i think your idea was a good one. 
+ thanks 
+ ian -  do you by chance have emily's (from earls) email address?  she gave it to hawker and he lost it.  no prob if you don't. 
+ Chris,  can you roll this when you get a chance?  thx, cooper 
+ how do you feel about a matinee, bitch? 
+ the colonel was talking about meeting at Lucky's on 17th and then head out.  perhaps to the backalley.  not a house party at all. 
+ Hey Karl!  great to hear from you.  someday we will talk - maybe today?  not sure if you're still in, but i'm at my desk.  number is 403 974 6946 i believe it is the same country code as US, but not sure.  it's been bad here at work for the last few weeks and its going to take awhile for things to get better, i'm just hoping it doesn't get any worse.  it was very dicey for awhile - thought ene was going tits up.  spanish desk sounds great!  say hi to kristian and paul for me, but we should catch up by phone, if possible, so i'll leave it there.  cooper  p.s. snow is just falling on the mountains and i'm getting excited for some good skiing. 
+ definitely.  sounds fun. 
+ nope.  maybe ask greg or sebastien. 
+ Hey Toby,  sorry to hear about the layoffs.  i think the hatchet falls around here next week.  Chris Wiebe has been taking care of things here and interacting with Houston a fair bit and I think he's been doing a great job with things, which is too bad since that means he forces me to play around in dev instead of prod ...  anyway, i hope we can enjoy a beer sometime and laugh about enron, but it doesn't feel too good right now.  thanks for the note. 
+ its a boring exchange - its hard to get motivated.  i thought i would be on the one a day plan  bitch, i could barely open the doors on the way back. 
+ Hi Kate,  sorry for not leaving my numbers.  they are:  (h)	403 262 0205 (w)	403 974 6946 (c)	403 512 3312  hope you have a great thanksgiving and can't wait to catch up.  love, coop 
+ hey japhet  did i ever get you the name of the wind guy at enron?  i forget now. 
+ ok.  by the way, there is no model.  i just pull these numbers out of the air.  thu p	30 o	20  fri p	30 o	20  sat p	28 o	20  sun p	28 o	20  mon p	45 o	20 
+ ok sounds good 
+ any interest in going to vegas end of feb? 
+ i'm flexible, but i'm guessing it will be more crowded then.  y? 
+ probly around 2 or after work around 4:30. 
+ Hey Greg,  just wanted to verify that the address i gave you before was correct.  thx for the hookup!  - c - 
+ Hi Cheryl,  I'm not sure if I forwarded this or not, but I'm not sure what to do with this.  This is regarding the invoice I gave you a couple weeks ago.  It appears that Stan submitted two invoiced on the same day?  Let me know if there is anything I can do.  Cooper 
+ eze-  i got your message and i might be up for yoga tonight.  i went to core last night and it was nice and mellow.  do you have any idea who teaches the 7:30 class?  i went a while back and it this hyper-active guy taught the class and it wasn't so good - adding that to the rockne risk makes it a dangerious proposition.  do you happen to have janice's email address?  jai and i haven't been to earls in a long time and i was wondering how she was doing.  if you see her when you're working, tell her i said hi.  - c - 
+ looks like $35 plus surcharges. 
+ did you see black hawk down?  i didn't like it that much, but i read the book awhile ago (really good) and its a hard subject to make a movie about.  my brother is in the special forces, so it's scary to think he could be one of those guys.  just finished playing squash with ian cooke  i'm guessing you know him too?  i have so little to do at work these days, its hard to be motivated, but i suppose i could have worse things to complain about.  what movies did you rent? sorry if i'm nosy, but see previous sentence.  - c - 
+ hitting the send button at most once a day would be a start. 
+ it says its general admission, are there no seat assignments?  do you want to go sat or sun? 
+ do you remember tom cruise in vanilla?  how he was a "satisfaction delayer"?  you are the fucking polar opposite.  you've been waiting 2 years, don't you want to kick back and enjoy the ride in? 
+ dude.  you're over-reacting.  i think she was flustered by your voracious flirting and pulled the chute.  i hope kryptonomicon isn't this boring in real life.  dude, are we done on nelly? 
+ 1) 
+ fyi sofa delievered sometime between 10 and 2 on sat. 
+ are you talking about the sweatbands in there?  those are sweet.  are you ordering anything from there? 
+ are you fucking kidding me?  i'm always right, baby. 
+ consider me a free call option 
+ here's the address in case you need it for something:  303 1001 14th Ave SW Calgary AB T2R1L2 
+ can you ask your mom the name of the upholstery store she recommended to me before xmas?  thx 
+ can you send rene's number -- need to get the postal code to get sofa delivered. 
+ eze:  hows it going?  jai said you got into an accident - glad to hear you are ok and i hope it wasn't too stressful.  thinking of going to yoga tonight at the space (5:30) - thought i would give you a look.  have you been going to yoga?  i haven't since i've been sick :(  - c - 
+ ok, fuckface. 
+ brenda was a test.  stratego failed.  this email is yet more evidence.  the fact that stratego was not aggressively machinating does not impress me in the least.  the fact that you are still representing makes me sad.  asking for props?  please, dude, the depths of your selfishness have yet to be established.  don't treat me like a fool or one of your bitches.  take a moment and peer inside - that tinge of guilt?  that's what i'm talking about.  in any case, i don't plan on claiming anyone again. 
+ some other time then 
+ that's even worse, stratego 
+ nice work getting her email address, bitch 
+ i think she said "going steady" 
+ excellent - although krypto has a good chance of morphing into "lex luther" at some later point 
+ Gary,  I seem to have the wrong email address - please forward this on.  thx, cooper 
+ Hi,  I work at Enron as a power trader and Gary Hagerty asked me to forward any prospects for a "junior power risk management" position at Epcor onto you.  Michael Wong worked for us on booking the Sundance B PPA position and was let go soon after this was sold to TransCanada/Altagas and if you're still looking for someone, he would be worth investigating.  Regards, Cooper Richey    Michael Wong mfwong@ualberta.net 403.560.0289 
+ I believe it is 1001 14th Ave, apt #303 - but i'm waiting for verification.  sorry for the delay.  you can give them my cell # 262 0205.  afternoons work best starting this friday for installation.  thanks.  oh, can you send me the name of that attorney you mentioned?  thx, cooper 
+ Hi Jill,  how was ceili's?  i ended up going home and taking a nap and then going to see black hawk down.  i think i was in bed by 10:30...  i'm sure you had more fun than me.  overall, my w/e was fairly uneventful. you?  should go another time.  cooper 
+ Dawn, updated resume is attached - let me know if you need anything else.  Cooper 
+ button-  thanks for the hockey tickets - my second NHL game!  it was sweet - started out great with a fight and a goal and then not much happened.  see ya around, cooper 
+ hi Jill,  i'm glad you had fun last night and we should definitely do it again.  I may stop by ceili's on the way home, but might also go home to bed.  undecided at the moment.  if i don't stop by, can i take a raincheck?  i'm sure i'll see you soon either way.  Cooper 
+ well, after your pep talk this morning ... it's worth checking out for sure. 
+ i really don't want to go out, but think i should at least stop by. 
+ want to go? 
+ 3 to 1 - the games were close, but carlos controlled the match. 
+ carl beat cowan  how was the maid? 
+ Dawn,  I think I may be on an "immigration" list in houston, but based on the attached forms, it looks like they think i am a non-U.S. citizen residing in the U.S., rather than a U.S. citizen residing in Canada.  Should I get in touch with Karen Buckley?  please advise.  Cooper 
+ be still my heart 
+ eze:  its at 7:30 and its usually $20.  all the money gets spent on the wine, so its a good deal.  its extremely casual and it would be great to see jill again. as for jamie, brokering is a slimy business and its hard to see how she fits in, but then i don't know her that well.  didn't see royal t's... i went home and went to bed (i'm sick! yuck).  dorland is chris dorland and a guy i sit next to at work.  he was there on saturday night.  i'm sure you'll run into him again.  i'll let craig know you are thinking of coming.  - c - 
+ Many thanks.  Your copy works like a charm.  I'll be more diligent in my archive search next time. 
+ All:  I'm attempting to use lattice on windows 2000 under R 1.4.  Rgui and Rterm crash when I invoke "xyplot" or "trellis.device" commands (including the oft-used "quakes" example)  In particular, I get a message box from the windows OS with the following text: -------------------------------------------------------------------- Rgui.exe has generated errors and will be closed by Windows. You will need to restart the program.  An error log is being generated --------------------------------------------------------------------  this seems to happen right after the graphics window is spawned.  I'm using lattice version 0.4-0 and grid version 0.5  am I missing some sort of prep work for lattice graphics?  thanks any help, Cooper 
+ Hi Chris,  I'm deeply concerned about all of these points and think we should meet in person to discuss.  I'm free all day. 
+ hey emily,  don't think i can make yoga tonight - i went climbing last night and inflamed some tendonitis i have in my arm so i'm going to chill out for a few days.  however, i have made plans to see the royal t's with dorland tonight - so here's a look if you haven't already seen it.  and to respond to your earlier email (i can't keep up): the meeting i had on sunday was fine - it's always good to see what else is out there.  the pipe and casing industry sounds fascinating - i can't wait until you're an expert and you can hold forth on the intricacies over some earls carrot cake.  and speaking of earls desserts, anything would be better than the gingerbread cake.  also, has earls updated the propaganda on the left hand side of the menu, specifically the "featured ingredients" section?  not sure when you're going to get this, actually.  oh, i'm going to a wine tasting at the double mo cafe on thursday night if you/jamie are interested.  do you interested in wine?  my friend craig's wife owns the cafe which is near the university.  i always have fun when i go, so give it some thought if you like wine.  i think it's going to be a new zealand/australian theme.  - c - 
+ today is the day 
+ hey jon,  i didn't get around to calling you this weekend, but am hoping to touch base this week.  ok to give a call in the evenings?  i'm beginning to think about this as a long term project and look forward to hearing your thoughts.  coop 
+ thanks 
+ hey mike -  hope you are doing well.  i was talking to a guy over at epcor and he said that they were interested in hiring a "junior" power risk management person and i wanted to see if you want me to pass your contact information along.  cooper 
+ i got an error message when i tried to open your message with mike's contact info. 
+ address as i deleted your last email.  can you send the name of the movers you used if its handy?  or the realtors name?  thx, cooper 
+ no 
+ which one was sandy?  is the machination mad at someone else for being selfish and calculating? 
+ at some point, you will stop demonizing emily and re-realize how cool she is, bitch.  here's your chance to get out with your rep intact, you can blame everything on the "complexity"  i would make it clean though, none of your half-assed bullshit. 
+ hi jill,  ah, i don't think you'll get this until next week, but maybe you're checking your email on the road.  hope your course is fun.  how was it to see your family.  i've had my parents visit me up here and i was also down there over christmas break and i much prefer when they visit me rather the other way around.  i feel like i'm back in high school when i'm back home, i think, or something like that.  don't tease me, what did you do on sat night?  work is going really well - finally feeling some pressure.  hmm, i don't know anything about painting pottery, but i'm interested. i've done it before and its harder than it looks and takes awhile, but could be fun with the right group of people.  talk to you soon, cooper 
+ eze:  are you in the office today?  yoga tomorrow sounds great.  i went last night to a beginner YIM class with a friend from work who wanted to check it out.  it was crowded - are the w/e classes the same/better/worse?  i somehow always try to show up early to yoga but never manage to, but YIM may leave me no choice.  i feel like i'm in san francisco three years ago the way yoga is taking off here.  i love carrot cake.  ceilis sounds good - i'll see you there.  i like how you send each email with a takeaway thought.  i'm actually busy this morning, but wanted to reply sorry for the sound bites -- see you after work.  - c - 
+ Hi Danielle,  I have some feedback w/ respect to MD apps file.  IHS Accumap 					(403) 770 4503 Canadian Gas Price Reporter			? Nickles Energy Infromation Technology		Cindy Trueman (403) 209 3574 Environment Canada Daily Weather Data		Scott McCormick (403) 299 7801  thanks Cooper 
+ i missed yoga last night too - do you want to try to YIM this weekend?  saturday night sounds good.  i'm not sure what's going on with crantina and its not too personal nor a secret.  i'll pass the book along to jai.  are you working at earls again this w/e to support your shooter-lifestyle?  - c - 
+ http://arstechnica.com/guide/system/budget.html 
+ you hooked me up on "NACAL-SQWS001D"? 
+ does it take awhile for my access to NACAL-SQWS001D to take effect? 
+ i've been playing around more with R (doing some reading and installing the basic package) and it looks fantastic.  in particular, the database connecticity package ("RODBC") works right out of the box!  very impressive.  in a couple of lines, i can get data from a table in a SQL server database into a dataframe and more importantly, result sets from stored procedures can be returned to data frames as well.  and its free! 
+ hi mom,  i'll let you know when i get the package - thanks for sending it.  things are ok, just waiting to see how things shake out with the enron-ubs deal., it looks ok, but i'll know more later this week.  love, coop 
+ subscribe 
