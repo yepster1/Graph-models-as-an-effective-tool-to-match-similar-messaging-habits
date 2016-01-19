@@ -175,7 +175,7 @@ def main(files,tester,percentage):
     testingData.sort()
     data.sort()
     try:
-        myCharIndex = getmyCharsIndex("word")
+        myCharIndex = getmyCharsIndex("char")
     except:
         print "first run detected, creating character matrix"
         originalMatrix = []
@@ -186,13 +186,13 @@ def main(files,tester,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
-    writeChar(myCharIndex,"word")
+            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+    writeChar(myCharIndex,"char")
     originalMatrix = []
     testingMatrix = []
     print "continuing"
@@ -202,13 +202,38 @@ def main(files,tester,percentage):
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
+    originalVectors = []
+    testingVectors = []
+    counter3 = 0
+    for k in testingMatrix:
+        try:
+            val,vec = lin.eigs(k[0],k = 1)
+            vec = vec.transpose()
+            vec = vec[0]
+            testingVectors.append([vec.real,k[1]])
+            print counter3/100.0
+            counter3+=1
+        except:
+            print k[1]
+            print "error, non convergence"
+    for k in originalMatrix:
+        try:
+            values,vectors = lin.eigs(k[0], k = 1)
+            vectors = vectors.transpose()
+            vectors = vectors[0]
+            originalVectors.append([vectors.real,k[1]])
+            print counter3/100.0
+            counter3+=1
+        except:
+            print k[1]
+            print "error, non convergence"
     for j in filesSizes[:-2]:
         counter2+=1
         print j
@@ -219,26 +244,6 @@ def main(files,tester,percentage):
         testingData = []
         for p in range(counter,len(testingsizes)):
             testingData.append(filesSizes[p][1])
-        originalVectors = []
-        testingVectors = []
-        for k in testingMatrix:
-            try:
-                val,vec = lin.eigs(k[0],k = 1)
-                vec = vec.transpose()
-                vec = vec[0]
-                testingVectors.append([vec.real,k[1]])
-            except:
-                print j
-                print "error, non convergence"
-        for k in originalMatrix:
-            try:
-                values,vectors = lin.eigs(k[0], k = 1)
-                vectors = vectors.transpose()
-                vectors = vectors[0]
-                originalVectors.append([vectors.real,k[1]])
-            except:
-                print j
-                print "error, non convergence"
         #print testingVectors[0]
         #print originalVectors[0]
         #print j
@@ -290,6 +295,12 @@ def main(files,tester,percentage):
         os.remove(tester + "/" + j[1])
         del originalMatrix[0]
         del testingMatrix[0]
+        del originalVectors[0]
+        del testingVectors[0]
+        for k in originalVectors:
+            np.delete(k,[0],None)
+        for l in testingVectors:
+            np.delete(l,[0],None)
     end_time = time.time()
 
 if __name__ == "__main__":
