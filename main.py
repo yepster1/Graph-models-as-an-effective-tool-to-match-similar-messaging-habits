@@ -157,7 +157,7 @@ def split(foldername, newfolder, percentage):
 
 def main(files,tester,percentage):
     start_time = time.time()
-    copyFolder("realunchanged",files)
+    copyFolder("placceholder",files)
     split(files,tester,percentage)
     filess = os.listdir(files)
     filesSizes = []
