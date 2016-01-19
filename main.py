@@ -52,7 +52,13 @@ def createCharacterMatrix(toRead,myCharIndex):
     csrMatrix = csr_matrix((value,(first,second)),shape=(maxV,maxV),dtype='d')
     return csrMatrix
 
-"""def createWordsMatrix(toRead,myCharIndex):
+def addSpaces(files):
+    spaces = [[","," , "],["."," . "],["["," [ "],["]"," ] "],["!"," ! "],["?"," ? "],["("," ( "],[")"," ) "]]
+    for s in spaces:
+        files.replace(s[0],s[1])
+    return files
+
+def createWordsMatrix(toRead,myCharIndex):
     dictionaryOfValues = {}
     text = addSpaces(toRead.read())
     splitText = text.split()
@@ -75,7 +81,7 @@ def createCharacterMatrix(toRead,myCharIndex):
         second.append(int(arrayOfCoordinates[i][1]))
         value.append(int(arrayOfCoordinates[i][2]))
     csrMatrix = csr_matrix((value,(first,second)),shape=(maxV,maxV),dtype='d')
-    return csrMatrix"""
+    return csrMatrix
 
 def checkCorrolation(dotted,filename,positionFromFront):
     files = os.listdir("testing")
@@ -151,7 +157,7 @@ def split(foldername, newfolder, percentage):
 
 def main(files,tester,percentage):
     start_time = time.time()
-    copyFolder("placceholder",files)
+    copyFolder("realunchanged",files)
     split(files,tester,percentage)
     filess = os.listdir(files)
     filesSizes = []
@@ -169,7 +175,7 @@ def main(files,tester,percentage):
     testingData.sort()
     data.sort()
     try:
-        myCharIndex = getmyCharsIndex("char")
+        myCharIndex = getmyCharsIndex("word")
     except:
         print "first run detected, creating character matrix"
         originalMatrix = []
@@ -180,13 +186,13 @@ def main(files,tester,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
-    writeChar(myCharIndex,"char")
+            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+    writeChar(myCharIndex,"word")
     originalMatrix = []
     testingMatrix = []
     print "continuing"
@@ -196,12 +202,12 @@ def main(files,tester,percentage):
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     for j in filesSizes[:-2]:
         counter2+=1
@@ -265,7 +271,7 @@ def main(files,tester,percentage):
             amount += ceckdistancefromfront(things[counter],r)
             counter+=1
         target = open("answers/averagedistancefromfront" + str(percentage) + ".txt","a")
-        target.write(str(amount/float(len(data))) + str(j) + "\n")
+        target.write(str(amount/float(len(data))) + " - " + str(j) + "\n")
         target = open("answers/Amountofsucess10-" + str(percentage) + ".txt","a")
         target.write(str(amountOfsuccessFromFront(positionFromFront,10,files))+" - " + str(j)  +"\n")
         target = open("answers/Amountofsucess5-" + str(percentage) + ".txt","a")
@@ -287,7 +293,7 @@ def main(files,tester,percentage):
     end_time = time.time()
 
 if __name__ == "__main__":
-    percentages = [50.0,75.0,90.0,95.0,99.0]
+    percentages = [50.0,75.0,90.0,95.0]
     for r in percentages:
         print r
-        main("People","testing",r)
+        main("Enron_collection","testing",r)
