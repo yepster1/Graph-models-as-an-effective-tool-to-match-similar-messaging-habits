@@ -1,5 +1,7 @@
 import os
 import main as m
+import scipy.sparse.linalg as lin
+
 def getdata():
 	try:
 		f = input("Please enter the directory name of the data sorrounded by \"\" ")
@@ -32,7 +34,7 @@ def character(testingdata,data,files):
 	val,vec = lin.eigs(testingMatrix[0][0],k = 1)
 	vec = vec.transpose()
 	vec = vec[0]
-	testingVectors.append([vec.real,k[testingMatrix[0][1]]])
+	testingVectors.append([vec.real,testingMatrix[0][1]])
 	originalVectors = []
 
 	for k in originalMatrix:
