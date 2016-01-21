@@ -52,15 +52,72 @@ def createCharacterMatrix(toRead,myCharIndex):
     csrMatrix = csr_matrix((value,(first,second)),shape=(maxV,maxV),dtype='d')
     return csrMatrix
 
+def create2sequenceMatrix(toRead,myCharIndex):
+    dictinaryOfValues = {}
+    maxV = 0
+    for sentence in toRead:
+        sentence = sentence.strip()
+        for i in range(0, len(sentence)-4,2):
+            curLetter = myCharIndex.setdefault(sentence[i:i+2],len(myCharIndex))
+            nxtLetter = myCharIndex.setdefault(sentence[i+2:i+4],len(myCharIndex))
+            tup = (curLetter,nxtLetter)
+            dictinaryOfValues.setdefault(tup,0);
+            dictinaryOfValues[tup]+=1
+    maxV = len(myCharIndex) + 1
+    arrayOfCoordinates = []
+    for key, val in dictinaryOfValues.iteritems():
+        arrayOfCoordinates.append([key[0],key[1],val])
+    first  = []
+    second = []
+    value = []
+    for i in range(len(arrayOfCoordinates)):
+        first.append(int(arrayOfCoordinates[i][0]))
+        second.append(int(arrayOfCoordinates[i][1]))
+        value.append(int(arrayOfCoordinates[i][2]))
+    csrMatrix = csr_matrix((value,(first,second)),shape=(maxV,maxV),dtype='d')
+    return csrMatrix
+
+def create3sequenceMatrix(toRead,myCharIndex):
+    dictinaryOfValues = {}
+    maxV = 0
+    sentence=toRead.read()
+    sentence = sentence.strip()
+    for i in range(0, len(sentence)-6,3):
+        curLetter = myCharIndex.setdefault(sentence[i:i+3],len(myCharIndex))
+        nxtLetter = myCharIndex.setdefault(sentence[i+3:i+6],len(myCharIndex))
+        tup = (curLetter,nxtLetter)
+        dictinaryOfValues.setdefault(tup,0);
+        dictinaryOfValues[tup]+=1
+    maxV = len(myCharIndex) + 1
+    arrayOfCoordinates = []
+    for key, val in dictinaryOfValues.iteritems():
+        arrayOfCoordinates.append([key[0],key[1],val])
+    first  = []
+    second = []
+    value = []
+    for i in range(len(arrayOfCoordinates)):
+        first.append(int(arrayOfCoordinates[i][0]))
+        second.append(int(arrayOfCoordinates[i][1]))
+        value.append(int(arrayOfCoordinates[i][2]))
+    csrMatrix = csr_matrix((value,(first,second)),shape=(maxV,maxV),dtype='d')
+    return csrMatrix
+
 def addSpaces(files):
-    spaces = [[","," , "],["."," . "],["["," [ "],["]"," ] "],["!"," ! "],["?"," ? "],["("," ( "],[")"," ) "]]
+    spaces = [[","," , "],["."," . "],["["," [ "],["]"," ] "],["!"," ! "],["?"," ? "],["("," ( "],[")"," ) "],["\""," \" "],["-"," - "],["\'"," \' "]]
     for s in spaces:
         files.replace(s[0],s[1])
     return files
 
+def deleteFillers(text):
+    target = open("fillerwords.txt",'r')
+    for k in target:
+        text = text.replace(k,"")
+    return text
+
 def createWordsMatrix(toRead,myCharIndex):
     dictionaryOfValues = {}
     text = addSpaces(toRead.read())
+    text = deleteFillers(text)
     splitText = text.split()
     maxV = 0   
     for i in range(0,len(splitText)-1):
@@ -100,8 +157,8 @@ def ceckdistancefromfront(dotted,filename):
     for i in dotted:
         if(str(i[1]) == str(filename)):
             return counter
-            break
         counter+=1
+    return counter
 
 def checkdistancefromfront(dotted,filename,array):
     files = os.listdir("testing")
@@ -157,7 +214,7 @@ def split(foldername, newfolder, percentage):
 
 def main(files,tester,percentage):
     start_time = time.time()
-    copyFolder("placceholder",files)
+    copyFolder("realunchanged",files)
     split(files,tester,percentage)
     filess = os.listdir(files)
     filesSizes = []
@@ -175,7 +232,7 @@ def main(files,tester,percentage):
     testingData.sort()
     data.sort()
     try:
-        myCharIndex = getmyCharsIndex("char")
+        myCharIndex = getmyCharsIndex("100seq")
     except:
         print "first run detected, creating character matrix"
         originalMatrix = []
@@ -186,13 +243,13 @@ def main(files,tester,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
-    writeChar(myCharIndex,"char")
+            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+    writeChar(myCharIndex,"10seq")
     originalMatrix = []
     testingMatrix = []
     print "continuing"
@@ -202,53 +259,53 @@ def main(files,tester,percentage):
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     originalVectors = []
     testingVectors = []
     counter3 = 0
+    data = []
+    for p in range(len(filesSizes)):
+        data.append(filesSizes[p][1])
+    testingData = []
+    for p in range(len(testingsizes)):
+        testingData.append(filesSizes[p][1])
+    
     for k in testingMatrix:
         try:
             val,vec = lin.eigs(k[0],k = 1)
             vec = vec.transpose()
             vec = vec[0]
             testingVectors.append([vec.real,k[1]])
-            print counter3/100.0
+            print counter3
             counter3+=1
         except:
             print k[1]
             print "error, non convergence"
+            del data[counter3]
+    counter3 = 0
     for k in originalMatrix:
         try:
             values,vectors = lin.eigs(k[0], k = 1)
             vectors = vectors.transpose()
             vectors = vectors[0]
             originalVectors.append([vectors.real,k[1]])
-            print counter3/100.0
+            print counter3
             counter3+=1
         except:
             print k[1]
+            del testingData[counter3]
             print "error, non convergence"
     for j in filesSizes[:-2]:
-        counter2+=1
         print j
-        filess = os.listdir(files)
-        data = []
-        for p in range(counter2-1,len(filesSizes)):
-            data.append(filesSizes[p][1])
-        testingData = []
-        for p in range(counter,len(testingsizes)):
-            testingData.append(filesSizes[p][1])
-        #print testingVectors[0]
-        #print originalVectors[0]
-        #print j
         things = []
         for first in testingVectors:
+            filess = os.listdir(files)
             array = []
             for second in originalVectors:
                 theta = np.dot(unitVector(first[0]),unitVector(second[0]))
@@ -267,7 +324,6 @@ def main(files,tester,percentage):
         for r in data:
             checkdistancefromfront(things[counter],r,positionFromFront)
             counter+=1
-
         target = open("answers/thetaValues" + str(percentage) + ".txt","a")
         target.write(str(amountOfsuccess(values,files))+" - "+ str(j)+"\n")
         counter = 0
@@ -301,6 +357,8 @@ def main(files,tester,percentage):
             np.delete(k,[0],None)
         for l in testingVectors:
             np.delete(l,[0],None)
+        del data[0]
+        del testingData[0]
     end_time = time.time()
 
 if __name__ == "__main__":

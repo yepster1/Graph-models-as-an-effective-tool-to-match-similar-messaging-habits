@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
 import os
-files = os.listdir("character")
+files = os.listdir("character/percentAmount/")
 plt.ylabel('some numbers')
 mins = 1.0
 fig,ax = plt.subplots()
 for k in files:
-	target = open("character/"+k,"r")
+	target = open("character/percentAmount/"+k,"r")
 	vals = []
 	for k in target:
 		r = k.split(" - ")
