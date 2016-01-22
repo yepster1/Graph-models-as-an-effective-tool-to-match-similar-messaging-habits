@@ -141,7 +141,7 @@ def main(files,tester):
     try:
         myCharIndex = getmyCharsIndex("char")
     except:
-        print "first run detected, creating character matrix"
+        print "first run detectepythd, creating character matrix"
         originalMatrix = []
         testingMatrix = []
         myCharIndex = {}

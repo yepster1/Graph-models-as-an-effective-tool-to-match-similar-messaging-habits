@@ -243,28 +243,28 @@ def main(files,tester,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     writeChar(myCharIndex,"10seq")
     originalMatrix = []
     testingMatrix = []
     print "continuing"
     counter =0
 
-    for content in testingsizes:
+    for content in testingsizes[::-2]:
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     originalVectors = []
     testingVectors = []
@@ -331,22 +331,25 @@ def main(files,tester,percentage):
         for r in data:
             amount += ceckdistancefromfront(things[counter],r)
             counter+=1
-        target = open("answers/averagedistancefromfront" + str(percentage) + ".txt","a")
-        target.write(str(amount/float(len(data))) + " - " + str(j) + "\n")
-        target = open("answers/Amountofsucess10-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,10,files))+" - " + str(j)  +"\n")
-        target = open("answers/Amountofsucess5-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,5,files))+" - " + str(j) + "\n")
-        target = open("answers/Amountofsucess4-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,4,files))+" - " + str(j) + "\n")
-        target = open("answers/Amountofsucess3-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,3,files))+" - " + str(j) + "\n")
-        target = open("answers/Amountofsucess2-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,2,files))+" - " + str(j) + "\n")
-        target = open("answers/Amountofsucess1-" + str(percentage) + ".txt","a")
-        target.write(str(amountOfsuccessFromFront(positionFromFront,1,files))+" - " + str(j) + "\n")
-        target = open("answers/PercentAmountofsucess-" + str(percentage) + ".txt","a")
-        target.write(str(percentsuccessFromFront(positionFromFront,files))+" - " + str(j) + "\n")
+        try:
+            target = open("answers/averagedistancefromfront" + str(percentage) + ".txt","a")
+            target.write(str(amount/float(len(data))) + " - " + str(j) + "\n")
+            target = open("answers/Amountofsucess10-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,10,files))+" - " + str(j)  +"\n")
+            target = open("answers/Amountofsucess5-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,5,files))+" - " + str(j) + "\n")
+            target = open("answers/Amountofsucess4-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,4,files))+" - " + str(j) + "\n")
+            target = open("answers/Amountofsucess3-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,3,files))+" - " + str(j) + "\n")
+            target = open("answers/Amountofsucess2-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,2,files))+" - " + str(j) + "\n")
+            target = open("answers/Amountofsucess1-" + str(percentage) + ".txt","a")
+            target.write(str(amountOfsuccessFromFront(positionFromFront,1,files))+" - " + str(j) + "\n")
+            target = open("answers/PercentAmountofsucess-" + str(percentage) + ".txt","a")
+            target.write(str(percentsuccessFromFront(positionFromFront,files))+" - " + str(j) + "\n")
+        except:
+            print "done"
         os.remove(files + "/" + j[1])
         os.remove(tester + "/" + j[1])
         del originalMatrix[0]
@@ -362,7 +365,7 @@ def main(files,tester,percentage):
     end_time = time.time()
 
 if __name__ == "__main__":
-    percentages = [50.0,75.0,90.0,95.0]
+    percentages = [75.0,90.0,95.0]
     for r in percentages:
         print r
         main("People","testing",r)

@@ -137,4 +137,106 @@
    I didn't see accumap added to the new list that was sent by chris behney,  the nova, oasis and power pool of alberta accounts that were added in yellow were inappropriately added as these are not data sources that require purchasing, they are simply accounts to set-up much like a membership account 
  Do you have our flight info? 
  Call us from London when youget there 
- Jason can you make a power point slide with the following spreadsheet
+ Jason can you make a power point slide with the following spreadsheet.  Just use the number of trades and volume of trade columns (i.e. the first two) 
+  can you update slides 13-16 as of end of July 
+ We should make reservations for:  John Lavorato Rob Milnthorp Derek Davies John Zufferli Eric LeDain John MacKay Chris Lambie John Disturnal Mike Cowan 
+ I am sure that John Lavorato will want to see a presentation for the Alberta Power Fundamentals.  To save the hassle of develop powerpoint slides.  Is there a way that we can simply tie a projector to the computer and run it off of our website.  Additionally, can you enter the new known generation in the database. I am sure that he will want to see this as well.  He will be in the office on Wed afternoon. 
+ these are all ok 
+ The balancing pool committed in the their beginning of year release to dispatch Milner as follows:  70 MW @ $0 50 MW @ $35.49  Milner has been down for maintenance until recently.  Since coming back from maintenace, the 50 MW block @ $35.49 has disappeared.  We analyzed the offer stack and it appears that Milner has the full 120 MW @ $0  I called Doug Heath to discuss this.  He hasn't called me back.  The issue I raised last week about Sherness dispatch is OK. I received a justified answer.  However, this Milner issue is harder for th pool to defend.  Can we pursue this.   Thanks  John 
+ unsubscribe pjm-customer-info 
+ one thing, we should wait before we dole out all 250 until we hear from others 
+ I was talking to John Lavorato just this morning and he said that he e-mailed you a memo that described the topics that he wanted to talk about next week. Do you have a copy of that? 
+ I am interested 
+ Looks pretty cool.  I think we can use it 
+ I recognize that Aug 17 is Jason Garvey's last day, I am fine with that date. 
+  Karim , this is the deal that I was talking about this morning.  Albert is saying that it should have appeared in Friday's P&L.  Can you check this with him and let my know today.  When you said it was in tonights P&L, I think Albert was talking about the Telus deal not the Cisson deal. 
+ It didn't, check with Karim and let me know today.  Thanks 
+ Will the Telus and Cisson deal appear tonight?  Because I haven't seen the Cisson deal of +53K yet? 
+ Not really, maybe 0.5 HR in Aug only, rest in unchanged 
+  who at UBS should we talk to? 
+ sure 
+ From the beginning of the year to July 25  No of Trades:		1247 MWH:			6,537,273 Notional Value:		CDN$ 570,602,236 Counterparties (10):	Aquila Canada Conoco Canada Duke Energy Marketing Ltd Dynegy Canada El Paso Merchant Energy Engage Canada Enmax Energy Corp Idaho Power Company TransAlta Energy Marketing TransCanada Energy Financial Products 
+ My wife and I will be there 
+ I'll be there 
+ Thanks for making the changes on the P&L and fixed price positions report.  Can you also change the natural gas basis position by trader report from MacKay to Lambie? 
+  Does this resume interest you? 
+ Congrats, Harvard is OK not as good as Chicago though. Just joking 
+ Can you change John MacKay's name in the Natural Gas Fixed Price Positions by Trader, Natural Gas Basis Positions by Trader, Natural Gas P&L to Chris Lambie. John is being relocated to Houston and Chris Lambie is now in charge of the Alberta Gas Term Desk.  Additionally, can you merge the P&L under  MacKay and Add. Trading into one line item and call it Lambie. Therefore Lambie should be (41,480) as of yesterday's report. 
+ I won't have it until tomorrow morning because of a deal entry error in my 2002 position 
+ when? i am free anytime this aft 
+ ok 
+ Same price as other volume, start date is fine, e-mail me for confirm 
+ Your numbers amount to a adjustment of (1,746,675), were the total 2nd order from Jun 29 was (1,891,851), now I understand that I would receive a some negative 2nd order to explain some of this difference I just thought that (145,176) difference (i.e. (1,891,851-1,746675) which should be the true 2nd order) was a bit high. 
+ The total 2nd order up to and including July 16 is (1,891,851) 
+ Karim, I don't want to wait till month end, let's adjust the numbers now and for the June 29 2nd order, lets take that value into June since it relates to July puts. 
+ unable to attend at that time due to a prior appointment,  I can meet with you individually later some time 
+ should be ok 
+ Lets try before Fri, as I am planning to take that day off 
+ NO 
+ 1 user of accumap  I'll look into the other issues, I just thought that you may know who may be handling it, we may just do it directly from Calgary 
+  Offer price is $61.50 
+ This is not just a July 6 issue.  Before June 29, my 2nd order effects have been less thatn 15000 CDN$.  For the following days, my 2nd order effects have been:  June 29		C$ (216,729) July 2		C$ (140,533) July 3		C$ (212,285) July 5		C$ (117,156) July 6		C$ (385,535) July 9		C$ (264,504)  What is going on?  Can you explain ? 
+  Can you explain this in english to me??  This just talks about July 6, what about the days since June 29.  I hope that the curves for today came down ok. 
+ John,  I lost the following on 2nd order in the options book (in Canadian $):  June 29: 	(216,759) July 2:		(140,533) July 3:		(212,285) July 5:		(117,156) July 6:		(385,535) July 9:		(264,504)  Total		(1,336,772)  Prior to June 29, the largest 2nd order was <15,000 
+  I think you need to do this.  They want the info today for PRC reasons. 
+ home number is (403) 685-4817 
+  according to the packet that was distributed in the meeting today with BC, it appears that Calpine, El Paso, Williams, AEC Marketing, AEC Storage are all FEB 1, this doesn't jive with what you just sent, wassup? 
+ I sent you an update of the Hedge Summary for July 3, 2001.  In that I mentioned that I bought 125 MW of Cal02 at 10 HR flat.  I am long over 500 MW at this heat rate.  The biggest risk in this position is a large hydro year that tanks the Mid-C (i.e. uncorrelated event with gas).  Mid-C off-peak is $47 USD, Nymex fixed price for Cal02 is $3.79 USD and Sumas basis is $0.16 for Cal02.  This implies a heat rate of close to 11.9 for the off-peak Mid-C.  I am thinking about buying back some AECO gas hedge for Cal02, then selling Mid-C off-peak to replace the gas hedge.  Perhaps as winter blow-out protection, buy some Jan-Feb Sumas basis.  The trade for a 25 MW long Alberta flat position would be: a) sell 25 MW of Mid-C off-peak b) buy 0.25 contracts /day of AECO fixed price Cal02 gas (i.e. to unwind the off-peak Alberta portion of the the gas hedge) c) buy 0.25 contracts/day of Sumas Jan-Feb basis  See what you think?? 
+ Here is the hedge summary for July 3/01.  Two things to note are: 	1) I bought 125 MW of Cal 02 flat from Mirant for a 10 GJ/MWh heat rate 2) There is now a 20 year AECO basis curve, so the fixed price AECO gas from cal 15 on is generated off this curve.  Before the AECO basis curve stopped at Cal 14 
+ yes thanks John 
+ Yes, he said to leave the reports the same as it is now 
+ I tried to answer you but my response was returned undelivered.  Basically, the pool is agnostic, it pays power producers for the pyhsical energy delivered to the grid and it charges power consumers for energy taken from the grid.  Any financial arrangements between the buyers and sellers are not known to the pool.  The only mechanism the pool uses for physical power transactions is the direct sale mechanism.  The terms and volume of these direct sales are entered in the pool's trading system.  The pool then subracts the volume of the direct sale from the consumers and producers meter and pays/charges the producer/consumer on the net volume (i.e actual production-direct sales or actual consumption-direct sales) 
+ I just need the positions aggregated, I don't need the desks broken out 
+ Financial settlement occurs between Enron and the customer.  The pool is agnostic to what its participants do (i.e. generators that do 3rd party physical hedge are still paid by the pool, consumers of electricity who do 3rd party physical hedges also pay the pool) 
+ I will attend 
+ I hope stock goes to $35 so I can buy it at reasonable levels.  Things are well here. 
+ Please give Enpower access to Murray Fichten, John Messenger, Mike Taylor, Tyler Seminuk 
+ garrett, you should look into buying an advanced ticket to come up to calgary for a week in a week or so, we can go through next steps, fundies, etc.  BTW, we got 3 feet of snow in the mountains this weekend, powder everywhere!!! 
+ I was meaning to give you a call this week and inquire as to when you guys are planning to come up.  Things are good here.  Feeling poor as well. 
+ John Lavorato already said that he would make JD report directly to Canada. 
+ Here are my comments on the original guarantee  My phone is 974-6749 
+  Here is the list updated with responsibility names. 
+ Here is the spreadsheet that I sent you at the beginning of the year when we set the curve marks to show the NPV 600,0000 CDN. These are the heat rates that I am referencing in the Hedge Summary sheet. 
+  If you look at the Cal 03-Cal 10 period, you see that there are roughly 25,000,000 MWh.  Two days ago, 1 had only 6.5 contracts/day hedged. In the past two days, I sold 2.5 contracts/day.  In the past two days, the Cal 03-10 swap has increased C$0.47. 
+ Does this information reflect the additions of the IBOC or not? Otherwise the info seems to be what is going on right now. 
+ Yes I am 
+ I was wondering why I am not eligible yet.  I sent gave my agreement forms to Tricia Henry yesterday. 
+ 1) For a full requirements deal, I would like some sense of the load shape of the customer.  Having just monthly total energy consumption is not enough to price a deal. 2) The all requirements price may be less or greater than the peak price, it is dependent on load shape. 3) That is correct. 
+ Danielle, in general we need everything that Houston gets in addition to the info that is listed as Calgary on your spreadsheet.  One information source in not listed on your sheet.  IHS Accumap		Priority 2	Contact: Carmen (403) 770-4503 phone, (403) 874-4218 cell  Can you tell me if anyone in Houston is working on setting up accounts with NOVA, Power Pool of Alberta, OASIS, ESBI?  These are gas and power related entities that we have to have accounts with the schedule physical gas and electricity. 
+ can we possibly move this meeting up from 3:30 PM to sooner? 
+ they are working it still 
+ subject to mechanical inspection from the Vancouver Porsche dealership. 
+ We have traditionally have had currency issues in Canada regarding P&L preservation versus cashflow preservation.  We have been valued in P&L under the US$ but due to Revenue Canada reasons our functional currency has been C$ (i.e.  the preponderence of cashflows were in C$ from the legacy gas deals, PetroCanada, Suncour, etc, and the PPA position).  Since trader evaluation at year end has been in US$, traders would hedge C$ positions immediately as the trade occured.  The hedge would extend until the position rolled of his book.  From a P&L systems point of view, this would preserve the trader's P&L in US$.  However, from a treasury point of view currency risk would still exist until cash exchange hands; these cash exchange dates were different for financial trades, physical trades and inter-company trades.  There was also some currency risk (albeit small) between billing dates from SAP and settlement dates of the respective trade type.  It is my opinion that the functional currency should match the evaluation currency in order to mitigate many of the above problems.  To a certain extent, I am indifferent if it is US$ or C$.  The timeline of the decision is being driven by our accounting group who need to set up the SAP system.  They are trying to work within a deadline to have the company capable of performing transactions by Jan 29.  This is the date that they have been told to meet by Houston.  As a result, we would need a determinination of the functional currency by Mon Jan 28. 
+ you should request this from eric ledain or derek davies, they have the current list 
+ yes i gave him a verbal 
+  i lifted it last night for 82,000 
+ will this be video conferenced in calgary 
+ Can you send me the Jan 18 trades and marks as well as today's trades and marks before 3:00 PM today,  thanks  John 
+ A buddy of mine is selling this stuff and is just starting out, if you need a helmet, contact him. 
+ no the packages haven't come in.  Kacz's called a we are going to pick up the gift.  Warburg is still progressing, just waiting on offer letters.  I will be in charge of canadian trading, that will include ontario power - a new market that i will have to learn about. 
+ can you prepare how the ontario market works presentation for myself and derek davies 
+ No I never got the sweater. I was thinking about that on the weekend.  I'll pick up the gift for you. 
+ hey janet, i haven't received the new phone in number yet, not sure if you have it yet 
+ WOW, that was higher than I thought.  That is not much different than mine and higher than other Directors in the office.  I am not blowing smoke, but given my experience, there is nothing that I can do at the immediate time. 
+ i don't even know your salary now. 
+ I am reading your mail, I have asked for the same thing regarding my base. Especially since I came up here with a base salary converted at 1.48 CDN/USD and with no raise since being here at 1.61 CDN/USD I have received a 9% pay cut relative to my peers in Houston.  Not to mention that my base salary is $50-$100 USD/year lower than what other shops are offering.  However, after three attempts, I have been unsuccessful in championing my own cause. 
+   Can you send my curves and trades for Jan 18 
+ Can Dorland and Chad meet me and Mili in Video 1 at 9:30 and when these guys come back can Cowan and Lambie come to Video 1 
+ After some brief discussions with UBS in Houston, we must wait before we can make final determination of our functional currency.  We may be evaluated in Canadian dollars rather than American.  I must get some direction from UBS 
+  403-974-6706 
+ do you have the internet addresses and directory details put togethor yet 
+ I can't afford to bump anyone, unfortunately all the people on this list are top notch.  We are trying to separate the cream from the cream.  Given that, and working on the assumption that Dan D is a rock star (i.e. not knowing him from Adam otherwise) I think we should relace Lalani with him. 
+ Cooper is doing fine he is still breathing according to him 
+ Check out www.segalmotorcar.com 
+ things are going well,hectic but more steady now that we are bought by UBS, at least steady in mind  jess is doing well, just 6 weeks left, she is getting to the uncomfortable phase now  how are you doing in portland? 
+ Yes, he worked for me, he ran the AECO option book, we let him go since we were not sure of our future at the time, he is setting up the BP Amoco options desk  He is a very smart guy and understand options very well, he is late thirties and has been trading for some time 
+ congrats to Ali  I had to fly to houston on monday on last minute notice, we have been bought by UBS Warburg, I hope that the deal works out and looks good for me, don't know yet but I am excited, how is the condo going? 
+ can er make this earlier, not sure I'll be in fri aft 
+ Is is possible to import a lotus elise and get it converted to left-hand drive and road compliant?  I was wondering if you knew how to do it and how much it would cost  Thank you. 
+ Here is a list of products and counterparties 
+ Nella here is a list of products that we would launch on EOL in NETCO.  Assume the the products listed under the Financial heading are launched on day 1 and the the products listed under the Physical heading are launched at a later date. 
+ Enron Canada Power Corp acknowledges the change in the sink asset from CH1A to CH1U for contract #1947 for the period of Jan 01, 2002 HE1 to Dec 31, 2002 HE24   Thank you John Zufferli 
+ i waited for 15 min, i guess the conference call was cancelled? 
+ what is your number at work? 
+ If the legacy deals move to NETCO then we need the ability to trade Canadian gas.  Canada would not be out of business if we only traded US denominated financial products but it reduce our daily transactions by 75%. 
+ Dad asked if I wanted to lend you some money but I am reluctant to do it at this point in time since:  a) I am not completely at liberty to touch all the cash that I have received lately for concern that it may be taken bank under potential creditor action against Enron.  Unfortunatelty, without this cash, I really can't afford to lend any.  The cash that I received recently represents 80% of the cash that I have and I am not sure when

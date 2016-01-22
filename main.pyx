@@ -9,5 +9,5 @@ import copy
 import shutil
 import time
 
-cdef numpy.ndarray unitVector(int vector):
+cdef numpy.ndarray unitVector(vector):
     return np.divide(vector,np.linalg.norm(vector))
