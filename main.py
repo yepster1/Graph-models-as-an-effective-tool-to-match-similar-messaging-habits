@@ -212,9 +212,9 @@ def split(foldername, newfolder, percentage):
         target = open(newfolder+"/" + f,"w")
         target.write(towrite)
 
-def main(files,tester,percentage):
+def main(files,tester,placeholder,percentage):
     start_time = time.time()
-    copyFolder("realunchanged",files)
+    copyFolder(placeholder,files)
     split(files,tester,percentage)
     filess = os.listdir(files)
     filesSizes = []
