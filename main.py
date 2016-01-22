@@ -243,12 +243,12 @@ def main(files,tester,placeholder,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     writeChar(myCharIndex,"10seq")
     originalMatrix = []
     testingMatrix = []
@@ -259,12 +259,12 @@ def main(files,tester,placeholder,percentage):
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     originalVectors = []
     testingVectors = []
@@ -322,15 +322,21 @@ def main(files,tester,placeholder,percentage):
         positionFromFront = []
         counter = 0
         for r in data:
-            checkdistancefromfront(things[counter],r,positionFromFront)
-            counter+=1
+            try:
+                checkdistancefromfront(things[counter],r,positionFromFront)
+                counter+=1
+            except:
+                pass  
         target = open("answers/thetaValues" + str(percentage) + ".txt","a")
         target.write(str(amountOfsuccess(values,files))+" - "+ str(j)+"\n")
         counter = 0
         amount = 0
         for r in data:
-            amount += ceckdistancefromfront(things[counter],r)
-            counter+=1
+            try:
+                amount += ceckdistancefromfront(things[counter],r)
+                counter+=1
+            except:
+                pass
         try:
             target = open("answers/averagedistancefromfront" + str(percentage) + ".txt","a")
             target.write(str(amount/float(len(data))) + " - " + str(j) + "\n")
@@ -365,7 +371,7 @@ def main(files,tester,placeholder,percentage):
     end_time = time.time()
 
 if __name__ == "__main__":
-    percentages = [75.0,90.0,95.0]
+    percentages = [90.0,95.0]
     for r in percentages:
         print r
-        main("People","testing",r)
+        main("Enron_collection","testing","realunchanged",r)

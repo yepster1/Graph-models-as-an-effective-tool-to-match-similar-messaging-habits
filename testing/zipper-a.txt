@@ -1,0 +1,39 @@
+7298  equifax  1-800-525-6285  transunion  1-800-916-8800 1-800-680-7289 
+ Okay, but you're still sleeping on the couch tonight.... 
+ Please see revised market assignments. Addititions are highlighted in blue. 
+ no interest. thanks. 
+ ok 
+ I don't know. 
+ I need to meet with GM from 12:30 to 2:00, so the early offsite slot works for me. Thanks. 
+ Can you schedule and send out the following note to the EnronOnline origination group:  "Please attend an origination meeting on Tuesday, May 29  from 8:30 to 10:00. The focus of this meeting will doing a walkthrough of an EnronOnline demo for both EnronOnline hosted products and X-online hosted environments. This demo will cover all relevant functionality of the system, similar to what we have been presenting to GM et al."  Send to:  Dave Forster Michael Bridges Bob Shults Dan Diamond Jake Staffel John Allario John Pavetto Mike Haney Leonardo Pacheco Carl Carter  cc:Greg Piper, Mark Palmer 
+ Okay. It wil be Bob Shults. I will put him in contact with Joe. 
+  Please call Joe Robertson of enron Metals in NY to discuss market-making deal with the COMEX. 
+  this is the underlying deal. it needs work and i am not sure we would do it. also, no straight through processing would be allowed for our deals. 
+ I AGREE WITH KAL. 
+ I believe the attached note accurately summarizes our position. We do not see anything changing. The deal remains terminated for the reasons below. 
+ I declined to review Drew because I feel I haven't really spent a lot of time with him. The times I have worked with him, he has done a great job and been easy to work with. 
+ Let me make this clear: Accenture is not to speak to anyone other than ourselves regarding what they are doing with EnronOnline. We ahve too much at stake right now.  Thanks AZ 
+ Who and why ? 
+ Yes, and I would you and I to chime in as well. 
+ Vin,  Glad we could hook up yesterday.  The gist of what we are interested in is providing EnronOnline's liquidity to local NYMEX traders. I would like to explore the concept of NYMEX's clearing corp or another clearer standing in the middle between Enron and these locals. EnronOnline's architecture provides for a Master user, such as a Clearing Corp, to set up as many sub-users (local traders) as it wants. Each sub-user has trading rights as designated and controlled by the master. We would envision the Clearing Corp. handling it credit arrangements with the locals, and negotiating its relationship with Enron. I know this is pretty simple stuff, but every long journey starts with a small step. Please let me your interest in pursuing this sort of arrangement or a variant thereof.  Thanks, Andy Zipper Vice President Enron Corp. 
+  Please review the spreadsheet, and look at Daily Deals Graph. 
+ Justin, The traders are free to use any platform they like. I do not approve or disapprove; they are in the best position to make that decision. It is EWS policy however that someone from Amita/Lara's group be the master user to montor activity and control what access agreements we accept.  Thanks, Andy 
+ Lara, You need to be the master user for the platform. It is EWS policy. Go ahead and get set up and coordinate document acceptance with Justin. 
+ Guys, Let's get together today to dicuss demo. I would like to demo full capability, including option manager. I think it is very important to also set up an interest rate product, perhaps a swap that is quoted in rate only. No need to convert to dollar ox just yet. Given that the guy who is building their commercial paper platform will be there and seems to be one of the main judges of the merit of EOL I think it behooves us to slant presentation that way.  I'm good from 11:00 to 1:00  Andy 
+ thanks. damned things never work. 
+ millionth trade: eric graff @ Coral, TCO pool day gas, someone on scott neal's desk. 
+ OpenLink is one of the leaders in risk management systems. We used at Coral, and it was then called Abacus. It is strongest in front office risk management. I would view their competition as KioDex. The deal with Duke has been around for awhile. 
+ Frank,  Thank you for bringing your team down to Houston to demonstrate the new version of the system. We appreciate the effort that HoustonStreet has made to upgrade its system, however in our view insufficient progress has been made to change our decision to terminate the Posting Agreement. Once again, thank you the effort your team put in and let's stay touch.  Andy Zipper 
+ I've seen it before. It is Hong Kong Airport and the guy kicked out the crab at the last possible second. He was seconds from riping the gear off. 
+ Mike,  That's fine, but no LOI is to be agreed without EnronOnline's concurrence. If you want to do something without us, go right ahead but if we are to be involved then we need to approve and be involved in the deal from the get go. Bob Shults is contacting Joe in NY as we speak.  Thanks, Andy Zipper 
+ We will do on Monday morning, but I don't think we need Jay involved. 
+  Kal will be finishing mine shortly. Please be prepared to do the 3 hole punch thing 20 times. Thanks. 
+ Okay, fair enough. He would be perfect for the role, but I understand what you are trying to accomplish. 
+ what about London ? 
+ It's fine with me. 
+ CAN YOU SEND David Lebow in IR a copy of the above report on electronic commmodity trading. thanks. 
+ Let me if you receive this email. 
+ good ! 
+ I'll attend briefly, but you can run it. 
+ So do you think things are proceeding well ? 
+ My guys tell me we are just about finished on our end and will be getting ready to beta test. How are your folks doing ? 
