@@ -318,8 +318,11 @@ def main(files,tester,placeholder,percentage):
         values = []
         counter = 0
         for k in data:
-            checkCorrolation(things[counter],k,values)
-            counter+=1
+            try:
+                checkCorrolation(things[counter],k,values)
+                counter+=1
+            except:
+                print counter
         positionFromFront = []
         counter = 0
         for r in data:
