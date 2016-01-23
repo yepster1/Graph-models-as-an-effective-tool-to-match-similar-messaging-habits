@@ -243,12 +243,12 @@ def main(files,tester,placeholder,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     writeChar(myCharIndex,"10seq")
     originalMatrix = []
     testingMatrix = []
@@ -259,12 +259,12 @@ def main(files,tester,placeholder,percentage):
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     originalVectors = []
     testingVectors = []
@@ -300,6 +300,7 @@ def main(files,tester,placeholder,percentage):
         except:
             print k[1]
             del testingData[counter3]
+            del data[counter3]
             print "error, non convergence"
     for j in filesSizes[:-2]:
         print j
@@ -371,7 +372,7 @@ def main(files,tester,placeholder,percentage):
     end_time = time.time()
 
 if __name__ == "__main__":
-    percentages = [90.0,95.0]
+    percentages = [50.0,75.0,90.0,95.0]
     for r in percentages:
         print r
-        main("Enron_collection","testing","realunchanged",r)
+        main("People","testing","placceholder",r)
