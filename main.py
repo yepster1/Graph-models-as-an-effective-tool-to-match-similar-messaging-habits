@@ -6,6 +6,7 @@ from scipy import sparse
 import copy
 import shutil
 import time
+from sys import getsizeof
 
 def unitVector(vector):
     return np.divide(vector,np.linalg.norm(vector))
@@ -243,28 +244,28 @@ def main(files,tester,placeholder,percentage):
             if counter % 100 == 0:
                 print counter
             counter+=1
-            testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+            testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
         for content in filesSizes:
             if counter % 100 == 0:
                 print counter
             counter+=1
-            originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+            originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     writeChar(myCharIndex,"10seq")
     originalMatrix = []
     testingMatrix = []
     print "continuing"
     counter =0
 
-    for content in testingsizes[::-2]:
+    for content in testingsizes:
         if counter % 10 == 0:
             print counter
         counter +=1
-        testingMatrix.append([createCharacterMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
+        testingMatrix.append([createWordsMatrix(open(tester+"/"+content[1],"r"),myCharIndex),content[1]])
     for content in filesSizes:
         if counter % 10 == 0:
             print counter
         counter+=1
-        originalMatrix.append([createCharacterMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
+        originalMatrix.append([createWordsMatrix(open(files+"/"+content[1],"r"),myCharIndex),content[1]])
     counter2 = 0
     originalVectors = []
     testingVectors = []
@@ -275,34 +276,45 @@ def main(files,tester,placeholder,percentage):
     testingData = []
     for p in range(len(testingsizes)):
         testingData.append(filesSizes[p][1])
-    
-    for k in testingMatrix:
-        try:
-            val,vec = lin.eigs(k[0],k = 1)
-            vec = vec.transpose()
-            vec = vec[0]
-            testingVectors.append([vec.real,k[1]])
-            print counter3
-            counter3+=1
-        except:
-            print k[1]
-            print "error, non convergence"
-            del data[counter3]
-    counter3 = 0
+    counters = []
+  
     for k in originalMatrix:
         try:
-            values,vectors = lin.eigs(k[0], k = 1)
+            values,vectors = lin.eigs(k[0], k = 1,sigma=1)
             vectors = vectors.transpose()
             vectors = vectors[0]
-            originalVectors.append([vectors.real,k[1]])
             print counter3
+            originalVectors.append([vectors.real,k[1]])
             counter3+=1
         except:
             print k[1]
+            counters.append(counter3)
             del testingData[counter3]
             del data[counter3]
+            del filesSizes[counter3]
             print "error, non convergence"
-    for j in filesSizes[:-2]:
+    counter3 = 0
+    for k in testingMatrix:
+        try:
+            val,vec = lin.eigs(k[0],k = 1,sigma=1)
+            vec = vec.transpose()
+            vec = vec[0]
+            print counter3
+            testingVectors.append([vec.real,k[1]])
+            counter3+=1
+        except:
+            print k[1]
+            print "error, non convergence"
+            if(counter3 not in counters):
+                del data[counter3]
+                del testingData[counter3]
+                del filesSizes[counter3]
+          #del originalMatrix[counter3]
+    counter3 = 0
+    
+    print getsizeof(originalMatrix)
+    print getsizeof(testingMatrix)
+    for j in filesSizes:
         print j
         things = []
         for first in testingVectors:
@@ -318,29 +330,20 @@ def main(files,tester,placeholder,percentage):
         values = []
         counter = 0
         for k in data:
-            try:
-                checkCorrolation(things[counter],k,values)
-                counter+=1
-            except:
-                print counter
+            checkCorrolation(things[counter],k,values)
+            counter+=1
         positionFromFront = []
         counter = 0
         for r in data:
-            try:
-                checkdistancefromfront(things[counter],r,positionFromFront)
-                counter+=1
-            except:
-                pass  
+            checkdistancefromfront(things[counter],r,positionFromFront)
+            counter+=1
         target = open("answers/thetaValues" + str(percentage) + ".txt","a")
         target.write(str(amountOfsuccess(values,files))+" - "+ str(j)+"\n")
         counter = 0
         amount = 0
         for r in data:
-            try:
-                amount += ceckdistancefromfront(things[counter],r)
-                counter+=1
-            except:
-                pass
+            amount += ceckdistancefromfront(things[counter],r)
+            counter+=1
         try:
             target = open("answers/averagedistancefromfront" + str(percentage) + ".txt","a")
             target.write(str(amount/float(len(data))) + " - " + str(j) + "\n")
@@ -375,7 +378,8 @@ def main(files,tester,placeholder,percentage):
     end_time = time.time()
 
 if __name__ == "__main__":
-    percentages = [50.0,75.0,90.0,95.0]
+    #main("Enron_collection","testing","realunchanged",100.0)
+    percentages = [75.0,90.0,95.0]
     for r in percentages:
         print r
-        main("People","testing","placceholder",r)
+        main("Enron_collection","testing","realunchanged",r)

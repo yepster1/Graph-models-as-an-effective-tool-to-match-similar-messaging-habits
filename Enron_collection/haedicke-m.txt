@@ -578,4 +578,242 @@
  In Julia's absence from the office, I need you to prepare an Enron Industrial Monthly Legal Report for October and submit it to me as soon as possible. Attached is the ENW Monthly Legal Report to use as a guide.  The report should be concise, in bullet format, and submitted via e-mail to me by the 15th of each month. 
  Please prepare a Monthly Legal Report for your group for October and submit it to me as soon as possible.  Attached is the ENW Monthly Legal Report to use as a guide.  The report should be concise, in bullet format, and submitted to me via e-mail by the 15th of each month. 
  Please prepare an LNG Monthly Legal Report for October and submit it to me as soon as possible.  Attached is the ENW Monthly Legal Report to use as a guide.  The report should be concise, in bullet format, and submitted to me via e-mail by the 15th of each month. 
- I sent the e-mail below to our 
+ I sent the e-mail below to our lawyers in ENA Legal.  In order to provide better oversight and control of ENA legal expenditures on large transactions, please continue to follow the procedures set forth below for transactions where outside legal fees and expenses are expected to exceed $25,000.00.  The purpose of these procedures is to (i) improve communication with counsel (inside and outside) on issues, fees and services and (ii) send price signals on legal costs (with respect to specific transactions) on a timely basis to the business units.  Every effort should be made to continue to provide high quality legal work that has become standard at ENA.  1.  A written estimate of proposed fees and expenses and a written description of the services shall be provided by our outside counsel.  The responsible business unit and the General Counsel shall review and approve such written estimate before our outside counsel is directed to provide substantial professional services.  2.  Our outside counsel shall be instructed to promptly submit a revised written estimate if such outside counsel determines that legal fees and expenses for such transaction will exceed the previous written estimate by $25,000.00.  Such revised written estimate shall be reviewed and approved by the responsible business unit and the General Counsel or his/her designee before our outside counsel is directed to provide substantial additional professional services.  3.  In order to accurately track such expenses so that the expenses can be properly allocated to the various business units, a work order number should be obtained for each transaction.  Thank you for your cooperation.  If you have any questions or any other suggestions for controlling expenses, please call me at extension 36544. 
+ Mary:  That is good news.  At the rate we are going, we will have enough energy companies before long to have substantial commodity committee meeting in North America.  I am still thinking about the breakfast in New York.  Take care.  Mark 
+ Peter:  Please send these updates to Lance Schuler, Travis McCullough and me going forward.  Mark    Peter Keohane Sent by: Sharon Crawford 10/13/2000 01:19 PM 
+ Thanks.   Mark 
+ Pete, the report is fine.  Go ahead and send it out to Frevert, McMahon, Bowen and Haedicke.  Thanks.  Mark    Peter del Vecchio 10/13/2000 03:53 PM 
+ I want to get this started.  Let's get together at the time provided below. Mark 
+ Do you know what this is about?   Mark 
+ Mary: This is complicated for oil companies.  Mobil Exxon only does hedging.  Shell has at least two groups, with one doing mostly hedging and one doing mostly trading for profit.  BP Amoco is sort of in between.  It is very clear with respect to Cargill and El Paso and Shell -- each should be primary.  The companies may be trying to manipulate the rules by having the hedging organization send in the application. Let me know if you need other info.   Mark    Mary Cunningham <MCUNNINGHAM@isda.org> 10/16/2000 09:59 AM 
+ It's ok to use Blakes given the conflicts.  On the structure, I will forward this message to Steven Douglas and ask for his advice.  Mark    Peter Keohane 10/16/2000 01:01 PM 
+ Here are a few.  Take care.   Mark 
+ I am fine with your recommendations except I see no need to have an outside director if not legally required.  Who would you recommend as filling that director position?  Mark    Peter Keohane Sent by: Nella Cappelletto 04/12/2000 12:03 PM 
+ Rebecca:  This is the response I got back from my contact at IBJ.  Let me know if you would like to meet Terry.  Mark 
+ FYI 
+ You are the man!  I will be out of town on Dec 23 through 28 and March 11 through 18.      Mark    "Baird, Bob" <RBaird@velaw.com> 10/18/2000 02:57 PM 
+ Paul:  The ISDA meeting is tentatively set for Jan 18.  So it may be possible for me to be there on the 21st.  As always, the schedule could change, but I would make every effort to be there.  Again, congratulations!  Mark    Paul Simons 10/18/2000 12:49 PM 
+ It is ok.  Mark    "JOHN G KLAUBERG" <JKLAUBER@LLGM.COM> 10/17/2000 06:50 PM 
+ Dave:  Based on our discussions this morning:  1.  Internal Costs -- a capacity charge will be determined for each wholesale business unit based on a time allocation matrix that each lawyer and paralegal prepares.  The time allocation matrix will be revised  during the year if material changes in the work occur.  2.  Outside Costs -- require internal sign-off by GC and COO to spend more than $10,000 on a potential transaction AND a written transaction budget for proposed outside legal expenses more than $10,000.  Wherever possible, a firm cap on legal fees should be negotiated.  A memorandum will be sent from the GC and [Chairman of the Wholesale Group?] laying out the procedure to all employees.  3.  Selection of Outside Lawyers -- expressly add billing rates and efficiency as key considerations, in addition to quality, in the selection of outside counsel.  [Dave, we need to complete our discussion on this point.] Our new policy needs to be reviewed with outside counsel.  4.  Reopener!  -- need to review where business changes significantly.    David W Delainey 10/19/2000 12:33 PM 
+ Dave:  I have attached the "time allocations" (which are used for inside costs only) by attorney to the various business groups.  We can derive the percentage of total legal department inside costs from this chart, in order to calculate the capacity charge, for ENA and the other wholesale groups and ENW.  We had used this chart to bill back to the various business units within ENA, but we will stop doing that now per our conversation.  Are you in agreement?  Mark 
+ Attached is our organizational chart which will be prettied up over time. 
+ Sorry, here's the attachment. 
+ I would like to do fewer resolutions authorizing non-vps to sign contracts, and when we need such authorizations, let's make sure the resolutions are appropriately limited.  My thoughts are as follows:  1.   We have a lot of vps that can sign contracts. 2.   It is generally ok to have confirmations signed by certain carefully selected directors since we are confirming a trade that already took place and there is master agreement already signed. 3.   There are certain very routine agreements like pipeline right-of-way agreements that are ok for carefully selected directors to sign. 4.   Confidentiality agreements should be signed by a vp. 5.   Any authorization for a director to sign should expire within not more than one year and revoke all prior authorizations.  Please give me your comments.  Mark 
+ Keep me posted on this matter.  Mark 
+ Terry, thanks for your reply.  As our thinking starts to mature, I would like to talk to you about what we see in the Japanese markets re energy.  Perhaps, we can talk in New York in November at the ISDA board meeting.  Take care. Mark 
+ Bruce:  I am tied up for lunch, but let's get together during the day on Monday or Tuesday.   Mark    Bruce Lundstrom@ENRON_DEVELOPMENT 10/20/2000 09:25 AM 
+ It looks good to me.  How do we keep up with changes in a counterparty's business?  What if it no longer physically handles a particular commodity? Mark    Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 10/17/2000 06:21 PM 
+ Thanks.   Mark    Cynthia Sandherr@ENRON 10/20/2000 05:14 PM 
+ I will be happy to help if I can.  What is the timing?   Mark    "Fruge, Ernest D." <EDFRUGE@txccc.org> 10/20/2000 03:31 PM 
+ Thanks.  Mark    "Hibbert, Ann (CPS)" <Ann_hibbert@itc.co.harris.tx.us> 10/23/2000 12:35 PM 
+ I had a brief conversation with Vicki about splitting the costs 50/50 on the legal side to be consistent with the business arrangement.  She asked to use the European operation as  a model.  At some point, Peter you should just give Vicki a call and talk it through.  Mark    Peter Keohane 10/23/2000 01:02 PM 
+ Please delete me from the list.  Mark    Jaroslaw Ferenc 10/23/2000 04:50 AM 
+ Could you please respond for me.   Mark 
+ Is your new address working? 
+ I am ok with it so long as you don't spend much time at it.  If there is a material time commitment or the company is competing head to head with Enron, then it would be a problem.  Mark    Randal Maffett 10/16/2000 02:10 PM 
+ It looks good.  I am in the process of confirming.  Mark    Richard Grove <RGROVE@isda.org> 10/04/2000 10:23 AM 
+ Dave and John:  I am rethinking the legal reports.  I am preparing a monthly trading and transactional summary, a litigation report and the TOP TEN legal risk report.  To me the last two are the most important.  On a conceptual basis, is that what you need or want to see?  Mark 
+ Mike and Jeff:  I am rethinking the legal reports.  Alan and I am preparing a monthly trading and transactional summary, a litigation report and the TOP TEN legal risk report.  To me the last two are the most important.  On a conceptual basis, is that what you need or want to see?  Mark 
+ Please start working on a top ten legal risks list.  I want to include that list for each of your companies (EGM, EIM and ENW) in the monthly report. This list should be in bullet format.  If you have any questions, please give me a call.  Mark 
+ Per our conversation.   Mark 
+ Please delete me from your e-mail list.  Mark    David Maxwell 10/25/2000 07:58 AM 
+ Please delete me from your e-mail list.  Mark 
+ Not yet, but I am told they plan to fund the additional 500,000.  Mark    James Grace@ENRON 10/24/2000 10:29 PM 
+ Please see if you and/or AGC's in your respective groups can make time to participate.  I have always found it to be a very rewarding experience.  Let me know.   Mark 
+ It was part of ECT, but it was sold.   Mark 
+ The volume and complexity of our legal work has increased dramatically over the past few years.  I think this environment requires additional time to be devoted to legal planning and review in order to provide the best possible service to our clients.  Within the next month, I have asked Janette to schedule a Quarterly Legal Review for each group listed on our new organizational chart .  I  would envision that we would focus on the following:  review of the current monthly legal report and significant legal issues review of the top ten legal risks form contracts and other documentation projects legal budget legal resources, inside and outside performance metrics  In addition, I am proposing that any energy trading contract for a term longer than one year by initialled by an AGC or member of the OGC.  Let me know what you think about that.  Mark Haedicke 
+ Why wouldn't we use the EEI form in Ontario?  The markets will be integrated, at least in part, into the US.  We could have an annex for Ontario.  We will be using the EEI form right across the border in the US.  Let 's chat about this. Regards, Mark    Peter Keohane 10/25/2000 08:58 AM 
+ Effective today, there is a new legal review procedure for physical power contracts that are individually negotiated, with a term longer than one year.  Please notify me (Janette will maintain a list of contracts, counterparties and status) when drafting starts on such power contracts and provide me with a draft with sufficient time to make comments prior to closing.  My objective is to insure a consistent approach on these power contracts.  Thanks for your cooperation in this matter.  Please forward this memo on to the lawyers on your team.  Mark Haedicke 
+ YES!    "Swanstrom, Bill" <BSwanstrom@lockeliddell.com> 10/26/2000 01:55 PM 
+ Alan, I like your suggestions.  Please forward your e-mail to the rest of the ogc to facilitate discussion.  I would like to finalize this policy next week.  Mark    Alan Aronowitz 10/26/2000 01:42 PM 
+ I want to have a pre-telephone conference with JoAnn on what we are going to present.   Let's spend one half hour.  Mark 
+ Please add to the list as number three.    Mark 
+ Sounds good.   Mark 
+ Your memo was well done.  Mark 
+ Keep this as a top priority!  Thanks.    Mark    Mark Greenberg@ENRON 10/26/2000 10:22 AM 
+ Alan, please confirm that you have told Mike that it is required that Legal be consulted on such a waiver.  Mark 
+ ISDA has confirmed January 18 as the date for the Board meeting in London. 
+ fyi 
+ ok    Elizabeth Sager 10/30/2000 12:02 PM 
+ I will talk to Dave about this and get back to you.  Mark    Alan Aronowitz 10/28/2000 09:31 AM 
+ I will see you for dinner.  Mark   I assume we are talking Nit Noi off of Kirby.  Mark    "Swanstrom, Bill" <BSwanstrom@lockeliddell.com> Sent by: "Ingram, Kay" <KIngram@lockeliddell.com> 10/31/2000 10:08 AM Please respond to "Swanstrom, Bill" 
+ For your review.  Mark 
+ I am ok with it.  Mark    Michael A Robison 10/31/2000 02:20 PM 
+ Congrats on a job well done and a successful result.    Peter Keohane 11/01/2000 01:59 PM 
+ Any particular legal issues on these deals?  Mark 
+ fyi 
+ This is great news!  Let's make the most of this opportunity.  Thanks,   Mark 
+ Great job!  The english language will dominate the energy world!   Mark 
+ Please handle.  4 breakout rooms is a safe number.  Mark 
+ I appreciate the extra work.  Thanks.   Mark    Greg Johnston 11/02/2000 04:43 PM 
+ Travis McCullough, Richard Sanders and Michelle Cash.  I am still thinking about a couple more.  I probably need a few weeks to finalize.  Thanks.  Mark    Rob Walls@ENRON 11/02/2000 03:30 PM 
+ Thanks for the heads up.  Mark    Steven J Kean@ENRON 11/01/2000 03:43 PM 
+ Elizabeth and Christian:  Please brief me on what impact you believe the FERC proposed order could have on our contracts.  Mark 
+ I was not aware of this.  I will investigate.  Thanks.    Rick Buy 11/01/2000 01:13 PM 
+ We want the letter on Doyle and New Albany ASAP.  Is there any reason we would not do the joint defense agreement.  Mark    "Al Kimball" <akimball@bracepatt.com> 10/27/2000 02:08 PM 
+ These look fine.  Have them printed off for me to sign.  Mark 
+ I think this is a detrimental reliance case or fraud.  I want to be aggressive on this.  Richard, please let me know what theory is best.  Do we have counsel for Washington?  Mark    Christian Yoder 10/27/2000 12:15 PM 
+ Thanks.   Mark    Jordan Mintz 10/27/2000 11:44 AM 
+ I think it is a good experience.  Thanks.  Mark    Travis McCullough 10/25/2000 03:06 PM 
+ Mark: for your info.  Mark Haedicke 
+ Peter:  I asked Mark T to give you a call.  Legal questions on the financial confirms should be handled in Canada as the first option and secondly go to Houston. Please talk it through with Mark T to make sure that all works.  Should you and Mark T talk it through with the confirm desk in Canada to make sure it is clear?  Regards,  Mark Haedicke    Sharon Crawford 11/06/2000 10:17 AM 
+ No 
+ Thanks for the offer!  I think I am all set.  Mark    SKramer@milbank.com 11/06/2000 09:43 AM 
+ Please see comments below.  Mark 
+ The top ten legal risk report for EGM is new.  It should help focus attention on the most significant legal risks.  Mark    Jeffrey A Shankman 10/23/2000 05:32 PM 
+ Fyi.  Does this impact on us?   Mark 
+ Richard, please review and comment asap.  Mark 
+ Dave:  I have prepared a first draft of a letter for your review.   Let me know if you want to make changes.  Regards,  Mark 
+ Elyse:  I like the first one a lot.  Could we do it for this Christmas?  I would hate to wait a whole year.  I also think the last one is a good idea.  Let me know what I can do to help.  Mark    Elyse Kalmans@ENRON 11/07/2000 04:10 PM 
+ I think you pose an interesting legal issue.  I believe there is caselaw on this in the states.  We have a variation on this in some agreements in that if exposure exceeds x, then collateral must be posted.  I will be interested in the responses you get.  Regards,  Mark    Peter Keohane Sent by: Sharon Crawford 11/07/2000 04:17 PM 
+ Pursuant to our discussions, attached is the Top Legal Risks report for ENA. 
+ Janette 
+ I am glad you enjoyed the game!  Please coordinate with Janette.  Mark    John Viverito@ENRON 11/08/2000 09:11 AM 
+ Phillippe:  Please convey to your people how important it is that they=20 monitor compliance with this policy and let me know about any violations. = =20 Mark 
+ It looks fine.  Mark    Michelle Cash Sent by: Twanda Sweet 11/08/2000 02:58 PM 
+ FYI 
+ See if you can fit her in.  Mark 
+ I am still working on a Spanish speaking trading lawyer.  One should be available by December 15.    Mark    Jaime Williams@ENRON 11/07/2000 06:32 PM 
+ I think we need to watch this.  Mark    Alan Aronowitz 11/09/2000 09:10 AM 
+ Jon:  Thanks!  I will be in London for the ISDA meeting in mid-January.  See you then!  Regards,  Mark    Jon Chapman 11/09/2000 03:18 AM 
+ Thanks Gareth!  Hope things are going well.  Mark 
+ Thanks Bob!   Mark    Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 11/07/2000 11:29 AM 
+ The attached report summarizes current significant legal activities of EWS Legal as of October 15, 2000.  This report does not attempt to list all transactions or include reference to on-going maintenance of completed transactions.  Please let me know if you have any questions. 
+ Many of you have received requests for feedback through the Performance Evaluation Program ("PEP") system.  This feedback is used by the Performance Review Committee in conducting its evaluations and also is used in preparing the written performance reviews.  Please take the time to complete the forms and provide candid, accurate feedback when it is requested.  The deadline for completing evaluation forms is November 17th.   Mark Haedicke and Michelle Cash 
+ Please register me for the flu vaccine.  My cost center is 105655 and my company number is 413.  My extension is 36544.  Thank you. 
+ Jordan:  Travis is going to give you a call about keeping up to speed on some of the year end deals.  Would it make sense for Travis or someone else to attend any of your staff meetings?  Or maybe you could attend ours or both. Let me know what you think.  Mark    Jordan Mintz Sent by: Darlene C Forsyth 11/15/2000 07:27 PM 
+ Paul:=20  Is this resolved?  Let me know if we need to discuss further.  Mark 
+ Sheila Tweed or Dale Rasmussen.  Mark 
+ Mark:  I think the "Welcome" is great and have no changes.  Janette is sending you the org chart I want to use. Thanks!  Mark Haedicke    Mark Greenberg@ENRON 11/21/2000 08:03 AM 
+ Thanks Bob.   Mark    Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 11/20/2000 06:13 PM 
+ Thanks Jordan.  Mark    Jordan Mintz 11/20/2000 02:55 PM 
+ Please print out and put in my QLR binder.  Mark 
+ no problema    Jeffrey T Hodge 11/20/2000 09:46 AM 
+ Please review and give me your brief thoughts on this.  Mark 
+ Thanks Bruce.  Have a great Thanksgiving!  Mark    Bruce Lundstrom@ENRON_DEVELOPMENT Sent by: Wendi Hoelscher@ENRON_DEVELOPMENT 11/21/2000 12:49 PM 
+ Please see the review below, which I agree with.  Mark Greenberg is my elaw= =20 expert.  Mark 
+ Thanks for the chart.  Let's get together next Monday and talk through.  Regards,  Mark    Bruce Lundstrom@ENRON_DEVELOPMENT Sent by: Wendi Hoelscher@ENRON_DEVELOPMENT 11/21/2000 03:43 PM 
+ John:  I would like to go over the work your firm is doing for us.  I will ask my assistant to give you a call and set up a meeting.  Happy Thanksgiving!  Mark    "Keffer, John" <JKeffer@KSLAW.com> 11/22/2000 11:09 AM 
+ Let's try again in two weeks.  Mark 
+ Peter:  I think your collective e-mails constitute the legal risk memo.  What do you think the legal risk rating ought to be?  Regards,  Mark    Peter Keohane 11/22/2000 10:28 AM 
+ FYI 
+ Please review this memo and leave me a voice mail on the status.  Are we making changes suggested by our Mexican lawyers?  Mark 
+ Travis, please look into this per my voice mail and get back to both me and Rick.  Mark 
+ I am very interested in Steve and think we could use him in addition to Shari.  The only problem is that I agreed that I would not try to recruit him so the firm would agree to let us second him.  We just need to proceed slowly with him and hopefully it will work out to our benefit.  Regards,  Mark    Tim Belden 11/17/2000 12:05 PM 
+ Please respond back with a date.  Thanks,  Mark 
+ I approve the request for a CPN for Al Larsen. 
+ Yes, go ahead and remove it.  Mark    Tim Belden 11/22/2000 12:50 PM 
+ Jeff, will you coordinate with Peter for the legal PRC in getting all the info on the Cd lawyers so you and I can represent them at the PRC. 
+ So far, I think EWS will be an unincorporated business unit.   Mark    Robert Bruce@ENRON Sent by: Robert Bruce@ENRON 11/27/2000 12:00 PM 
+ Making progress in energy!    Mark 
+ The  person I had in mind was Fransisco Pinto-Lite.  He is unwinding from his old obligations.  I will work on an update.   Mark    Barbara N Gray 11/27/2000 04:54 PM 
+ John:  That is fine with me.  See you then.   Mark    "Keffer, John" <JKeffer@KSLAW.com> 11/27/2000 03:14 PM 
+ I need your list of accomplishments (five to ten items) for calendar year 2000 by the close of business next Tuesday, December 5.  Thank you. 
+ At the last minute I could not go either.  Hope things are going well.  Mark    "Mogel, William" <WMogel@ssd.com> 11/27/2000 02:06 PM 
+ Yes, renew my subscription.      Stephanie E Taylor 11/29/2000 01:19 PM 
+ Randy:  You make some great points.  We need to sit down and talk about this further.  An org memo is going out today, but it does not address South America.  I will give you a call.  Regards,  Mark 
+ What is the status of our discussions with Carlos?   Mark 
+ Thanks.  It was very helpful.  Mark    John Novak@ENRON 12/04/2000 11:49 AM 
+ Attached is the revised org chart. 
+ Are there year-end deals?  If yes, how will they be covered?  Let me know. Thanks.   Mark    John Novak@ENRON 12/06/2000 11:41 AM 
+ Martin:  Thanks for the update!  It looks like great progress in being made.  Mark 
+ Janice:  Would you please follow up on this with Bill McCoy.  Mark 
+ fyi 
+ The Legal Committee meeting normally held every other Monday in conjunction with the OGC meeting will not be held for approximately two months.  The OGC meetings will continue every Monday morning as usual beginning 8:30 am Central time.  You will be notified when the Legal Committee meetings resume.  Thank you. 
+ I am on the Board of BEAR and sponsoring this effort.  Please let Janette= =20 Elbertson know by e-mail if you are interested in donating your time to hel= p=20 staff the table in the lobby on Monday, December 18, from 10 a.m. to 2:00 p= .m.  Thank you. =20 Help CPS Kids! Enron, KRBE and Sun and Ski Sports are collecting donations for Children=01= ,s=20 Protective Services Be A Resource (BEAR) Program to purchase gifts this=20 holiday season. Make your donation and receive a $10-off coupon for Sun and= =20 Ski Sports.  Donations will be accepted in the Enron Building Lobby - Tuesday, December= =20 12, Thursday, December 14 and Monday, December 18 from 10 a.m. to 2 p.m. or= =20 in EB407.  KRBE Morning Show LIVE in Antioch Park Come out and show your support for the CPS BEAR collection Monday, December= =20 18 when the 104 KRBE morning show=01,s Streets of America comes to Antioch = Park.=20 See you there from 6 a.m. to 9 a.m. 
+ Is it really necessary to coordinate everything through ENW?  I am not sure people will do that?  I think ENW should be informed but not be in control of the registration.  Have the ENW people requested that they be in charge of this process?  Will they care if we change it?    Leslie Hansen 12/12/2000 02:14 PM 
+ Let me know what the outcome of the meeting is.  Thanks.  Mark    Peter Keohane 12/12/2000 12:10 PM 
+ I think it is great!  When is the best time for me to make my contribution? On the radio show or before?    Laura Schwartz@ENRON 12/11/2000 04:07 PM 
+ I appreciate your support.  Sounds like progress is being made on the deal.= =20 Thanks for all the hard work!  Mark 
+ Please schedule a meeting for Dan Fournier and David Jackson with Jim Derrick and me in Houston over the next couple of months.  We will probably first meet in Jim's office and then go to lunch.  Mark 
+ Jane:  ISDA is planning an energy seminar in Tokyo in mid-May.  We have heard there may be an energy seminar in March or April in Tokyo.  Have you heard of the earlier seminar?  We are trying to decide whether it makes sense to go forward on the May seminar.  Could you look into this and talk to the traders.  Thanks for your help.  Regards,  Mark 
+ Today, I talked to the GC of both Southern and Duke.  Each GC said they were not really up to speed on the issues.  I took the opportunity to walk them through the Nerc letter and the action taken at the Serc board meeting.  They each attempted to argue our fight was really with TVA.  Mark 
+ Looks good to me.  Mark    Rob Walls@ENRON 12/07/2000 01:50 PM 
+ no problema    Jeffrey T Hodge 12/08/2000 04:00 PM 
+ fyi 
+ Eric:  I have talked to Alan Aronowitz about this as well.  You need more resources immediately from inside.  We will also have to recruit outside to get enough resources as the business grows.  Regards,  Mark    Eric Gonzales 12/06/2000 04:45 AM 
+ It sounds premature at this time for ISDA to put on an energy seminar in Japan.  Do you agree?   Mark    Jane McBride@ENRON 12/13/2000 02:26 AM 
+ I am hearing that it may be premature to do an ISDA energy conference in Tokyo because almost all the products being discussed so far are physical. What do you think?  Mark 
+ Here is the memo I mentioned in our meeting today.  Let me know if there are other items we should put on the list.  Thanks.   Mark 
+ The attached report summarizes current significant legal activities of EWS Legal as of November 15, 2000.  This report does not attempt to list all transactions or include reference to on-going maintenance of completed transactions.  Please let me know if you have any questions. 
+ Jim:  The draft memo on power is attached.  Lots more work to do.  Let me know if you want to discuss further.  Mark 
+ I do not think so.  I think he will be at Enron until he is 65.   Mark    Jane McBride@ENRON 12/14/2000 04:42 AM 
+ Kristin: Kevin is very concerned with this charge.  Why is litigation now being billed up front?  Why is there a 50% increase in corporate legal?  Why is there a 100% increase in corporate secretary?  Why are we billed for the library when we use primarily electronic sources?  Could you please work on the answers to these questions and get back to me.  Mark 
+ John:  I have not seen the legal opinion yet from Brazilian counsel [Dr. Pinto] on our dollar indexing issue.  Please forward to me so I can review the opinion and get final approval for the deal.  Regards,  Mark 
+ I would not want to move forward with either unless you are a "sponsor" and believe such tools would clearly add value immediately.   Mark    Mark Greenberg@ENRON 12/13/2000 11:10 PM 
+ fyi 
+ We are coming in on the 22, Friday and will be leaving on the 27.   Good luck on the job!  Look forward to seeing you soon.   Mark    LDLIPMAN@aol.com 12/13/2000 09:04 AM 
+ Bruce:  I think your suggestion makes sense.  An e-mail or voicemail on major developments as they occur would be helpful.  Thanks,   Mark    Bruce Lundstrom@ENRON_DEVELOPMENT 12/13/2000 06:01 AM 
+ ok 
+ Jim:  I am confused.  LeBeouf wanted to represent ENA and EES and Reliant never came up in the conversations.  We picked Brobeck and it was painful for LeBoeuf.  I think there must be some additional facts relative to New Power.  Regards,  Mark    James Derrick@ENRON 12/15/2000 06:01 PM 
+ Great job!    Mark    Chris Long@ENRON 12/16/2000 10:16 AM 
+ Please schedule.  Mark 
+ please schedule 
+ Thanks for the update.  Keep spending time getting advice from Barbara.  Mark 
+ I am confirming.  Mark 
+ Please review the attached hypos and give me comments.  How do I make 2 and 3 better?  What other hypos should I add?  Maybe one geared more toward Alberta?  Mark 
+ Peter:  I have attached my work in progress to give you an idea of what I am looking for.  Regards,  Mark 
+ As a follow up to our meeting with the traders last week about litigation risks,  I have drafted the attached hypos (so far) for discussion about legal risks in the changing landscape.  Let me know if you have any comments. 
+ My accomplishments for the year 2000 include the following:  1.    EEI Form Master Power Contract -- ENA Legal led the industry development of the first master power contract.  The form is rapidly becoming the industry standard for North America and in the process dramatically lowering costs and increasing liquidity.  In October, we put an EEI into place with PG&E with the result that Enron credit exposure is $50,000,000 less than under the prior contract.  2.    New Legal Risk Rating Methodology -- implemented a legal rating system which simplifies the review of legal risks and makes it much easier to determine whether or not we are being appropriately compensated for the legal risks.  3.    EWS Legal Website for Training -- website has gone live for training regarding all major EWS legal issues.  This website will reduce training costs and increase availability of training to all employees.  4.    Developing New Businesses -- integral part of developing and structuring Enron Online, bandwidth trading, equity trading, Clickpaper.com, insurance, pulp, coal, Japan and Australia.  5.     Litigation Settlements -- many disputes were settled favorably including Fort James, California Px, TVA and BPA.  6.    Deal Machine Never Stops -- projects having lots of complex legal issues cutting across multiple disciplines including MG Metals, Las Vegas Cogen II, Pastoria, sale of the Peakers, sale of HPL, Electrobolt, JV with Texaco (Bridgeline), posting agreements for Enron Online, East Coast Power, QF restructurings like Motown, Project Summer (sale of international assets) and on and on.  7.    Deregulation of Energy Trading -- ENA legal formed an energy coalition and worked through ISDA and our Washington office to pass legislation to significantly reduce CFTC oversight of ENA's trading business.  8.    Management -- built a deal-oriented team that understands the underlying businesses and is working to share the legal technology across Enron. 
+ Thanks so much for your help on the BEARing gifts program!  It is a great cause and your help will make Christmas a lot happier for a lot of kids who really have very difficult lives.  Most have never received anything new. Have a great holiday season!  Mark Haedicke 
+ Thanks.  Have a great Christmas!   Mark    Angela Davis@ENRON 12/20/2000 10:53 AM 
+ David:  My first choice would be Dec 29 and second, Jan 3.  Let me know, I will need to schedule the time.  Regards,  Mark    David Love-Dallas <DLove@russellreynolds.com> 12/20/2000 09:59 AM 
+ I would try talking to Jenny Rub. She can refer you to the right person. Mark    Gail Brownfeld@ENRON_DEVELOPMENT 12/20/2000 08:19 AM 
+ Yes, through Thursday.  Mark    Richard Lydecker@ENRON 12/19/2000 03:38 PM 
+ fyi 
+ Please do not send me these messages as I do not have time to read them. Mark 
+ Mark:  Should we get Cheryl Nelson to start getting up to speed on some of= =20 the transportation and shipping issues?  Let me know.  Mark Haedicke 
+ Please make the changes marked by Sager.   Mark 
+ I will plan on 10:00 am to noon in your Houston offices on Dec 29 unless I hear otherwise from you.  Thanks, Mark    David Love-Dallas <DLove@russellreynolds.com> 12/20/2000 03:31 PM 
+ For you to add the wire instructions which are in my out box.  Mark 
+ I don't know what subscription she is talking about.  Please handle.  Mark 
+ I am trying to change my schedule, but so far I have a conflict for the dinner in London.   Mark    Cynthia Richards <CRICHARDS@isda.org> 12/28/2000 11:40 AM 
+ Please talk to Frank and let me know how we should approach Coralina.  Have a happy new year!   Mark    Bruce Lundstrom@ENRON_DEVELOPMENT 12/29/2000 12:00 PM 
+ Please review and give me your comments on the attached proposal re adopting a standard from 1 to 10 on legal risk ratings.  I am most concerned that the proposal works for our international transactions.  Let me know.  I would like to roll this out sometime in January.  Regards,  Mark 
+ Rob, I am still waiting for the first run of the numbers for legal.  I will keep you posted.  Mark    Rob Milnthorp 01/03/2001 10:40 AM 
+ yes 
+ Please do not send me the reports anymore as I do not have time to read them.  Mark 
+ On the commodity side of our business, there is a long list of lawsuits on commodity prices in CA.  This may be a committee discussion item.  Mark    Richard Grove <RGROVE@isda.org> 01/02/2001 03:39 PM 
+ fyi 
+ I propose that we continue to alternate the Office of General Counsel ("OGC") and Legal Committee ("LC") meetings of Enron Wholesale Services on Monday mornings at 8:30 am, Houston time.  The OGC and the LC would have the following members:  OGC     LC Alan Aronowitz     OGC Mark Evans     Justin Boyd Barbara Gray     Michelle Cash Jeff Hodge     Steven Douglas Bruce Lundstrom    Peter Keohane Travis McCullough    John Novak Julia Murray     [Marcus Von Bock und Polach?] Elizabeth Sager     Dan Rogers Richard Sanders    Paul Simons Lance Schuler Mark Taylor Sheila Tweed Randy Young  Please give me your comments.  It is anticipated that we will continue to adjust the membership of both groups as the businesses continue to change.  I plan to address the policy committee in February. 
+ The intent is that the higher the rating, the higher the legal risk.  I believe the jurisdictional risk is a key factor in creating legal issues even if none exist at the time the deal is done.  Does that make sense?  Stuart should be on the LC.  Randy is the GC of South America.  Mark    Lance Schuler-Legal 01/04/2001 04:50 PM 
+ Thanks for your comments.  I think it would be a good idea to have Jon on as well.  I will add Jon and Marcus to the list.  Please let them know as appropriate.  Regards,  Mark Haedicke    Mark Evans 01/04/2001 01:45 PM 
+ Please review and give your thoughts to me and Randy.   Mark 
+ Why should we hold them harmless on environmental if they get their money out?  We would only want to provide an ENA indemnity if necessary.  I have asked Lisa to look at this.  Mark    Randal Maffett 01/04/2001 01:13 PM 
+ I think the cut is going to be that a person runs a group.  Mark    Alan Aronowitz 01/04/2001 12:18 PM 
+ I agree with your reasoning.  Mark    Christian Yoder 01/04/2001 03:37 PM 
+ Please stop sending the newsletter to me.  Mark 
+ Chris:  I would like to be kept up to date on who the potential candidates are.  We are planning on inviting Newsome to speak at our ISDA conference in March.  Thanks,  Mark    Chris Long@ENRON 01/08/2001 09:14 AM 
+ Thanks for the update.  Good luck in NY.   Mark    Bruce Lundstrom@ENRON_DEVELOPMENT 01/08/2001 08:56 AM 
+ There will be an OGC meeting this afternoon from 1:30 to 2:30 PM in EB38C2 regarding PRC matters.  Please plan to attend. 
+ There will be an OGC meeting this afternoon from 5:00-5:30 PM in EB38C2 regarding PRC matters.  Please plan to attend. 
+ What would you propose?  I am open to whatever makes sense.  Should we ask him to move to Sao Paulo?     Mark    Randy Young@ENRON 01/09/2001 06:07 AM 
+ Why wouldn't Dan see Johan's number?   Mark    Angela Ernest@EES 01/08/2001 08:44 AM 
+ Thanks for the update.  Sounds like things are coming together.  Mark    Bruce Lundstrom@ENRON_DEVELOPMENT 01/06/2001 10:09 AM 
+ Randy.  What do other multinationals operating in Brazil do?  JP Morgan or Citibank?   Mark    Randy Young@ENRON 01/10/2001 06:49 AM 
+ Mark:  Please handle.  Should Greenberg work on this?   Mark 
+ fyi 
+ I would like to sit in from 230 to 300.  Thanks.  Mark 
+ I appreciate you making the trip to Houston.  Mark    "DAN FOURNIER" <dan.fournier@blakes.com> 01/04/2001 09:22 AM 
+ I never heard of the company.  Mark    Mary Cunningham <MCUNNINGHAM@isda.org> 01/10/2001 04:43 PM 
+ In reviewing the contracts, so far I have the following questions:  1.     Have Oman LNG and ADgas taken the risk of non-performance by DPC and indirectly MSEB without any credit support?  The only security is the equity in DPC?  Are such contracts typically secured or done with a buyer with deep pockets?  How much value was put into DPC by the shareholders?  2.     Are there local public policy issues that could be addressed by local courts with respect to the LNG contracts?  Fraud?  Bribery?  Are there any local law issues with respect to performance or interpretation of the contracts?  Isn't take-or-pay meaningless without credit support?  3.     What are the arguments for DPC to terminate the contracts?  Only where the PPA is terminated?  Payments?  4.    Who negotiated the contracts?  Were there requests for credit support? From Enron?  Did Enron ever promise to indirectly "backstop" the contracts by its investment in Dabhol?  5.   What was the discussion regarding the "reduction in operational capability" language in the contracts?  What was the language meant to cover?  Do we need our counterparty's approval to investigate other markets?  6.   Is there any argument that DPC has already breached the contracts? Could our counterparties issue a press release claiming damages over the entire term of the contract? Confidentiality and press releases? 
+ In reviewing the contracts, so far I have the following questions:  1.     Have Oman LNG and ADgas taken the risk of non-performance by DPC and indirectly MSEB without any credit support?  The only security is the equity in DPC?  Are such contracts typically secured or done with a buyer with deep pockets?  How much value was put into DPC by the shareholders?  2.     Are there local public policy issues that could be addressed by local courts with respect to the LNG contracts?  Fraud?  Bribery?  Are there any local law issues with respect to performance or interpretation of the contracts?  Isn't take-or-pay meaningless without credit support?  3.     What are the arguments for DPC to terminate the contracts?  Only where the PPA is terminated?  Payments?  4.    Who negotiated the contracts?  Were there requests for credit support? From Enron?  Did Enron ever promise to indirectly "backstop" the contracts by its investment in Dabhol?  5.   What was the discussion regarding the "reduction in operational capability" language in the contracts?  What was the language meant to cover?  Do we need our counterparty's approval to investigate other markets?  6.    Is there any argument that DPC has already breached the contracts? Could our counterparties issue a press release claiming damages over the entire term of the contract? Confidentiality and press releases?  7.    What is the law on piercing the corporate veil for an Indian company like DPC?  Could this issue be considered separate from the contract and be litigated in India or Oman and thus outside the arbitration?  8.     What is the list of all documents that could impact on whether or not Enron has any exposure under the LNG contracts?  9.     Are there instances where the Dabhol project could fail and the LNG contracts would not novate to MSEB?  Why does it matter if the LNG contract obligations novate to MSEB if DPC has no money?  10.   Other potential claims against Enron if the LNG contracts are terminated or not performed? 
+ Please give Christian a call on this and make sure you are satisfied we not taking too great a risk.  Mark 
+ Please find attached my draft summary relative to the above contracts.  Let me know if you have any corrections.  Mark Haedicke 
+ I was convinced otherwise by Randy.    Janette Elbertson 01/16/2001 10:36 AM 
+ You are welcome.  Take care.  Mark    Peter Keohane 01/16/2001 10:34 AM 
+ Mark:  I am still coming to London, but for a very short time.  I would like to get together either in London on a future trip or in Houston.  Regards,  Mark Haedicke    Mark.Harding@CliffordChance.com 01/15/2001 08:39 AM 
+ Please coordinate with Jane on this.  Mark 
+ This is about a trip to Brazil.  She asked me to pay the $6000 in expenses. Do you see any rationale to pay for this?  Mark 
+ Jane:  I have asked Mark Taylor to coordinate with you on this matter.  Regards,  Mark    Jane McBride@ENRON 01/14/2001 06:55 PM 
+ Please send on the Cheryl Nelson.   Mark 
+  Thanks for the update.  Mark    Andrew Edison@ENRON 01/11/2001 05:07 PM 
+ Elizabeth:  Please review this confirm.  Mark 
+ Sami:  Thanks for the update.  Mark    Sami Arap@ENRON 01/17/2001 12:12 PM 
+ The attached report summarizes current significant legal activities of EWS Legal as of December 15, 2000.  This report does not attempt to list all transactions or include reference to on-going maintenance of completed transactions.  Please let me know if you have any questions. 
+ Dan:  I would like to understand your business strategy.  I am asking my assistant to work out a time.  Mark    Daniel Reck 01/29/2001 09:55 AM 
+ Elizabeth:  Are you ok with it?   Mark 
+ What is the status of your looking at the LNG contract issues?   Mark    Andrew Edison@ENRON 01/26/2001 05:14 PM 
+ Please set the meeting up with Alan, Dan and me.  Mark    Andrew Edison@ENRON 01/29/2001 01:38 PM 
+ Thanks for the heads up!  Mark 
+ Great job!  I don't have any changes

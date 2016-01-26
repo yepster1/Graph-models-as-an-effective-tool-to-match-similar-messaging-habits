@@ -5,6 +5,7 @@ import numpy as np
 def getdata():
 	try:
 		f = input("Please enter the directory name of the data sorrounded by \"\" ")
+		m.copyFolder("realunchanged",f)
 		return f,os.listdir(f)
 	except:
 		print "does not exist, please make sure that the data is either in your current working directory or enter the full location"
@@ -22,14 +23,7 @@ def character(testingdata,data,files):
 	myCharIndex = {}
 	originalMatrix = []
 	counter = 0
-	for content in data:
-		if counter % 10 == 0:
-			print counter/float(len(data))
-		counter+=1
-		originalMatrix.append([m.createCharacterMatrix(open(files+"/"+content,"r"),myCharIndex),content])
-	print "finished making original Matrices"
-	testingMatrix = []
-	testingMatrix.append([m.createCharacterMatrix(testingdata,myCharIndex),testingdata])
+	print "creating matrix's"
 	for content in data:
 		if counter % 10 == 0:
 			print counter/float(len(data))
@@ -44,6 +38,7 @@ def character(testingdata,data,files):
 	testingVectors.append([vec.real,testingMatrix[0][1]])
 	originalVectors = []
 	counter3 = 0
+	print "creating vectors"
 	for k in originalMatrix:
 		values,vectors = lin.eigs(k[0], k = 1)
 		vectors = vectors.transpose()
@@ -52,6 +47,7 @@ def character(testingdata,data,files):
 		if(counter3%10 == 0):
 			print counter3/float(len(originalMatrix))
 		counter3+=1
+	print "dotting"
 	things = []
 	for first in testingVectors:
 		filess = os.listdir(files)
@@ -67,7 +63,8 @@ def character(testingdata,data,files):
 		array.sort()
 		things.append(array[::-1])
 	print "Sorted from most likely to least"
-	print things
+	for k in things[0][:10:]:
+		print k
 
 
 def start():
