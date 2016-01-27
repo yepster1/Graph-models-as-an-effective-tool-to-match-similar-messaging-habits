@@ -280,12 +280,13 @@ def main(files,tester,placeholder,percentage):
   
     for k in originalMatrix:
         try:
-            values,vectors = lin.eigs(k[0], k = 1,sigma=1)
-            vectors = vectors.transpose()
-            vectors = vectors[0]
-            print counter3
-            originalVectors.append([vectors.real,k[1]])
-            counter3+=1
+	    if(counter3 != 63):
+           	 values,vectors = lin.eigs(k[0], k = 1,sigma=1)
+           	 vectors = vectors.transpose()
+           	 vectors = vectors[0]
+           	 print counter3
+           	 originalVectors.append([vectors.real,k[1]])
+           	 counter3+=1
         except:
             print k[1]
             counters.append(counter3)
@@ -379,7 +380,7 @@ def main(files,tester,placeholder,percentage):
 
 if __name__ == "__main__":
     #main("Enron_collection","testing","realunchanged",100.0)
-    percentages = [75.0,90.0,95.0]
+    percentages = [0,90.0,95.0]
     for r in percentages:
         print r
         main("Enron_collection","testing","realunchanged",r)
