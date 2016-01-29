@@ -43,6 +43,7 @@ def createCharacterMatrix(toRead,myCharIndex):
     arrayOfCoordinates = []
     for key, val in dictinaryOfValues.iteritems():
         arrayOfCoordinates.append([key[0],key[1],val])
+    print arrayOfCoordinates
     first  = []
     second = []
     value = []
