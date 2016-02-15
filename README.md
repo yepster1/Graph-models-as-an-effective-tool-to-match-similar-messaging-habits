@@ -1,5 +1,3 @@
 # Graph-models-as-an-effective-tool-to-match-similar-messaging-habits
 
-Program to see check who wrote something by using eigenvectors 
-
-The document can be accessed here [TODO ADD DOCUMENT URL]
+program that uses graph theory and eigenvector centrality in order to build a writing profile for people which is then used to detect if the person wrote a piece of text.
